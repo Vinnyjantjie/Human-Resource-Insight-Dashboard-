@@ -1,0 +1,1201 @@
+EmployeeID,FullName,Gender,Age,MaritalStatus,Education,Department,JobRole,HireDate,TerminationDate,EmploymentStatus,TerminationReason,YearsAtCompany,AnnualSalary,OverTime,DistanceFromHome_km,PerformanceRating,JobSatisfaction,WorkLifeBalance,RecruitmentSource,AbsentDays_LastYear,HireYear,HireMonth
+1,Jessica Johnson,Female,25,Divorced,Diploma,IT,Data Analyst,2018-07-03,2020-03-25,Terminated,Restructuring/Layoff,1.7,51143,Yes,16,3,4,1,University Fair,8,2018,7
+2,David Mahlangu,Male,32,Divorced,Diploma,Research & Development,Research Scientist,2017-01-18,,Active,,9.5,41463,No,12,2,3,3,University Fair,7,2017,1
+3,Patricia Ndlovu,Female,30,Single,Diploma,Sales,Account Manager,2018-06-21,2023-09-02,Terminated,Dismissal - Misconduct,5.2,76944,No,1,4,2,3,Employee Referral,8,2018,6
+4,Ryan Perez,Male,37,Single,Bachelor's,Sales,Sales Representative,2024-07-24,,Active,,1.9,59746,Yes,1,1,3,3,Recruitment Agency,8,2024,7
+5,Susan Thompson,Female,39,Single,Bachelor's,Marketing,Content Strategist,2025-01-18,2025-04-10,Terminated,Restructuring/Layoff,0.2,18714,No,1,4,4,2,Recruitment Agency,5,2025,1
+6,Barbara Ndlovu,Female,22,Divorced,High School,Research & Development,Research Director,2022-06-22,2023-09-18,Terminated,Restructuring/Layoff,1.2,62454,No,3,3,3,4,Employee Referral,9,2022,6
+7,Emily Garcia,Female,36,Divorced,Diploma,Marketing,Marketing Specialist,2020-04-05,,Active,,6.2,45474,No,19,2,3,4,Job Portal,9,2020,4
+8,Daniel White,Male,48,Divorced,Master's,Research & Development,Research Director,2023-11-14,,Active,,2.6,49713,No,1,2,3,4,LinkedIn,5,2023,11
+9,Nancy Zulu,Female,34,Divorced,Bachelor's,IT,Data Analyst,2021-03-08,,Active,,5.3,55300,No,3,4,4,2,Company Website,4,2021,3
+10,Bongani Anderson,Male,34,Single,Bachelor's,IT,Software Engineer,2018-07-27,2019-02-03,Terminated,Retirement,0.5,49923,No,33,2,4,4,Employee Referral,7,2018,7
+11,Naledi Lee,Female,51,Single,Diploma,Sales,Account Manager,2020-06-08,2025-09-29,Terminated,Resignation - Personal Reasons,5.3,62343,No,2,3,2,3,Company Website,6,2020,6
+12,Amahle Zulu,Female,43,Married,Bachelor's,Sales,Account Manager,2026-01-25,,Active,,0.4,26857,No,6,2,1,4,Employee Referral,10,2026,1
+13,Thomas Khumalo,Male,41,Divorced,Bachelor's,Human Resources,HR Business Partner,2025-08-28,2025-11-24,Terminated,Resignation - Personal Reasons,0.2,63416,Yes,18,3,1,2,Recruitment Agency,16,2025,8
+14,Elizabeth Harris,Female,52,Divorced,Diploma,Research & Development,Manufacturing Director,2021-12-07,,Active,,4.6,55787,Yes,9,2,3,3,LinkedIn,12,2021,12
+15,Jessica Zulu,Female,23,Single,Diploma,IT,IT Support Specialist,2017-04-01,,Active,,9.3,40863,No,3,4,3,4,Recruitment Agency,6,2017,4
+16,James Taylor,Male,34,Divorced,Master's,Operations,Operations Manager,2021-09-10,,Active,,4.8,59945,No,15,3,3,4,Job Portal,9,2021,9
+17,Lwazi Botha,Male,39,Divorced,Diploma,Sales,Sales Manager,2024-07-20,,Active,,1.9,54931,No,3,3,4,4,LinkedIn,11,2024,7
+18,Brian Dlamini,Male,35,Married,PhD,Sales,Sales Manager,2025-11-08,,Active,,0.6,37460,Yes,7,1,1,4,Employee Referral,13,2025,11
+19,Michael Thomas,Male,29,Single,Bachelor's,Marketing,Marketing Specialist,2016-12-16,,Active,,9.5,62793,Yes,1,3,3,3,University Fair,11,2016,12
+20,Thomas Rodriguez,Male,31,Single,Bachelor's,Finance,Accountant,2018-12-21,2025-01-19,Terminated,Dismissal - Misconduct,6.1,24843,Yes,26,4,4,3,University Fair,10,2018,12
+21,Margaret Martin,Female,29,Married,Master's,Research & Development,Research Director,2020-11-29,,Active,,5.6,30281,Yes,1,1,1,4,LinkedIn,17,2020,11
+22,Ashley Anderson,Female,20,Single,Bachelor's,Sales,Sales Executive,2022-08-06,2025-11-12,Terminated,Resignation - Personal Reasons,3.3,32274,No,4,3,3,1,LinkedIn,8,2022,8
+23,Michael Anderson,Male,37,Divorced,Bachelor's,Sales,Sales Executive,2025-08-22,,Active,,0.9,55651,No,4,3,4,3,Employee Referral,5,2025,8
+24,Kimberly Dlamini,Female,31,Divorced,Master's,Sales,Sales Representative,2024-02-10,,Active,,2.4,50033,No,1,4,2,2,University Fair,12,2024,2
+25,Sipho Thomas,Male,43,Divorced,High School,IT,Systems Administrator,2018-02-18,,Active,,8.4,61164,Yes,11,4,4,3,Recruitment Agency,14,2018,2
+26,Amanda Ramirez,Female,38,Divorced,Bachelor's,Research & Development,Research Scientist,2023-07-21,,Active,,2.9,45367,No,7,3,2,3,LinkedIn,12,2023,7
+27,Michael Sanchez,Male,29,Divorced,Diploma,IT,Software Engineer,2018-10-15,,Active,,7.7,51027,No,17,3,2,2,Recruitment Agency,13,2018,10
+28,Sarah Ramirez,Female,38,Divorced,Master's,Sales,Account Manager,2018-10-20,2019-10-23,Terminated,Dismissal - Performance,1.0,38195,No,9,2,1,4,LinkedIn,11,2018,10
+29,Michael Zulu,Male,30,Married,Bachelor's,Marketing,Marketing Specialist,2026-05-22,2026-07-21,Terminated,Resignation - Personal Reasons,0.2,65561,No,6,3,4,2,Employee Referral,3,2026,5
+30,Stephanie Brown,Female,38,Married,Diploma,Sales,Sales Executive,2020-05-18,,Active,,6.1,37471,No,26,3,2,4,Job Portal,5,2020,5
+31,Ryan Ndlovu,Male,56,Single,Diploma,Finance,Payroll Specialist,2017-09-26,,Active,,8.8,58133,No,7,3,4,1,LinkedIn,8,2017,9
+32,Sanele Zulu,Male,20,Married,High School,Sales,Sales Manager,2016-08-22,,Active,,9.9,58357,No,1,4,4,4,University Fair,6,2016,8
+33,Palesa Hernandez,Female,38,Divorced,Diploma,Sales,Sales Executive,2025-07-19,,Active,,0.9,29259,No,14,4,3,3,LinkedIn,12,2025,7
+34,Steven Sanchez,Male,23,Divorced,Bachelor's,Sales,Sales Representative,2022-06-29,,Active,,4.0,56232,No,3,2,4,3,LinkedIn,8,2022,6
+35,Jeffrey Mahlangu,Male,49,Divorced,Diploma,Finance,Finance Manager,2018-12-04,,Active,,7.6,64247,Yes,1,3,3,3,Job Portal,10,2018,12
+36,Ashley Taylor,Female,49,Single,Bachelor's,Research & Development,Research Director,2021-02-15,,Active,,5.4,50431,No,15,4,2,4,LinkedIn,10,2021,2
+37,Cynthia van der Merwe,Female,35,Divorced,Bachelor's,Operations,Operations Analyst,2016-10-27,,Active,,9.7,58806,No,2,2,2,2,Job Portal,6,2016,10
+38,Thomas Thompson,Male,31,Married,Diploma,Marketing,Marketing Manager,2020-02-22,,Active,,6.4,34231,No,8,2,2,1,University Fair,7,2020,2
+39,Donna van der Merwe,Female,23,Married,Master's,Operations,Operations Analyst,2023-06-28,,Active,,3.0,44527,No,9,1,4,3,Company Website,4,2023,6
+40,Richard Rodriguez,Male,29,Divorced,Diploma,Sales,Sales Executive,2024-04-28,2026-01-14,Terminated,Resignation - Personal Reasons,1.7,55052,No,5,3,3,3,Employee Referral,7,2024,4
+41,Carol Wilson,Female,21,Single,Bachelor's,IT,IT Support Specialist,2021-09-01,,Active,,4.8,51891,No,1,3,2,3,LinkedIn,11,2021,9
+42,Ryan Moore,Male,28,Married,Diploma,Sales,Sales Manager,2024-08-24,,Active,,1.8,46390,No,10,3,2,2,Employee Referral,9,2024,8
+43,Jacob Ndlovu,Male,23,Divorced,Master's,IT,Software Engineer,2017-04-03,2018-04-06,Terminated,Restructuring/Layoff,1.0,54244,Yes,2,2,2,2,LinkedIn,6,2017,4
+44,Melissa Mahlangu,Female,39,Married,High School,Human Resources,HR Analyst,2017-06-06,,Active,,9.1,51006,No,2,2,4,4,LinkedIn,7,2017,6
+45,Amanda Wilson,Female,38,Married,Master's,IT,Software Engineer,2019-12-19,,Active,,6.5,36635,No,1,3,3,1,University Fair,7,2019,12
+46,Charles Thomas,Male,29,Single,Bachelor's,Marketing,Marketing Manager,2025-11-19,,Active,,0.6,81987,No,21,4,4,2,Company Website,7,2025,11
+47,George Clark,Male,31,Divorced,Diploma,IT,Data Analyst,2018-12-28,,Active,,7.5,44511,No,8,3,3,4,LinkedIn,11,2018,12
+48,Jason Williams,Male,28,Married,Master's,Marketing,Marketing Manager,2018-03-28,,Active,,8.3,55944,No,3,2,4,3,Job Portal,7,2018,3
+49,Kevin Anderson,Male,40,Single,Bachelor's,Sales,Sales Representative,2020-06-20,,Active,,6.0,54804,No,1,4,2,3,Job Portal,14,2020,6
+50,Amanda Khumalo,Female,44,Married,Diploma,Research & Development,Research Director,2016-04-23,,Active,,10.2,67763,No,6,3,3,2,Employee Referral,9,2016,4
+51,Sanele Taylor,Male,36,Married,Bachelor's,Sales,Account Manager,2019-11-16,,Active,,6.6,61166,No,9,2,3,3,Recruitment Agency,13,2019,11
+52,Lerato Davis,Female,45,Divorced,Bachelor's,Research & Development,Laboratory Technician,2018-11-09,2019-07-08,Terminated,Restructuring/Layoff,0.7,36817,No,4,3,4,3,University Fair,6,2018,11
+53,Anthony White,Male,43,Single,Bachelor's,Research & Development,Research Director,2022-12-27,,Active,,3.5,45441,No,8,1,4,2,Company Website,7,2022,12
+54,Kevin Khumalo,Male,37,Married,Bachelor's,Research & Development,Manufacturing Director,2019-08-29,,Active,,6.8,48274,Yes,1,3,3,1,University Fair,13,2019,8
+55,Thomas Gonzalez,Male,20,Single,Bachelor's,Research & Development,Manufacturing Director,2023-08-06,,Active,,2.9,28710,Yes,1,4,4,3,University Fair,6,2023,8
+56,Naledi Martin,Female,29,Married,Diploma,Research & Development,Research Scientist,2019-05-29,,Active,,7.1,39755,Yes,1,3,2,3,University Fair,9,2019,5
+57,Michelle Robinson,Female,42,Divorced,Bachelor's,Research & Development,Laboratory Technician,2021-09-24,,Active,,4.8,55503,No,8,2,2,4,Employee Referral,7,2021,9
+58,Barbara Jackson,Female,20,Single,Master's,Human Resources,Recruiter,2017-01-17,,Active,,9.5,79070,No,3,3,3,3,Company Website,12,2017,1
+59,Donna Anderson,Female,55,Married,High School,IT,Data Analyst,2016-04-10,,Active,,10.2,63243,Yes,14,4,3,2,University Fair,8,2016,4
+60,William Robinson,Male,37,Married,Bachelor's,Research & Development,Laboratory Technician,2024-01-21,,Active,,2.4,32244,No,8,4,2,1,Recruitment Agency,15,2024,1
+61,Steven Martinez,Male,26,Single,Master's,Finance,Financial Analyst,2026-01-04,,Active,,0.5,53054,No,3,3,1,2,Recruitment Agency,15,2026,1
+62,Paul Lopez,Male,30,Single,Bachelor's,IT,Systems Administrator,2016-07-24,,Active,,9.9,31820,No,10,3,3,3,Recruitment Agency,7,2016,7
+63,Thomas Robinson,Male,20,Divorced,Master's,Finance,Finance Manager,2024-06-20,,Active,,2.0,61406,Yes,1,3,3,3,Company Website,10,2024,6
+64,Lwazi Ramirez,Male,41,Married,Diploma,Marketing,Brand Manager,2026-01-22,,Active,,0.4,59908,No,3,2,4,2,Recruitment Agency,11,2026,1
+65,Dorothy Thomas,Female,43,Married,Bachelor's,Marketing,Content Strategist,2024-08-02,2026-03-18,Terminated,Dismissal - Performance,1.6,48287,No,2,4,4,4,Recruitment Agency,7,2024,8
+66,Elizabeth Jackson,Female,37,Single,Master's,Sales,Sales Manager,2019-08-02,,Active,,6.9,43338,No,1,3,3,4,Employee Referral,7,2019,8
+67,Charles Anderson,Male,42,Married,Diploma,Research & Development,Laboratory Technician,2023-12-03,,Active,,2.6,47785,No,3,3,3,3,Recruitment Agency,10,2023,12
+68,Carol Zulu,Female,20,Married,Master's,Human Resources,HR Business Partner,2018-04-27,,Active,,8.2,33449,Yes,23,3,1,3,University Fair,14,2018,4
+69,Patricia Molefe,Female,37,Married,Diploma,Research & Development,Research Scientist,2019-12-11,,Active,,6.6,57666,No,2,2,2,2,Recruitment Agency,13,2019,12
+70,Zanele Zulu,Female,32,Married,Diploma,IT,Data Analyst,2021-06-22,,Active,,5.0,31396,No,1,4,2,2,Recruitment Agency,11,2021,6
+71,John Harris,Male,30,Married,Diploma,Research & Development,Manufacturing Director,2024-02-14,,Active,,2.4,41104,No,15,4,4,3,Employee Referral,6,2024,2
+72,Zanele Johnson,Female,31,Single,Bachelor's,Marketing,Marketing Specialist,2016-12-09,,Active,,9.6,56036,No,5,3,4,3,Recruitment Agency,14,2016,12
+73,Matthew Brown,Male,34,Married,Bachelor's,Sales,Sales Manager,2018-05-16,,Active,,8.1,53680,No,1,4,4,3,Recruitment Agency,3,2018,5
+74,Kenneth Clark,Male,42,Divorced,High School,Sales,Sales Executive,2021-04-10,,Active,,5.2,28906,No,1,3,3,4,LinkedIn,9,2021,4
+75,Timothy Anderson,Male,46,Single,Diploma,Finance,Financial Analyst,2024-06-16,2024-09-15,Terminated,Resignation - Personal Reasons,0.2,22312,No,29,4,4,2,University Fair,2,2024,6
+76,Karen Thomas,Female,50,Married,Master's,Sales,Sales Executive,2022-04-29,,Active,,4.2,47373,No,2,4,3,3,Company Website,9,2022,4
+77,Dorothy White,Female,34,Married,Master's,Sales,Sales Executive,2024-09-20,,Active,,1.8,55939,No,2,4,3,4,LinkedIn,6,2024,9
+78,Sanele Johnson,Male,38,Single,Master's,Operations,Supply Chain Analyst,2020-06-12,,Active,,6.1,46429,No,14,3,3,2,LinkedIn,6,2020,6
+79,Sanele Thomas,Male,23,Single,Bachelor's,Sales,Sales Manager,2025-07-14,,Active,,1.0,41058,Yes,6,3,4,3,University Fair,3,2025,7
+80,Robert Thompson,Male,21,Married,Bachelor's,Human Resources,Recruiter,2016-10-09,,Active,,9.7,64166,No,12,1,3,2,LinkedIn,7,2016,10
+81,Rebecca Dlamini,Female,28,Married,Master's,Sales,Sales Manager,2023-02-16,,Active,,3.4,48284,Yes,1,3,2,3,Company Website,14,2023,2
+82,Karen Ramirez,Female,48,Divorced,Bachelor's,Sales,Sales Manager,2022-11-27,2026-02-01,Terminated,Dismissal - Performance,3.2,61429,No,1,3,4,4,University Fair,10,2022,11
+83,Kenneth Lee,Male,30,Single,Master's,Marketing,Marketing Specialist,2019-02-16,,Active,,7.4,43661,Yes,29,3,2,4,Recruitment Agency,14,2019,2
+84,Musa van der Merwe,Male,27,Married,Bachelor's,Finance,Finance Manager,2016-04-27,,Active,,10.2,64459,No,8,2,4,1,Employee Referral,6,2016,4
+85,Nomvula Wilson,Female,21,Divorced,Diploma,Research & Development,Research Director,2019-10-26,,Active,,6.7,80386,No,16,4,3,2,Company Website,10,2019,10
+86,Casey Ndlovu,Non-Binary,38,Married,Diploma,Sales,Sales Representative,2016-12-16,,Active,,9.5,48227,Yes,16,3,3,3,Recruitment Agency,11,2016,12
+87,Amahle Thomas,Female,24,Single,Master's,IT,Systems Administrator,2021-01-09,,Active,,5.5,66812,Yes,28,3,2,1,Job Portal,8,2021,1
+88,Sandra Sanchez,Female,33,Married,Bachelor's,IT,IT Support Specialist,2023-06-12,,Active,,3.1,65985,No,9,2,2,1,University Fair,13,2023,6
+89,Kagiso Thompson,Male,39,Married,Bachelor's,Research & Development,Research Director,2019-12-12,,Active,,6.6,56730,No,1,2,2,1,Job Portal,2,2019,12
+90,Dorothy Anderson,Female,34,Divorced,Diploma,Sales,Sales Representative,2019-07-16,,Active,,7.0,57325,Yes,1,4,4,1,Company Website,9,2019,7
+91,Matthew Gonzalez,Male,41,Divorced,Bachelor's,Sales,Account Manager,2019-02-06,,Active,,7.4,35118,Yes,8,3,4,2,University Fair,13,2019,2
+92,Emily Miller,Female,29,Married,Bachelor's,Marketing,Content Strategist,2018-07-20,,Active,,8.0,55849,No,1,4,3,4,LinkedIn,14,2018,7
+93,Zanele Rodriguez,Female,24,Single,Diploma,Sales,Sales Executive,2022-03-16,,Active,,4.3,23783,No,4,2,3,2,Company Website,9,2022,3
+94,Nomvula Miller,Female,23,Married,Bachelor's,Marketing,Content Strategist,2021-04-06,,Active,,5.2,24479,No,7,3,4,3,Employee Referral,3,2021,4
+95,Michael Taylor,Male,33,Married,Master's,Operations,Supply Chain Analyst,2017-04-12,,Active,,9.2,58241,Yes,21,3,2,3,Recruitment Agency,10,2017,4
+96,Elizabeth Molefe,Female,37,Divorced,Diploma,Finance,Financial Analyst,2017-09-13,,Active,,8.8,72920,No,10,3,3,2,Job Portal,7,2017,9
+97,David Thomas,Male,48,Divorced,Bachelor's,Sales,Account Manager,2022-10-19,,Active,,3.7,46832,Yes,8,4,3,4,Employee Referral,15,2022,10
+98,Palesa Harris,Female,23,Married,Master's,Research & Development,Manufacturing Director,2019-05-02,,Active,,7.2,77003,No,3,2,4,2,Job Portal,7,2019,5
+99,Musa van der Merwe,Male,32,Divorced,Diploma,Sales,Sales Executive,2024-07-21,2025-04-19,Terminated,Restructuring/Layoff,0.7,52363,Yes,8,3,3,2,LinkedIn,9,2024,7
+100,Daniel Thomas,Male,28,Married,High School,Sales,Sales Executive,2017-10-03,,Active,,8.7,76546,No,9,4,2,2,Company Website,13,2017,10
+101,Thandiwe Jackson,Female,26,Married,Diploma,Sales,Sales Manager,2023-12-05,,Active,,2.6,36410,Yes,5,2,4,2,LinkedIn,12,2023,12
+102,Paul Taylor,Male,27,Single,Diploma,IT,Data Analyst,2020-10-07,,Active,,5.7,59001,Yes,4,3,3,3,Company Website,8,2020,10
+103,Karen Moore,Female,46,Married,Diploma,Marketing,Marketing Specialist,2016-09-01,,Active,,9.8,54965,No,1,3,2,4,University Fair,13,2016,9
+104,Naledi Jackson,Female,26,Married,Bachelor's,Research & Development,Manufacturing Director,2023-09-21,,Active,,2.8,33893,Yes,22,3,3,3,Job Portal,10,2023,9
+105,Lwazi Zulu,Male,35,Married,High School,Human Resources,HR Business Partner,2022-09-15,,Active,,3.8,60617,No,1,4,2,4,Company Website,9,2022,9
+106,Brian Botha,Male,41,Divorced,PhD,Sales,Sales Executive,2018-07-26,,Active,,7.9,60313,Yes,4,2,4,3,University Fair,12,2018,7
+107,Patricia Moore,Female,40,Married,Bachelor's,Finance,Accountant,2021-04-11,,Active,,5.2,49969,No,5,3,2,3,Job Portal,7,2021,4
+108,Matthew Mahlangu,Male,34,Married,Bachelor's,Research & Development,Manufacturing Director,2017-01-08,2022-06-16,Terminated,Retirement,5.4,71680,No,1,3,4,2,Company Website,3,2017,1
+109,Richard Hernandez,Male,36,Married,Bachelor's,Research & Development,Manufacturing Director,2019-03-26,,Active,,7.3,39909,No,7,3,3,3,University Fair,10,2019,3
+110,Jennifer Robinson,Female,32,Married,Diploma,Sales,Sales Manager,2019-08-17,,Active,,6.9,50292,No,1,3,2,1,University Fair,10,2019,8
+111,James Zulu,Male,46,Married,Bachelor's,Human Resources,HR Business Partner,2018-02-07,2024-01-30,Terminated,Retirement,6.0,47422,No,1,3,4,3,Company Website,10,2018,2
+112,Jacob Brown,Male,55,Divorced,Diploma,Sales,Sales Representative,2026-05-27,,Active,,0.1,35994,No,8,3,1,3,Recruitment Agency,8,2026,5
+113,Joseph Johnson,Male,33,Divorced,Bachelor's,Operations,Operations Manager,2023-12-17,2024-07-26,Terminated,Retirement,0.6,46830,No,1,2,1,4,Recruitment Agency,15,2023,12
+114,Barbara Anderson,Female,46,Divorced,Master's,Operations,Operations Analyst,2021-03-05,,Active,,5.3,39386,Yes,1,2,4,4,Employee Referral,4,2021,3
+115,Thabo Jackson,Male,23,Married,Master's,Human Resources,Recruiter,2020-08-28,,Active,,5.8,72160,Yes,7,3,3,3,Employee Referral,14,2020,8
+116,Skyler Ndlovu,Non-Binary,49,Divorced,Bachelor's,Sales,Sales Representative,2026-05-03,,Active,,0.2,72149,No,8,2,3,4,Employee Referral,8,2026,5
+117,William Moore,Male,23,Divorced,Master's,IT,Systems Administrator,2019-10-24,,Active,,6.7,64055,No,14,4,2,4,Job Portal,10,2019,10
+118,James Jackson,Male,41,Married,Bachelor's,IT,Systems Administrator,2025-09-14,2025-12-21,Terminated,Dismissal - Performance,0.3,62842,No,33,4,1,2,Job Portal,8,2025,9
+119,Bongani Zulu,Male,36,Divorced,Diploma,Research & Development,Research Director,2025-10-01,,Active,,0.7,23180,No,6,3,3,2,Employee Referral,7,2025,10
+120,Naledi Harris,Female,34,Married,Bachelor's,Sales,Account Manager,2016-06-27,,Active,,10.0,40242,Yes,6,3,3,2,Company Website,9,2016,6
+121,Jason Harris,Male,22,Divorced,Bachelor's,Operations,Operations Manager,2021-07-21,2021-12-03,Terminated,Resignation - Personal Reasons,0.4,28725,No,16,4,3,3,Job Portal,6,2021,7
+122,Richard Lewis,Male,46,Divorced,Bachelor's,Sales,Account Manager,2016-03-03,2024-06-08,Terminated,Resignation - Personal Reasons,8.3,43045,No,5,3,1,3,Employee Referral,13,2016,3
+123,William Nkosi,Male,45,Married,Bachelor's,IT,IT Support Specialist,2019-10-18,,Active,,6.7,59247,No,5,2,1,3,Company Website,15,2019,10
+124,David Perez,Male,20,Single,High School,Marketing,Brand Manager,2019-07-21,2025-03-09,Terminated,Dismissal - Misconduct,5.6,61494,No,4,2,2,3,Employee Referral,16,2019,7
+125,Emily Anderson,Female,46,Single,Bachelor's,IT,Systems Administrator,2017-02-07,2025-10-17,Terminated,Restructuring/Layoff,8.7,60691,No,14,3,3,3,Recruitment Agency,4,2017,2
+126,Daniel Martin,Male,37,Married,Master's,Marketing,Marketing Specialist,2019-08-21,,Active,,6.9,23993,No,2,3,4,4,Job Portal,5,2019,8
+127,Ronald Ramirez,Male,20,Single,Bachelor's,Sales,Account Manager,2022-05-07,,Active,,4.2,45946,No,1,3,2,4,Employee Referral,4,2022,5
+128,Lisa Garcia,Female,28,Married,Bachelor's,Finance,Payroll Specialist,2022-12-13,,Active,,3.5,35396,Yes,2,3,3,4,University Fair,2,2022,12
+129,Charles Anderson,Male,36,Single,Diploma,Human Resources,Recruiter,2021-02-25,,Active,,5.3,32274,No,18,1,4,4,Recruitment Agency,7,2021,2
+130,Joshua Zulu,Male,38,Married,PhD,Sales,Account Manager,2019-11-16,,Active,,6.6,29931,No,7,3,2,2,Company Website,7,2019,11
+131,Ryan Taylor,Male,45,Married,Diploma,Research & Development,Research Director,2018-03-26,2022-09-16,Terminated,Dismissal - Performance,4.5,88547,No,10,2,4,3,University Fair,7,2018,3
+132,Amanda Molefe,Female,41,Single,Bachelor's,Research & Development,Research Director,2016-03-30,2025-09-18,Terminated,Restructuring/Layoff,9.5,83462,No,13,3,1,4,University Fair,9,2016,3
+133,Linda Botha,Female,46,Divorced,Master's,IT,IT Support Specialist,2024-09-12,,Active,,1.8,34914,Yes,16,4,4,2,Job Portal,7,2024,9
+134,Paul Gonzalez,Male,38,Divorced,High School,Finance,Accountant,2023-01-17,,Active,,3.5,36523,No,11,4,2,3,Company Website,8,2023,1
+135,Robert Martin,Male,46,Single,Bachelor's,IT,Software Engineer,2022-07-01,,Active,,4.0,56251,No,6,2,4,4,LinkedIn,7,2022,7
+136,Joshua Lee,Male,27,Divorced,Diploma,IT,Data Analyst,2018-04-02,,Active,,8.2,57913,No,1,4,4,3,Job Portal,9,2018,4
+137,Kagiso Khumalo,Male,52,Married,Master's,Marketing,Marketing Manager,2018-11-18,,Active,,7.6,54439,Yes,10,2,4,4,Job Portal,11,2018,11
+138,George Davis,Male,33,Divorced,Master's,Human Resources,HR Business Partner,2017-07-30,2026-03-14,Terminated,Resignation - Personal Reasons,8.6,46377,No,4,3,4,3,Company Website,9,2017,7
+139,Stephanie Ndlovu,Female,32,Single,Diploma,Research & Development,Manufacturing Director,2016-02-27,,Active,,10.3,61103,Yes,8,3,3,3,Recruitment Agency,7,2016,2
+140,Melissa Taylor,Female,40,Married,Bachelor's,Finance,Finance Manager,2017-03-19,,Active,,9.3,55133,No,12,3,2,4,LinkedIn,12,2017,3
+141,Amahle Lee,Female,20,Married,High School,Marketing,Marketing Manager,2023-04-06,,Active,,3.2,18000,No,3,4,2,3,Company Website,16,2023,4
+142,Kevin Clark,Male,40,Married,Bachelor's,Sales,Sales Executive,2016-06-01,,Active,,10.1,49186,No,1,4,4,3,LinkedIn,6,2016,6
+143,Susan Thomas,Female,35,Divorced,Bachelor's,Marketing,Marketing Manager,2020-05-10,,Active,,6.1,45332,No,2,3,4,1,Company Website,7,2020,5
+144,Tumelo Clark,Male,36,Single,Bachelor's,Finance,Accountant,2025-12-05,,Active,,0.6,38473,No,5,2,4,3,Recruitment Agency,8,2025,12
+145,Rebecca Moore,Female,49,Single,Bachelor's,Sales,Sales Manager,2018-06-08,,Active,,8.1,46199,No,4,3,3,3,Job Portal,11,2018,6
+146,Susan White,Female,29,Single,Bachelor's,Human Resources,Recruiter,2016-09-05,,Active,,9.8,33039,Yes,1,3,4,3,LinkedIn,6,2016,9
+147,Cynthia Garcia,Female,33,Single,Master's,Finance,Financial Analyst,2016-07-26,,Active,,9.9,41637,No,5,3,4,3,Employee Referral,4,2016,7
+148,Musa Wilson,Male,53,Single,Diploma,Sales,Sales Representative,2022-07-29,,Active,,3.9,47210,Yes,2,3,3,3,Job Portal,12,2022,7
+149,Charles Botha,Male,37,Single,Bachelor's,Sales,Sales Representative,2017-06-16,,Active,,9.0,42978,Yes,3,3,3,2,LinkedIn,10,2017,6
+150,Patricia Rodriguez,Female,33,Single,Bachelor's,Sales,Sales Representative,2022-08-08,,Active,,3.9,38369,No,9,3,3,1,Job Portal,9,2022,8
+151,Linda Rodriguez,Female,20,Married,High School,IT,Software Engineer,2024-05-12,,Active,,2.1,36996,No,1,2,3,3,Job Portal,15,2024,5
+152,Lwazi Mahlangu,Male,47,Divorced,High School,Sales,Sales Representative,2022-11-24,,Active,,3.6,22942,No,3,2,3,2,University Fair,6,2022,11
+153,Donna Robinson,Female,20,Married,PhD,Finance,Financial Analyst,2016-09-06,,Active,,9.8,40751,No,3,2,4,3,Recruitment Agency,4,2016,9
+154,Richard Dlamini,Male,32,Single,Bachelor's,IT,Systems Administrator,2016-10-28,2017-11-22,Terminated,Retirement,1.1,44235,No,1,1,4,3,Employee Referral,10,2016,10
+155,Kimberly van der Merwe,Female,21,Divorced,PhD,Finance,Finance Manager,2020-04-09,,Active,,6.2,33058,Yes,6,3,4,4,Job Portal,5,2020,4
+156,Cynthia Khumalo,Female,36,Divorced,Bachelor's,Finance,Financial Analyst,2024-11-22,,Active,,1.6,53689,No,1,3,3,3,Company Website,9,2024,11
+157,Bongani Wilson,Male,38,Married,Bachelor's,Research & Development,Laboratory Technician,2020-08-21,,Active,,5.9,56735,No,1,3,2,4,Recruitment Agency,8,2020,8
+158,Jeffrey Miller,Male,34,Single,Diploma,Research & Development,Research Director,2023-06-17,,Active,,3.0,29811,No,15,3,3,2,Company Website,14,2023,6
+159,Sipho Jones,Male,46,Divorced,Bachelor's,Sales,Sales Executive,2017-01-16,,Active,,9.5,49533,Yes,17,3,3,3,Company Website,16,2017,1
+160,Ronald Rodriguez,Male,46,Married,Diploma,Human Resources,Recruiter,2023-07-07,,Active,,3.0,61612,Yes,2,3,4,2,Company Website,7,2023,7
+161,Ryan Brown,Male,40,Single,Bachelor's,Operations,Logistics Coordinator,2019-12-11,2021-04-08,Terminated,Dismissal - Misconduct,1.3,56774,No,11,3,4,4,Company Website,4,2019,12
+162,Thandiwe Anderson,Female,34,Married,Diploma,Marketing,Content Strategist,2025-06-24,2026-06-03,Terminated,Retirement,0.9,37493,No,23,2,4,3,University Fair,5,2025,6
+163,Sandra Ramirez,Female,21,Divorced,Master's,Marketing,Marketing Specialist,2022-10-30,,Active,,3.7,36519,Yes,13,4,3,4,Job Portal,9,2022,10
+164,Patricia Lopez,Female,36,Single,Bachelor's,Sales,Sales Manager,2026-05-02,,Active,,0.2,45507,No,8,2,4,3,Employee Referral,8,2026,5
+165,Charles Molefe,Male,25,Single,Bachelor's,Finance,Financial Analyst,2017-08-04,,Active,,8.9,53099,Yes,5,3,2,3,LinkedIn,10,2017,8
+166,Kagiso Wilson,Male,33,Married,Diploma,Research & Development,Manufacturing Director,2019-10-28,,Active,,6.7,52687,Yes,2,3,3,2,Company Website,9,2019,10
+167,Brian Molefe,Male,45,Divorced,Diploma,Finance,Financial Analyst,2017-09-29,,Active,,8.8,42084,No,19,3,4,2,LinkedIn,5,2017,9
+168,Barbara Moore,Female,44,Married,Bachelor's,Research & Development,Manufacturing Director,2021-06-12,,Active,,5.1,67621,No,24,3,2,2,Job Portal,13,2021,6
+169,Betty Khumalo,Female,39,Divorced,Diploma,Sales,Account Manager,2017-03-30,,Active,,9.3,50565,No,4,2,3,3,University Fair,9,2017,3
+170,Thabo Mokoena,Male,22,Single,High School,Finance,Financial Analyst,2018-06-22,2023-01-25,Terminated,Dismissal - Misconduct,4.6,60948,No,10,3,3,3,Job Portal,6,2018,6
+171,Mark Rodriguez,Male,42,Married,Bachelor's,IT,IT Support Specialist,2019-09-05,2021-03-09,Terminated,Resignation - Better Opportunity,1.5,38501,No,3,1,2,3,Employee Referral,10,2019,9
+172,Thomas Harris,Male,35,Divorced,Bachelor's,Human Resources,HR Manager,2021-08-11,,Active,,4.9,49145,No,5,3,3,4,Job Portal,7,2021,8
+173,Elizabeth Sanchez,Female,36,Single,High School,Marketing,Marketing Specialist,2020-11-21,,Active,,5.6,72715,No,1,3,3,4,Job Portal,8,2020,11
+174,Naledi Ramirez,Female,35,Single,Diploma,Finance,Payroll Specialist,2019-03-31,,Active,,7.3,26192,No,1,4,4,4,Job Portal,6,2019,3
+175,Nancy van der Merwe,Female,47,Single,Bachelor's,Human Resources,Recruiter,2016-12-26,,Active,,9.5,60965,Yes,13,3,3,3,Employee Referral,8,2016,12
+176,Ryan Mahlangu,Male,33,Divorced,Master's,Research & Development,Research Scientist,2020-06-09,,Active,,6.1,22344,No,1,2,1,3,Job Portal,12,2020,6
+177,Paul Perez,Male,21,Divorced,Bachelor's,IT,Software Engineer,2021-09-21,,Active,,4.8,51611,No,1,3,4,3,University Fair,4,2021,9
+178,Margaret Thompson,Female,32,Married,Diploma,Research & Development,Laboratory Technician,2018-08-25,,Active,,7.9,60148,Yes,24,4,4,4,Employee Referral,12,2018,8
+179,Taylor Botha,Non-Binary,30,Divorced,PhD,Sales,Sales Executive,2017-12-26,,Active,,8.5,59118,No,2,3,4,2,Recruitment Agency,4,2017,12
+180,Cynthia Molefe,Female,24,Divorced,Master's,IT,Systems Administrator,2023-08-21,,Active,,2.9,56387,No,10,2,3,1,Company Website,7,2023,8
+181,Brian Lee,Male,23,Married,Bachelor's,Sales,Sales Executive,2021-04-04,,Active,,5.2,25111,No,24,3,3,4,Job Portal,7,2021,4
+182,Sanele Brown,Male,32,Single,Bachelor's,Research & Development,Research Scientist,2019-06-25,,Active,,7.0,60894,No,4,3,3,4,LinkedIn,11,2019,6
+183,Melissa Jackson,Female,32,Divorced,Bachelor's,Sales,Sales Executive,2022-11-24,2026-05-23,Terminated,Dismissal - Misconduct,3.5,54458,Yes,22,3,3,4,University Fair,14,2022,11
+184,Robert Lewis,Male,42,Single,Diploma,Marketing,Marketing Manager,2019-08-09,2025-02-06,Terminated,Dismissal - Misconduct,5.5,67287,No,6,3,3,1,Recruitment Agency,2,2019,8
+185,Susan Perez,Female,29,Single,Bachelor's,Operations,Operations Analyst,2021-08-28,,Active,,4.8,49352,Yes,2,3,2,1,Employee Referral,9,2021,8
+186,Jacob Lewis,Male,33,Married,Bachelor's,Human Resources,HR Manager,2020-01-30,,Active,,6.4,67124,No,9,4,2,3,Recruitment Agency,15,2020,1
+187,Jamie Perez,Non-Binary,30,Married,Bachelor's,Finance,Financial Analyst,2024-11-06,,Active,,1.6,67615,No,1,3,4,2,LinkedIn,6,2024,11
+188,George Miller,Male,32,Divorced,Diploma,Human Resources,HR Analyst,2019-03-09,,Active,,7.3,54593,No,3,4,4,3,University Fair,10,2019,3
+189,Taylor Perez,Non-Binary,39,Divorced,Bachelor's,Sales,Sales Representative,2026-04-12,,Active,,0.2,56844,No,23,3,3,2,Company Website,5,2026,4
+190,Edward Rodriguez,Male,35,Divorced,Bachelor's,Finance,Financial Analyst,2019-06-22,,Active,,7.0,57421,No,13,3,4,1,Job Portal,9,2019,6
+191,Sarah Mokoena,Female,42,Married,Bachelor's,Sales,Account Manager,2021-09-13,,Active,,4.8,42959,No,2,3,3,4,Job Portal,5,2021,9
+192,Lisa Wilson,Female,47,Single,Diploma,Research & Development,Manufacturing Director,2018-02-25,,Active,,8.3,28913,No,4,2,4,2,Employee Referral,7,2018,2
+193,William Jackson,Male,32,Divorced,Master's,Marketing,Marketing Specialist,2021-09-10,,Active,,4.8,28949,Yes,2,3,3,4,University Fair,6,2021,9
+194,Robert Perez,Male,30,Single,Bachelor's,Marketing,Marketing Manager,2022-09-12,,Active,,3.8,73562,No,2,2,3,2,Employee Referral,7,2022,9
+195,Nancy Lewis,Female,51,Married,Bachelor's,Sales,Sales Manager,2023-08-02,,Active,,2.9,67426,Yes,1,4,2,3,University Fair,15,2023,8
+196,Emily Lewis,Female,41,Married,PhD,Sales,Sales Representative,2019-06-21,,Active,,7.0,27552,No,1,2,4,3,Employee Referral,6,2019,6
+197,Ronald Molefe,Male,33,Married,Diploma,Operations,Supply Chain Analyst,2024-08-17,,Active,,1.9,22166,No,14,2,4,4,University Fair,1,2024,8
+198,Palesa Clark,Female,38,Married,Bachelor's,Operations,Operations Manager,2024-12-25,,Active,,1.5,40657,No,2,3,4,1,LinkedIn,6,2024,12
+199,Sipho White,Male,28,Single,Master's,Human Resources,HR Business Partner,2023-12-23,,Active,,2.5,36641,Yes,1,3,4,3,Job Portal,13,2023,12
+200,Barbara Hernandez,Female,37,Single,Bachelor's,Sales,Sales Representative,2025-04-26,,Active,,1.2,57457,Yes,3,4,4,4,Recruitment Agency,10,2025,4
+201,Amanda Johnson,Female,29,Married,Bachelor's,Research & Development,Manufacturing Director,2021-08-18,,Active,,4.9,48981,No,1,3,3,3,LinkedIn,4,2021,8
+202,Ronald Anderson,Male,37,Married,Bachelor's,Sales,Sales Executive,2025-05-30,,Active,,1.1,48353,Yes,2,3,2,3,Employee Referral,13,2025,5
+203,Sarah Williams,Female,40,Divorced,Master's,Research & Development,Manufacturing Director,2023-10-22,,Active,,2.7,55368,No,24,3,3,3,Recruitment Agency,13,2023,10
+204,Laura van der Merwe,Female,27,Single,Diploma,Sales,Sales Executive,2016-03-18,,Active,,10.3,61261,Yes,1,2,1,3,University Fair,17,2016,3
+205,Palesa Ramirez,Female,29,Married,High School,Sales,Sales Manager,2018-08-31,2022-03-16,Terminated,Resignation - Better Opportunity,3.5,28922,Yes,5,3,2,1,Company Website,11,2018,8
+206,Cynthia Jones,Female,37,Divorced,Bachelor's,Sales,Account Manager,2022-09-10,,Active,,3.8,54715,No,4,3,4,3,University Fair,7,2022,9
+207,Naledi Thomas,Female,27,Married,High School,IT,IT Support Specialist,2020-10-24,,Active,,5.7,43438,Yes,3,4,2,3,Employee Referral,11,2020,10
+208,Musa Clark,Male,35,Single,PhD,Sales,Sales Executive,2021-11-14,,Active,,4.6,37205,No,9,3,1,3,University Fair,13,2021,11
+209,Tumelo Khumalo,Male,35,Single,Master's,IT,Software Engineer,2020-05-18,,Active,,6.1,68233,No,4,2,4,4,Company Website,6,2020,5
+210,Jason White,Male,43,Married,Master's,Sales,Sales Executive,2020-01-02,,Active,,6.5,18000,Yes,8,2,3,4,Employee Referral,11,2020,1
+211,Susan Mahlangu,Female,24,Divorced,Bachelor's,IT,IT Support Specialist,2017-06-30,2018-02-26,Terminated,Retirement,0.7,23496,No,4,3,4,3,Employee Referral,3,2017,6
+212,Cynthia Nkosi,Female,41,Married,Bachelor's,Finance,Accountant,2016-09-15,,Active,,9.8,62865,Yes,11,3,4,4,LinkedIn,13,2016,9
+213,Joshua Gonzalez,Male,52,Divorced,Master's,Sales,Sales Representative,2025-12-07,2026-02-15,Terminated,Retirement,0.2,61808,No,10,3,2,3,Recruitment Agency,8,2025,12
+214,Zanele Nkosi,Female,36,Married,Master's,Sales,Sales Representative,2019-03-17,2023-05-17,Terminated,Resignation - Better Opportunity,4.2,61894,Yes,9,3,4,3,Job Portal,10,2019,3
+215,Joseph White,Male,43,Married,Bachelor's,Research & Development,Manufacturing Director,2024-05-02,,Active,,2.2,28272,No,11,2,1,3,Job Portal,11,2024,5
+216,Lisa Dlamini,Female,33,Married,Master's,IT,IT Support Specialist,2026-05-13,,Active,,0.1,52453,Yes,8,3,4,4,LinkedIn,10,2026,5
+217,Ryan Garcia,Male,39,Single,Diploma,Research & Development,Laboratory Technician,2022-02-12,,Active,,4.4,53255,Yes,1,3,2,1,LinkedIn,11,2022,2
+218,Brian Jackson,Male,45,Married,Bachelor's,Research & Development,Manufacturing Director,2017-11-13,,Active,,8.6,32196,Yes,11,3,4,1,Recruitment Agency,17,2017,11
+219,Jennifer Thompson,Female,46,Single,Bachelor's,Finance,Payroll Specialist,2019-01-29,,Active,,7.4,59159,No,1,3,4,3,LinkedIn,8,2019,1
+220,Edward White,Male,25,Divorced,Diploma,Human Resources,HR Manager,2016-05-07,,Active,,10.2,58762,No,8,4,2,1,Company Website,13,2016,5
+221,Jacob Williams,Male,39,Married,Bachelor's,Sales,Sales Representative,2024-09-23,,Active,,1.8,53389,No,5,3,2,3,Recruitment Agency,11,2024,9
+222,Naledi Williams,Female,28,Single,Bachelor's,Finance,Payroll Specialist,2020-02-28,,Active,,6.3,47804,No,17,3,2,4,University Fair,15,2020,2
+223,Thomas Mokoena,Male,44,Single,Diploma,Research & Development,Research Director,2023-04-14,,Active,,3.2,38086,Yes,18,3,4,3,LinkedIn,8,2023,4
+224,Lisa Dlamini,Female,34,Divorced,Master's,Human Resources,HR Business Partner,2018-12-08,,Active,,7.6,27850,Yes,1,2,4,4,Recruitment Agency,8,2018,12
+225,Betty van der Merwe,Female,31,Single,Diploma,Research & Development,Manufacturing Director,2018-03-30,,Active,,8.3,54361,No,1,3,4,2,Recruitment Agency,5,2018,3
+226,Matthew Lewis,Male,25,Single,Bachelor's,Operations,Logistics Coordinator,2023-06-28,,Active,,3.0,47670,Yes,5,2,3,3,University Fair,14,2023,6
+227,Zanele Jackson,Female,51,Divorced,Bachelor's,Marketing,Marketing Manager,2023-12-25,,Active,,2.5,42181,No,12,4,3,3,Company Website,13,2023,12
+228,Lisa White,Female,31,Single,Master's,Human Resources,HR Business Partner,2018-04-03,,Active,,8.2,56734,No,1,3,3,3,Recruitment Agency,8,2018,4
+229,Patricia White,Female,39,Divorced,Master's,Human Resources,Recruiter,2021-03-29,,Active,,5.3,42784,No,28,3,2,3,Employee Referral,14,2021,3
+230,Barbara Jones,Female,46,Married,Bachelor's,Research & Development,Manufacturing Director,2021-11-23,,Active,,4.6,51591,Yes,8,2,2,4,University Fair,9,2021,11
+231,Elizabeth Rodriguez,Female,38,Divorced,Bachelor's,Operations,Operations Analyst,2021-01-17,,Active,,5.5,55028,No,1,3,3,2,Job Portal,7,2021,1
+232,Thomas Ndlovu,Male,30,Married,PhD,Finance,Accountant,2024-08-10,,Active,,1.9,53385,No,7,4,4,3,University Fair,3,2024,8
+233,Linda Davis,Female,57,Divorced,Diploma,Human Resources,Recruiter,2017-11-05,,Active,,8.7,55282,No,5,2,1,3,Employee Referral,11,2017,11
+234,Amanda Mokoena,Female,35,Divorced,Diploma,Marketing,Marketing Specialist,2018-10-23,,Active,,7.7,44796,Yes,10,2,3,2,Job Portal,7,2018,10
+235,Thomas Martin,Male,48,Divorced,Bachelor's,Finance,Financial Analyst,2021-08-20,2025-05-23,Terminated,Resignation - Personal Reasons,3.8,38815,No,2,3,3,4,Employee Referral,5,2021,8
+236,Nancy van der Merwe,Female,34,Single,Master's,IT,IT Support Specialist,2025-06-13,,Active,,1.0,44837,No,21,3,3,3,LinkedIn,8,2025,6
+237,David Williams,Male,43,Divorced,Diploma,Operations,Logistics Coordinator,2023-04-21,,Active,,3.2,69650,No,3,2,3,2,Recruitment Agency,7,2023,4
+238,Patricia Dlamini,Female,26,Married,PhD,Marketing,Content Strategist,2023-03-14,,Active,,3.3,52115,No,5,2,3,3,Employee Referral,7,2023,3
+239,Stephanie Martin,Female,27,Married,Bachelor's,Research & Development,Research Scientist,2017-10-09,,Active,,8.7,78170,No,18,4,3,3,Recruitment Agency,6,2017,10
+240,Mark Perez,Male,20,Divorced,Bachelor's,Finance,Finance Manager,2025-08-29,,Active,,0.8,49690,No,7,3,2,2,Job Portal,9,2025,8
+241,Edward Rodriguez,Male,53,Single,Diploma,IT,Software Engineer,2019-07-31,,Active,,6.9,62668,No,3,1,4,4,Job Portal,5,2019,7
+242,Laura Thomas,Female,49,Single,Bachelor's,Sales,Sales Executive,2019-04-03,2023-09-22,Terminated,Dismissal - Misconduct,4.5,57631,No,6,2,2,3,Job Portal,10,2019,4
+243,Naledi Lee,Female,37,Married,PhD,Sales,Sales Representative,2021-08-02,,Active,,4.9,44395,Yes,7,3,3,3,Recruitment Agency,10,2021,8
+244,Donna Dlamini,Female,30,Married,Diploma,Sales,Account Manager,2021-09-01,2024-05-24,Terminated,Resignation - Personal Reasons,2.7,62735,Yes,5,3,4,2,LinkedIn,11,2021,9
+245,Michael Jackson,Male,25,Single,Bachelor's,Human Resources,HR Analyst,2019-03-16,,Active,,7.3,46153,No,6,3,1,3,Recruitment Agency,7,2019,3
+246,Thomas Taylor,Male,30,Single,High School,IT,Systems Administrator,2020-02-07,,Active,,6.4,53483,No,4,4,4,3,University Fair,5,2020,2
+247,Bongani Gonzalez,Male,34,Married,Bachelor's,Research & Development,Research Director,2016-10-28,,Active,,9.7,42569,Yes,14,1,3,2,University Fair,15,2016,10
+248,Kimberly van der Merwe,Female,51,Married,PhD,IT,Software Engineer,2017-06-11,,Active,,9.1,52556,Yes,17,4,4,3,Job Portal,14,2017,6
+249,Carol Ndlovu,Female,35,Married,Bachelor's,Operations,Operations Manager,2018-03-26,,Active,,8.3,69924,No,6,3,1,2,University Fair,22,2018,3
+250,Robert Williams,Male,47,Married,Bachelor's,Sales,Sales Manager,2025-01-06,,Active,,1.5,28517,No,4,3,2,4,Employee Referral,12,2025,1
+251,Lerato Rodriguez,Female,24,Divorced,Bachelor's,Research & Development,Research Director,2017-10-27,,Active,,8.7,60545,No,4,2,2,3,Company Website,5,2017,10
+252,Donna Mahlangu,Female,25,Married,Bachelor's,Research & Development,Manufacturing Director,2023-12-12,,Active,,2.6,52245,Yes,14,4,2,2,LinkedIn,11,2023,12
+253,Melissa Perez,Female,20,Divorced,Master's,Finance,Payroll Specialist,2022-07-18,2024-06-07,Terminated,Restructuring/Layoff,1.9,66294,No,1,3,3,1,LinkedIn,10,2022,7
+254,Thandiwe Taylor,Female,39,Married,High School,Operations,Operations Manager,2024-02-02,,Active,,2.4,53970,Yes,13,4,1,3,Employee Referral,12,2024,2
+255,Palesa van der Merwe,Female,42,Divorced,High School,IT,Systems Administrator,2017-08-28,2025-06-15,Terminated,Resignation - Personal Reasons,7.8,39614,No,4,3,3,3,LinkedIn,7,2017,8
+256,Margaret Johnson,Female,32,Divorced,Diploma,Research & Development,Manufacturing Director,2017-09-12,2022-06-29,Terminated,Restructuring/Layoff,4.8,51210,No,9,2,3,2,University Fair,11,2017,9
+257,Sipho Brown,Male,48,Divorced,Bachelor's,IT,Data Analyst,2022-04-16,,Active,,4.2,31234,Yes,39,2,4,4,Recruitment Agency,12,2022,4
+258,Kagiso Harris,Male,44,Married,Master's,Research & Development,Laboratory Technician,2021-02-25,,Active,,5.3,57382,No,1,4,1,4,University Fair,9,2021,2
+259,Amanda Taylor,Female,44,Married,Diploma,Finance,Accountant,2018-10-06,,Active,,7.7,57928,No,7,3,4,3,Employee Referral,8,2018,10
+260,Donna Jackson,Female,38,Divorced,Bachelor's,IT,Systems Administrator,2019-07-22,,Active,,6.9,35701,Yes,10,3,3,4,Company Website,9,2019,7
+261,Kimberly Jackson,Female,34,Single,PhD,Sales,Account Manager,2026-01-17,2026-05-07,Terminated,Retirement,0.3,40414,No,4,3,2,2,Job Portal,11,2026,1
+262,Robert Jackson,Male,20,Divorced,Master's,Operations,Operations Analyst,2019-11-19,,Active,,6.6,66160,No,1,3,2,3,Job Portal,13,2019,11
+263,Sipho Wilson,Male,34,Divorced,Diploma,Sales,Sales Manager,2022-04-21,2026-05-15,Terminated,Retirement,4.1,52068,Yes,1,3,3,3,Company Website,9,2022,4
+264,Sanele Thomas,Male,28,Married,Diploma,Sales,Sales Representative,2023-02-26,2024-08-15,Terminated,Resignation - Better Opportunity,1.5,40529,No,20,3,2,3,Company Website,6,2023,2
+265,Sipho Miller,Male,24,Married,Bachelor's,IT,Data Analyst,2016-01-22,2022-05-24,Terminated,Resignation - Personal Reasons,6.3,38672,No,15,4,3,3,Recruitment Agency,6,2016,1
+266,Margaret Jackson,Female,35,Divorced,Master's,Research & Development,Research Scientist,2026-03-07,,Active,,0.3,49361,No,43,3,4,3,University Fair,7,2026,3
+267,Paul Zulu,Male,45,Married,Master's,IT,Software Engineer,2026-03-29,,Active,,0.3,61160,No,5,3,3,2,Employee Referral,6,2026,3
+268,Robert Sanchez,Male,35,Married,PhD,IT,Data Analyst,2024-05-25,,Active,,2.1,31945,No,1,2,2,3,LinkedIn,11,2024,5
+269,James Martin,Male,53,Married,PhD,Finance,Financial Analyst,2026-05-30,,Active,,0.1,44787,No,7,4,4,3,Recruitment Agency,9,2026,5
+270,Zanele Mokoena,Female,26,Married,Bachelor's,Human Resources,HR Manager,2025-07-17,,Active,,1.0,64250,No,11,3,3,4,Employee Referral,6,2025,7
+271,Joseph Perez,Male,40,Single,Diploma,Sales,Account Manager,2023-04-09,,Active,,3.2,32864,No,3,3,2,4,LinkedIn,9,2023,4
+272,George Jackson,Male,53,Married,Master's,Finance,Accountant,2017-12-19,2024-12-24,Terminated,Restructuring/Layoff,7.0,38910,No,22,3,4,2,University Fair,7,2017,12
+273,Brian Garcia,Male,55,Married,PhD,Research & Development,Research Scientist,2018-01-26,,Active,,8.4,69578,No,3,4,3,1,Job Portal,8,2018,1
+274,Steven Smith,Male,40,Married,Master's,Sales,Sales Representative,2021-01-03,,Active,,5.5,71736,Yes,5,3,4,4,Job Portal,7,2021,1
+275,Boitumelo Molefe,Female,59,Divorced,Diploma,Sales,Sales Manager,2023-10-08,,Active,,2.7,55136,No,5,4,4,1,LinkedIn,6,2023,10
+276,Cynthia Martin,Female,37,Married,Diploma,Sales,Sales Manager,2023-09-28,,Active,,2.8,38396,No,1,3,1,4,Job Portal,16,2023,9
+277,Sandra Anderson,Female,38,Divorced,Bachelor's,Operations,Supply Chain Analyst,2017-09-19,,Active,,8.8,72807,No,12,3,3,4,Job Portal,7,2017,9
+278,Jeffrey Ndlovu,Male,22,Divorced,Diploma,Marketing,Marketing Manager,2024-07-17,,Active,,2.0,48584,Yes,4,2,2,2,LinkedIn,11,2024,7
+279,Palesa Lewis,Female,20,Single,Master's,Human Resources,Recruiter,2016-11-15,,Active,,9.6,83474,No,1,3,1,1,LinkedIn,13,2016,11
+280,Bongani Khumalo,Male,40,Divorced,Bachelor's,Sales,Sales Representative,2017-11-04,2021-09-07,Terminated,Dismissal - Misconduct,3.8,49072,Yes,1,2,3,3,Employee Referral,14,2017,11
+281,Boitumelo Dlamini,Female,35,Married,Diploma,Sales,Account Manager,2025-01-25,2025-04-23,Terminated,Dismissal - Performance,0.2,43946,No,2,3,4,3,Recruitment Agency,5,2025,1
+282,Musa Brown,Male,25,Married,High School,Human Resources,Recruiter,2024-02-10,,Active,,2.4,73472,No,1,3,2,2,LinkedIn,18,2024,2
+283,Mark Mahlangu,Male,27,Divorced,Bachelor's,Sales,Account Manager,2019-11-12,,Active,,6.6,26316,Yes,1,3,4,3,LinkedIn,10,2019,11
+284,Elizabeth Nkosi,Female,38,Divorced,PhD,Sales,Account Manager,2018-01-07,2019-09-13,Terminated,Restructuring/Layoff,1.7,45444,No,3,3,3,3,Recruitment Agency,9,2018,1
+285,Riley Harris,Non-Binary,39,Divorced,High School,Research & Development,Manufacturing Director,2020-03-18,,Active,,6.3,37614,Yes,1,4,4,4,University Fair,10,2020,3
+286,Thomas Thompson,Male,23,Single,Diploma,Sales,Account Manager,2021-12-06,,Active,,4.6,53760,Yes,3,3,3,2,LinkedIn,13,2021,12
+287,John Martin,Male,42,Single,Bachelor's,Human Resources,HR Analyst,2021-12-18,,Active,,4.5,70598,Yes,2,3,3,3,Employee Referral,8,2021,12
+288,Gary Thompson,Male,44,Divorced,High School,Sales,Sales Representative,2025-10-24,2026-06-26,Terminated,Resignation - Better Opportunity,0.7,31936,No,22,2,3,2,Recruitment Agency,8,2025,10
+289,John Thomas,Male,47,Divorced,High School,Sales,Sales Executive,2022-08-29,,Active,,3.8,53915,No,19,3,2,2,Company Website,7,2022,8
+290,Linda Thomas,Female,55,Single,Diploma,IT,Systems Administrator,2020-12-02,,Active,,5.6,69450,No,1,2,2,3,LinkedIn,7,2020,12
+291,Sarah Khumalo,Female,48,Divorced,Master's,Operations,Operations Manager,2025-02-23,,Active,,1.3,63778,No,1,2,4,3,Job Portal,9,2025,2
+292,Musa Botha,Male,28,Divorced,PhD,IT,IT Support Specialist,2018-08-28,2022-03-16,Terminated,Resignation - Personal Reasons,3.6,37093,No,5,3,2,4,Employee Referral,13,2018,8
+293,Rebecca Martin,Female,41,Divorced,Bachelor's,Sales,Sales Representative,2023-01-08,,Active,,3.5,50613,No,11,3,4,3,Recruitment Agency,7,2023,1
+294,Michael Thompson,Male,28,Divorced,Bachelor's,Operations,Supply Chain Analyst,2024-10-23,,Active,,1.7,57820,Yes,1,3,4,3,Recruitment Agency,9,2024,10
+295,Rebecca Martinez,Female,44,Single,Bachelor's,Research & Development,Laboratory Technician,2024-06-17,,Active,,2.0,37795,No,15,4,4,2,Employee Referral,8,2024,6
+296,Kevin Martinez,Male,34,Married,Bachelor's,IT,Software Engineer,2022-04-22,,Active,,4.2,53469,No,13,4,3,4,University Fair,7,2022,4
+297,Kagiso Rodriguez,Male,46,Single,Bachelor's,Research & Development,Research Director,2018-04-12,,Active,,8.2,50304,Yes,14,3,2,3,Recruitment Agency,12,2018,4
+298,Ronald Garcia,Male,39,Divorced,Diploma,Human Resources,HR Manager,2016-07-30,,Active,,9.9,58587,Yes,14,3,4,3,University Fair,9,2016,7
+299,Jennifer Jones,Female,34,Married,Diploma,Sales,Sales Representative,2021-05-17,,Active,,5.1,53694,No,1,1,3,4,Job Portal,10,2021,5
+300,Mary Wilson,Female,44,Married,PhD,Operations,Operations Analyst,2024-05-17,,Active,,2.1,72227,No,12,2,4,3,Employee Referral,10,2024,5
+301,Betty Sanchez,Female,32,Married,Diploma,Marketing,Content Strategist,2024-09-11,,Active,,1.8,26219,Yes,19,4,4,2,University Fair,6,2024,9
+302,Amanda Martin,Female,48,Divorced,High School,Sales,Account Manager,2021-03-23,,Active,,5.3,27128,Yes,1,4,2,1,Recruitment Agency,9,2021,3
+303,Michelle Wilson,Female,30,Single,Bachelor's,Research & Development,Manufacturing Director,2016-07-06,,Active,,10.0,69398,No,5,4,4,1,Company Website,11,2016,7
+304,Karen Johnson,Female,41,Married,Diploma,Sales,Account Manager,2019-04-24,,Active,,7.2,42466,No,1,3,2,2,Employee Referral,4,2019,4
+305,Jason Molefe,Male,30,Divorced,Bachelor's,Marketing,Brand Manager,2022-03-05,,Active,,4.3,23472,No,18,3,3,2,Job Portal,7,2022,3
+306,Andrew Dlamini,Male,37,Single,Master's,Operations,Supply Chain Analyst,2021-03-02,2022-04-10,Terminated,Restructuring/Layoff,1.1,65429,No,2,4,2,4,Employee Referral,15,2021,3
+307,Zanele Dlamini,Female,28,Single,High School,Sales,Sales Executive,2021-11-16,,Active,,4.6,26738,No,1,3,2,3,Company Website,10,2021,11
+308,Michael Smith,Male,27,Single,Bachelor's,Research & Development,Laboratory Technician,2016-10-05,,Active,,9.7,59062,Yes,3,3,1,2,Employee Referral,12,2016,10
+309,Lerato Robinson,Female,41,Divorced,High School,Research & Development,Manufacturing Director,2023-05-24,2026-04-17,Terminated,Resignation - Better Opportunity,2.9,45307,No,1,4,3,4,Recruitment Agency,9,2023,5
+310,Mary Johnson,Female,45,Single,PhD,Human Resources,Recruiter,2022-01-03,,Active,,4.5,27255,Yes,7,4,3,2,University Fair,7,2022,1
+311,Sharon Lopez,Female,46,Single,Diploma,Sales,Sales Executive,2021-11-17,,Active,,4.6,73788,No,13,2,3,4,University Fair,5,2021,11
+312,Kagiso Taylor,Male,32,Married,Bachelor's,IT,IT Support Specialist,2024-11-30,,Active,,1.6,44010,Yes,3,2,2,2,Recruitment Agency,7,2024,11
+313,Cynthia Molefe,Female,26,Single,Bachelor's,Sales,Sales Representative,2019-05-13,,Active,,7.1,49998,No,1,4,2,3,Company Website,11,2019,5
+314,Jennifer Garcia,Female,26,Divorced,Bachelor's,Research & Development,Manufacturing Director,2022-03-13,,Active,,4.3,26286,No,24,3,3,4,LinkedIn,7,2022,3
+315,Daniel Garcia,Male,30,Divorced,Master's,Human Resources,HR Analyst,2023-03-26,,Active,,3.3,18000,No,6,3,4,3,LinkedIn,10,2023,3
+316,Palesa Williams,Female,31,Single,High School,Sales,Account Manager,2019-01-15,,Active,,7.5,80099,No,8,2,4,3,Company Website,9,2019,1
+317,Kenneth Zulu,Male,52,Married,Master's,Finance,Financial Analyst,2018-01-04,,Active,,8.5,55163,No,1,2,1,1,LinkedIn,13,2018,1
+318,Mark Mahlangu,Male,49,Divorced,Diploma,Sales,Account Manager,2016-11-11,,Active,,9.6,62555,No,6,3,3,1,Employee Referral,10,2016,11
+319,Musa Harris,Male,33,Single,Master's,Finance,Finance Manager,2020-04-21,,Active,,6.2,55349,Yes,9,3,3,2,Company Website,7,2020,4
+320,Barbara Khumalo,Female,46,Single,High School,IT,IT Support Specialist,2016-08-07,,Active,,9.9,55716,No,24,3,4,3,LinkedIn,4,2016,8
+321,George Botha,Male,54,Divorced,Bachelor's,IT,Systems Administrator,2024-09-03,,Active,,1.8,65799,No,7,4,4,4,Job Portal,9,2024,9
+322,Laura Dlamini,Female,31,Married,Bachelor's,Sales,Account Manager,2020-11-03,2022-01-17,Terminated,Restructuring/Layoff,1.2,53563,No,8,3,2,3,LinkedIn,9,2020,11
+323,Joshua Thomas,Male,20,Divorced,Diploma,IT,Software Engineer,2019-01-02,,Active,,7.5,51426,Yes,5,3,4,1,Company Website,10,2019,1
+324,Karen Harris,Female,31,Married,High School,Research & Development,Research Scientist,2017-01-09,,Active,,9.5,62099,No,11,2,3,2,Recruitment Agency,4,2017,1
+325,Melissa Moore,Female,31,Divorced,Bachelor's,Sales,Sales Executive,2018-02-06,,Active,,8.4,62162,Yes,4,3,3,3,University Fair,9,2018,2
+326,Lerato Clark,Female,37,Divorced,Bachelor's,Sales,Sales Executive,2019-12-20,,Active,,6.5,45300,No,16,3,4,2,University Fair,7,2019,12
+327,Brian Harris,Male,37,Divorced,Master's,Sales,Account Manager,2020-05-07,,Active,,6.2,61448,Yes,3,4,3,3,University Fair,6,2020,5
+328,Steven Molefe,Male,48,Married,Bachelor's,Human Resources,HR Analyst,2017-11-25,2019-08-15,Terminated,Retirement,1.7,21866,No,21,3,2,3,Employee Referral,13,2017,11
+329,William Hernandez,Male,42,Single,Bachelor's,Research & Development,Manufacturing Director,2019-05-12,,Active,,7.1,54869,Yes,2,2,4,4,Job Portal,7,2019,5
+330,Dorothy Thomas,Female,25,Married,Bachelor's,IT,Systems Administrator,2022-08-29,,Active,,3.8,46468,Yes,1,2,4,3,LinkedIn,4,2022,8
+331,Thomas Martin,Male,36,Married,Master's,Sales,Account Manager,2019-09-22,,Active,,6.8,37551,No,14,2,4,4,Job Portal,12,2019,9
+332,Laura Perez,Female,27,Divorced,Bachelor's,Research & Development,Laboratory Technician,2019-05-15,,Active,,7.1,34339,No,10,4,3,4,Employee Referral,11,2019,5
+333,Thandiwe Lee,Female,33,Married,Bachelor's,Sales,Account Manager,2019-07-31,2023-01-04,Terminated,Restructuring/Layoff,3.4,19369,No,4,2,3,4,University Fair,7,2019,7
+334,Steven Lee,Male,33,Divorced,Diploma,Research & Development,Manufacturing Director,2020-02-04,,Active,,6.4,51597,No,4,3,4,3,Employee Referral,10,2020,2
+335,Boitumelo Zulu,Female,20,Divorced,Bachelor's,Sales,Sales Executive,2024-02-26,,Active,,2.3,66634,Yes,14,3,1,4,Employee Referral,14,2024,2
+336,Jacob Jackson,Male,32,Married,Master's,Marketing,Marketing Specialist,2025-03-08,,Active,,1.3,57947,Yes,2,3,3,2,Company Website,7,2025,3
+337,Thabo Rodriguez,Male,24,Divorced,Bachelor's,Finance,Accountant,2018-10-31,,Active,,7.7,50242,No,9,4,1,2,Recruitment Agency,15,2018,10
+338,Deborah Jones,Female,31,Divorced,Bachelor's,Research & Development,Manufacturing Director,2022-07-12,,Active,,4.0,53592,No,4,1,4,1,Company Website,13,2022,7
+339,Rebecca Zulu,Female,21,Divorced,Master's,Sales,Sales Manager,2023-11-13,,Active,,2.6,56148,No,53,2,3,2,University Fair,6,2023,11
+340,David Miller,Male,34,Single,Bachelor's,IT,IT Support Specialist,2017-11-12,,Active,,8.6,58330,No,1,4,4,2,University Fair,4,2017,11
+341,Stephanie Perez,Female,45,Married,High School,Operations,Supply Chain Analyst,2017-03-09,,Active,,9.3,65991,Yes,6,3,3,2,Employee Referral,11,2017,3
+342,Lerato Mokoena,Female,52,Married,Bachelor's,Human Resources,HR Manager,2020-12-30,,Active,,5.5,55695,No,7,3,4,2,Company Website,9,2020,12
+343,Boitumelo Khumalo,Female,20,Single,Bachelor's,Sales,Sales Executive,2021-05-31,2022-03-01,Terminated,Retirement,0.8,46124,No,5,3,4,3,LinkedIn,7,2021,5
+344,Karen Thompson,Female,44,Married,Diploma,Research & Development,Manufacturing Director,2024-10-17,,Active,,1.7,42058,No,25,2,3,4,Job Portal,8,2024,10
+345,Thandiwe Miller,Female,23,Single,High School,Research & Development,Manufacturing Director,2019-07-30,,Active,,6.9,34323,No,1,3,4,3,Company Website,8,2019,7
+346,Jessica Johnson,Female,49,Divorced,Master's,Marketing,Marketing Specialist,2023-08-05,,Active,,2.9,56404,No,1,4,3,2,Employee Referral,7,2023,8
+347,Palesa Lopez,Female,29,Married,Bachelor's,Human Resources,Recruiter,2022-04-12,,Active,,4.2,38164,No,1,3,3,4,Employee Referral,10,2022,4
+348,Edward Lopez,Male,32,Divorced,High School,Sales,Account Manager,2020-06-08,,Active,,6.1,47345,Yes,4,3,4,4,Employee Referral,13,2020,6
+349,Laura Mahlangu,Female,20,Married,Diploma,Research & Development,Research Scientist,2023-11-26,,Active,,2.6,42319,No,6,3,3,1,Company Website,7,2023,11
+350,Elizabeth Molefe,Female,30,Married,Bachelor's,Sales,Sales Representative,2020-02-07,,Active,,6.4,54888,No,11,2,3,4,LinkedIn,6,2020,2
+351,Dorothy Dlamini,Female,39,Single,Bachelor's,Human Resources,Recruiter,2022-09-11,2025-01-13,Terminated,Dismissal - Misconduct,2.3,19714,No,12,2,2,2,Job Portal,15,2022,9
+352,Timothy Robinson,Male,38,Single,Bachelor's,Finance,Finance Manager,2026-04-20,,Active,,0.2,33512,No,7,2,2,1,Company Website,8,2026,4
+353,Sarah Lee,Female,41,Divorced,Diploma,Sales,Sales Manager,2017-04-24,,Active,,9.2,50118,No,9,2,4,2,Employee Referral,6,2017,4
+354,Lwazi Harris,Male,42,Single,Bachelor's,Research & Development,Laboratory Technician,2022-06-12,,Active,,4.1,55949,No,1,4,3,3,Recruitment Agency,9,2022,6
+355,Zanele Lopez,Female,26,Married,Diploma,Human Resources,HR Analyst,2019-03-29,,Active,,7.3,18000,No,2,3,1,4,Recruitment Agency,11,2019,3
+356,Linda Thompson,Female,46,Married,Diploma,Operations,Supply Chain Analyst,2017-07-13,,Active,,9.0,71181,Yes,3,2,4,1,University Fair,12,2017,7
+357,Lwazi Dlamini,Male,34,Married,Bachelor's,Research & Development,Manufacturing Director,2020-08-29,,Active,,5.8,67324,No,1,3,3,2,Recruitment Agency,5,2020,8
+358,Nancy Garcia,Female,47,Single,High School,Finance,Accountant,2019-04-11,,Active,,7.2,55090,No,7,3,1,3,University Fair,13,2019,4
+359,Joshua Hernandez,Male,26,Divorced,Bachelor's,IT,Systems Administrator,2022-03-01,,Active,,4.3,57889,Yes,1,3,4,4,LinkedIn,9,2022,3
+360,Kenneth Zulu,Male,31,Single,Master's,Marketing,Content Strategist,2022-01-29,,Active,,4.4,59868,No,25,1,3,2,Company Website,8,2022,1
+361,Jacob Zulu,Male,39,Divorced,Bachelor's,Sales,Account Manager,2017-02-23,,Active,,9.4,38156,Yes,9,3,4,3,Employee Referral,11,2017,2
+362,Kevin Williams,Male,35,Married,Master's,Research & Development,Research Director,2025-09-01,,Active,,0.8,52976,No,2,2,3,2,LinkedIn,5,2025,9
+363,Steven Wilson,Male,31,Divorced,Bachelor's,IT,IT Support Specialist,2025-08-27,,Active,,0.8,61754,No,9,3,3,2,Recruitment Agency,12,2025,8
+364,Daniel van der Merwe,Male,37,Single,Diploma,Sales,Sales Representative,2025-02-14,,Active,,1.4,41569,No,7,3,3,3,University Fair,11,2025,2
+365,Amanda Zulu,Female,49,Divorced,Bachelor's,Research & Development,Laboratory Technician,2019-08-18,2023-01-27,Terminated,Retirement,3.4,26328,No,2,3,3,3,Company Website,6,2019,8
+366,Susan Rodriguez,Female,38,Married,High School,Operations,Supply Chain Analyst,2026-04-21,,Active,,0.2,46326,No,12,2,4,4,Company Website,4,2026,4
+367,Sarah Rodriguez,Female,33,Divorced,Diploma,Sales,Sales Manager,2025-04-16,,Active,,1.2,36016,No,4,2,4,4,Recruitment Agency,3,2025,4
+368,Thabo Martinez,Male,35,Married,Bachelor's,Finance,Finance Manager,2023-01-15,,Active,,3.5,59560,No,9,3,2,3,LinkedIn,12,2023,1
+369,Barbara Sanchez,Female,37,Married,Master's,Human Resources,Recruiter,2023-10-16,,Active,,2.7,47310,No,4,3,3,4,Recruitment Agency,6,2023,10
+370,Thabo Lee,Male,29,Divorced,PhD,Finance,Financial Analyst,2024-03-12,,Active,,2.3,36792,No,5,2,4,4,Company Website,4,2024,3
+371,Amanda Jones,Female,25,Single,PhD,IT,Systems Administrator,2018-06-11,,Active,,8.1,85589,Yes,4,3,3,3,Recruitment Agency,8,2018,6
+372,Kenneth Lee,Male,29,Divorced,Bachelor's,Marketing,Content Strategist,2022-02-19,,Active,,4.4,37525,No,4,3,4,3,Recruitment Agency,10,2022,2
+373,Carol Brown,Female,41,Single,Diploma,Sales,Account Manager,2016-03-07,,Active,,10.3,77484,Yes,4,2,4,3,Recruitment Agency,10,2016,3
+374,Cynthia Smith,Female,42,Single,PhD,Operations,Supply Chain Analyst,2018-04-08,,Active,,8.2,49193,No,5,2,4,3,Company Website,6,2018,4
+375,Kevin Hernandez,Male,42,Married,Bachelor's,Marketing,Content Strategist,2017-01-17,,Active,,9.5,69187,No,1,3,2,4,LinkedIn,9,2017,1
+376,Ronald Hernandez,Male,29,Single,Bachelor's,Sales,Sales Manager,2024-02-21,,Active,,2.4,35761,No,2,1,4,4,Recruitment Agency,2,2024,2
+377,David Miller,Male,33,Divorced,Diploma,Sales,Account Manager,2016-11-15,2018-07-11,Terminated,Dismissal - Misconduct,1.7,50422,No,7,1,3,3,Recruitment Agency,14,2016,11
+378,James Smith,Male,31,Single,Bachelor's,IT,Software Engineer,2025-08-24,,Active,,0.8,57178,Yes,1,3,3,3,Recruitment Agency,3,2025,8
+379,Elizabeth Anderson,Female,42,Married,Bachelor's,Research & Development,Research Scientist,2017-02-26,,Active,,9.3,54116,No,1,3,3,3,Employee Referral,7,2017,2
+380,Jason Rodriguez,Male,26,Single,Bachelor's,Finance,Accountant,2016-10-07,,Active,,9.7,58125,No,1,3,2,4,University Fair,10,2016,10
+381,Daniel Lewis,Male,37,Married,Bachelor's,Research & Development,Laboratory Technician,2023-01-16,,Active,,3.5,31508,Yes,4,4,4,2,University Fair,6,2023,1
+382,Laura Wilson,Female,30,Divorced,Master's,Sales,Sales Executive,2017-07-27,,Active,,8.9,62948,Yes,10,4,2,4,Company Website,13,2017,7
+383,Deborah Thompson,Female,40,Married,Diploma,Operations,Logistics Coordinator,2024-11-14,,Active,,1.6,33665,Yes,5,4,4,3,Company Website,13,2024,11
+384,David Thomas,Male,20,Single,Master's,Human Resources,Recruiter,2024-09-25,2024-12-21,Terminated,Restructuring/Layoff,0.2,42606,Yes,23,3,2,3,University Fair,10,2024,9
+385,Lerato Gonzalez,Female,55,Single,High School,IT,IT Support Specialist,2023-03-31,,Active,,3.3,75142,No,26,3,2,2,Recruitment Agency,10,2023,3
+386,Deborah Davis,Female,48,Single,Master's,Sales,Sales Executive,2021-12-03,,Active,,4.6,42388,No,1,3,1,4,Job Portal,9,2021,12
+387,Michelle Rodriguez,Female,27,Single,Bachelor's,Research & Development,Manufacturing Director,2020-02-05,,Active,,6.4,67483,Yes,1,3,1,2,Recruitment Agency,13,2020,2
+388,William Johnson,Male,44,Single,Diploma,Finance,Financial Analyst,2018-12-09,,Active,,7.6,35320,No,2,3,1,2,Recruitment Agency,12,2018,12
+389,Lerato Jackson,Female,28,Single,Bachelor's,Finance,Payroll Specialist,2020-09-30,,Active,,5.8,27902,No,1,1,2,3,Company Website,16,2020,9
+390,Tumelo Zulu,Male,20,Single,Bachelor's,Finance,Finance Manager,2016-12-08,2020-07-29,Terminated,Resignation - Better Opportunity,3.6,39937,No,12,2,3,3,Employee Referral,6,2016,12
+391,Zanele Lee,Female,43,Single,PhD,Research & Development,Research Scientist,2019-06-24,2024-07-18,Terminated,Restructuring/Layoff,5.1,63312,No,1,3,2,3,LinkedIn,8,2019,6
+392,Ashley Garcia,Female,31,Single,Bachelor's,Operations,Operations Analyst,2021-01-31,,Active,,5.4,51583,No,5,3,2,2,Job Portal,8,2021,1
+393,Lisa Davis,Female,29,Married,Bachelor's,Sales,Sales Representative,2023-11-13,2024-01-23,Terminated,Resignation - Personal Reasons,0.2,59677,Yes,9,3,4,4,University Fair,7,2023,11
+394,Kagiso Taylor,Male,29,Married,Master's,Sales,Sales Representative,2024-05-29,,Active,,2.1,50495,Yes,3,3,1,3,Company Website,9,2024,5
+395,Jessica Johnson,Female,42,Divorced,Diploma,Research & Development,Manufacturing Director,2019-01-19,2025-02-01,Terminated,Resignation - Better Opportunity,6.0,58856,No,3,2,4,3,Company Website,4,2019,1
+396,Jordan Dlamini,Non-Binary,31,Divorced,Bachelor's,Research & Development,Research Director,2016-08-15,,Active,,9.9,72799,No,6,2,3,4,Employee Referral,13,2016,8
+397,Ronald Hernandez,Male,31,Single,Bachelor's,Sales,Sales Executive,2026-01-10,2026-05-23,Terminated,Restructuring/Layoff,0.4,30211,No,6,3,4,4,Company Website,8,2026,1
+398,Lerato Smith,Female,23,Married,High School,Sales,Sales Executive,2018-09-28,,Active,,7.8,70490,Yes,6,3,4,2,Recruitment Agency,13,2018,9
+399,Karen Lopez,Female,34,Divorced,Master's,Operations,Operations Analyst,2022-03-14,,Active,,4.3,53075,No,3,2,4,3,Company Website,10,2022,3
+400,Jeffrey Anderson,Male,25,Married,Bachelor's,Research & Development,Manufacturing Director,2026-04-09,,Active,,0.2,58466,No,10,3,3,1,LinkedIn,8,2026,4
+401,Naledi White,Female,42,Divorced,Diploma,Sales,Sales Executive,2018-01-04,,Active,,8.5,98493,No,1,2,3,2,LinkedIn,10,2018,1
+402,Edward Jones,Male,36,Married,Master's,Marketing,Content Strategist,2024-09-03,,Active,,1.8,38763,No,6,3,4,3,LinkedIn,5,2024,9
+403,Amahle Robinson,Female,36,Married,Bachelor's,Sales,Sales Representative,2019-04-09,,Active,,7.2,31829,No,3,4,4,2,Company Website,7,2019,4
+404,Ashley Robinson,Female,55,Divorced,Master's,Research & Development,Manufacturing Director,2024-08-30,,Active,,1.8,36139,No,2,3,1,3,University Fair,15,2024,8
+405,Morgan Martinez,Non-Binary,35,Married,Diploma,Sales,Account Manager,2016-04-07,,Active,,10.2,26137,No,15,3,4,2,Company Website,7,2016,4
+406,Mary Perez,Female,33,Single,Diploma,Sales,Account Manager,2025-07-09,2026-02-11,Terminated,Resignation - Better Opportunity,0.6,61183,No,3,4,4,3,Recruitment Agency,5,2025,7
+407,Thabo Brown,Male,29,Single,Diploma,Operations,Operations Manager,2023-12-24,,Active,,2.5,60343,No,22,4,3,4,Employee Referral,6,2023,12
+408,Kagiso Clark,Male,36,Single,PhD,IT,IT Support Specialist,2021-02-20,,Active,,5.4,42958,No,5,2,3,4,University Fair,8,2021,2
+409,Susan Khumalo,Female,38,Single,Bachelor's,Sales,Account Manager,2016-11-02,,Active,,9.7,54707,No,1,3,1,4,Recruitment Agency,15,2016,11
+410,Thomas Thomas,Male,38,Divorced,Master's,Research & Development,Research Director,2026-05-21,,Active,,0.1,46251,No,5,2,3,2,Company Website,5,2026,5
+411,Brian Lee,Male,24,Single,Master's,Research & Development,Laboratory Technician,2016-11-01,,Active,,9.7,24282,No,2,3,2,4,University Fair,6,2016,11
+412,Susan Martinez,Female,42,Married,Diploma,Sales,Account Manager,2021-03-23,2023-02-24,Terminated,Dismissal - Performance,1.9,36265,Yes,5,1,1,4,Employee Referral,14,2021,3
+413,Jacob Martin,Male,31,Divorced,Diploma,Human Resources,HR Business Partner,2017-01-05,,Active,,9.5,44228,No,1,2,4,1,Job Portal,6,2017,1
+414,Jennifer Wilson,Female,43,Single,High School,Marketing,Content Strategist,2017-08-30,,Active,,8.8,34389,No,7,2,4,4,Job Portal,5,2017,8
+415,Stephanie Khumalo,Female,38,Single,Master's,Sales,Sales Manager,2018-12-01,,Active,,7.6,19960,Yes,11,3,3,1,LinkedIn,8,2018,12
+416,Stephanie Lewis,Female,25,Single,Bachelor's,Human Resources,HR Manager,2017-01-22,,Active,,9.4,56361,No,6,3,3,3,LinkedIn,3,2017,1
+417,James Brown,Male,34,Married,Diploma,Marketing,Marketing Manager,2017-06-19,,Active,,9.0,57712,No,17,4,4,2,Job Portal,5,2017,6
+418,Barbara Mahlangu,Female,27,Single,PhD,Finance,Financial Analyst,2016-03-30,,Active,,10.3,30403,No,2,2,2,4,Company Website,11,2016,3
+419,Jacob Rodriguez,Male,46,Married,High School,Sales,Sales Manager,2017-05-16,,Active,,9.1,44690,Yes,1,3,4,3,LinkedIn,6,2017,5
+420,Nancy Molefe,Female,52,Single,Bachelor's,Research & Development,Manufacturing Director,2021-07-25,2021-11-22,Terminated,Dismissal - Performance,0.3,45441,No,5,3,4,2,Job Portal,9,2021,7
+421,Mark Lopez,Male,28,Divorced,Diploma,Sales,Account Manager,2025-11-27,,Active,,0.6,47997,No,12,3,4,2,University Fair,8,2025,11
+422,Ashley Jackson,Female,22,Married,High School,Human Resources,HR Analyst,2016-09-06,,Active,,9.8,45288,Yes,2,3,3,3,Employee Referral,13,2016,9
+423,Jeffrey Gonzalez,Male,45,Divorced,PhD,Finance,Accountant,2023-01-27,,Active,,3.4,39501,Yes,1,4,3,2,LinkedIn,11,2023,1
+424,Jason Thompson,Male,40,Divorced,Master's,Human Resources,HR Analyst,2019-11-10,,Active,,6.6,44627,No,1,3,3,3,Job Portal,10,2019,11
+425,Jason Moore,Male,29,Married,Diploma,Sales,Sales Manager,2022-09-11,,Active,,3.8,68929,No,13,4,3,3,LinkedIn,8,2022,9
+426,Thandiwe Mokoena,Female,44,Married,Bachelor's,Research & Development,Laboratory Technician,2017-10-15,2019-01-28,Terminated,Resignation - Personal Reasons,1.3,34837,No,4,3,1,3,University Fair,16,2017,10
+427,Linda Anderson,Female,34,Single,Master's,Finance,Payroll Specialist,2019-12-24,,Active,,6.5,58304,No,23,1,2,4,Employee Referral,7,2019,12
+428,Steven Mahlangu,Male,35,Divorced,Bachelor's,Research & Development,Research Director,2026-04-01,,Active,,0.2,62133,No,1,4,3,2,Company Website,3,2026,4
+429,Amanda Molefe,Female,38,Married,PhD,Finance,Accountant,2025-05-20,,Active,,1.1,63779,Yes,2,2,2,2,University Fair,24,2025,5
+430,Kevin Lopez,Male,29,Single,Diploma,Human Resources,HR Business Partner,2016-08-18,,Active,,9.9,47964,No,1,3,2,3,LinkedIn,4,2016,8
+431,Kagiso Nkosi,Male,20,Divorced,Diploma,Sales,Sales Representative,2025-01-16,,Active,,1.5,46710,No,22,4,4,3,Employee Referral,8,2025,1
+432,Brian Brown,Male,34,Divorced,Diploma,Sales,Sales Representative,2024-09-06,,Active,,1.8,23978,No,10,3,3,3,Job Portal,5,2024,9
+433,Elizabeth White,Female,34,Married,Diploma,IT,Systems Administrator,2022-07-28,,Active,,3.9,75921,No,26,2,4,2,Job Portal,8,2022,7
+434,Sarah Hernandez,Female,26,Married,Bachelor's,IT,Systems Administrator,2024-11-17,,Active,,1.6,51936,No,1,2,1,4,Company Website,9,2024,11
+435,Michelle Lopez,Female,29,Single,Bachelor's,IT,IT Support Specialist,2018-07-03,,Active,,8.0,53825,No,19,3,1,3,Recruitment Agency,14,2018,7
+436,Kevin Jackson,Male,30,Married,Master's,Sales,Sales Executive,2023-11-15,,Active,,2.6,50031,No,1,3,3,3,University Fair,9,2023,11
+437,Jennifer Lopez,Female,29,Married,Bachelor's,Finance,Accountant,2023-03-04,,Active,,3.3,60782,Yes,3,3,4,4,Employee Referral,11,2023,3
+438,Carol Jones,Female,22,Divorced,Master's,Sales,Sales Manager,2017-11-18,2025-03-06,Terminated,Resignation - Better Opportunity,7.3,44516,Yes,8,3,1,2,Company Website,14,2017,11
+439,Riley Lewis,Non-Binary,30,Married,Bachelor's,Sales,Sales Representative,2018-10-19,,Active,,7.7,41661,Yes,3,4,3,3,Job Portal,17,2018,10
+440,Susan Smith,Female,53,Married,Master's,Sales,Account Manager,2024-03-19,2025-07-21,Terminated,Resignation - Personal Reasons,1.3,63139,No,8,3,3,3,Recruitment Agency,8,2024,3
+441,Timothy Zulu,Male,39,Single,Bachelor's,Research & Development,Manufacturing Director,2024-11-04,2025-08-21,Terminated,Resignation - Personal Reasons,0.8,58033,No,11,2,2,4,Job Portal,10,2024,11
+442,Patricia Lee,Female,31,Married,Bachelor's,Sales,Sales Executive,2016-10-30,,Active,,9.7,69244,No,9,4,3,3,Employee Referral,10,2016,10
+443,Elizabeth Ndlovu,Female,20,Divorced,Bachelor's,Operations,Operations Analyst,2019-10-16,,Active,,6.7,74352,No,11,1,2,3,Recruitment Agency,14,2019,10
+444,Patricia Ramirez,Female,25,Married,High School,Operations,Operations Manager,2022-10-23,2025-05-29,Terminated,Resignation - Personal Reasons,2.6,45516,No,2,2,1,4,Employee Referral,13,2022,10
+445,Anthony Clark,Male,46,Single,Diploma,IT,IT Support Specialist,2023-05-29,2025-02-23,Terminated,Retirement,1.7,23575,Yes,14,3,3,3,Recruitment Agency,11,2023,5
+446,Naledi Ndlovu,Female,29,Married,Bachelor's,Marketing,Marketing Manager,2016-08-11,,Active,,9.9,41200,Yes,1,3,4,2,LinkedIn,9,2016,8
+447,Casey Botha,Non-Binary,26,Divorced,Diploma,Human Resources,HR Business Partner,2016-04-15,,Active,,10.2,47854,Yes,7,3,3,4,Job Portal,8,2016,4
+448,David Nkosi,Male,46,Married,Bachelor's,Marketing,Content Strategist,2024-10-19,,Active,,1.7,56094,No,1,4,3,3,Company Website,8,2024,10
+449,Andrew Garcia,Male,39,Married,Bachelor's,Finance,Payroll Specialist,2018-01-27,,Active,,8.4,47937,No,5,3,4,2,Job Portal,4,2018,1
+450,Lisa Lewis,Female,53,Divorced,Master's,Sales,Account Manager,2021-03-19,2022-11-08,Terminated,Resignation - Personal Reasons,1.6,30023,No,1,3,3,3,LinkedIn,9,2021,3
+451,Karen Miller,Female,29,Divorced,Bachelor's,Sales,Sales Manager,2025-01-23,,Active,,1.4,51859,No,14,1,2,4,Employee Referral,18,2025,1
+452,Amahle Brown,Female,40,Married,Bachelor's,Marketing,Brand Manager,2022-01-02,,Active,,4.5,43720,No,20,3,2,3,University Fair,6,2022,1
+453,Steven Nkosi,Male,31,Divorced,Bachelor's,Research & Development,Manufacturing Director,2026-02-14,2026-04-19,Terminated,Dismissal - Misconduct,0.2,18000,Yes,3,4,2,3,University Fair,14,2026,2
+454,Charles Davis,Male,41,Single,Master's,Operations,Supply Chain Analyst,2017-12-09,,Active,,8.6,57851,No,1,4,2,4,Employee Referral,7,2017,12
+455,Anthony Rodriguez,Male,32,Divorced,Bachelor's,Sales,Sales Executive,2023-08-30,,Active,,2.8,50714,No,2,4,3,3,Employee Referral,10,2023,8
+456,Dorothy Lee,Female,45,Married,Bachelor's,Marketing,Marketing Specialist,2016-12-22,,Active,,9.5,51934,No,1,3,4,4,University Fair,8,2016,12
+457,Michelle Moore,Female,58,Divorced,Bachelor's,Human Resources,HR Business Partner,2024-10-26,,Active,,1.7,47050,No,5,2,4,3,University Fair,7,2024,10
+458,Jeffrey Davis,Male,30,Single,Bachelor's,Research & Development,Laboratory Technician,2022-05-09,,Active,,4.1,37210,No,12,3,2,2,LinkedIn,10,2022,5
+459,Musa Miller,Male,51,Married,Bachelor's,IT,IT Support Specialist,2025-11-04,,Active,,0.7,53419,No,23,2,2,3,Company Website,14,2025,11
+460,Thabo Molefe,Male,34,Single,Diploma,Finance,Financial Analyst,2017-12-06,,Active,,8.6,51499,Yes,6,3,3,3,University Fair,10,2017,12
+461,Edward Williams,Male,36,Divorced,Diploma,Research & Development,Research Director,2023-09-29,,Active,,2.8,31697,Yes,8,4,2,4,Recruitment Agency,10,2023,9
+462,Kimberly White,Female,30,Divorced,Master's,Sales,Sales Manager,2019-06-27,2022-10-17,Terminated,Dismissal - Performance,3.3,48735,No,4,3,2,3,LinkedIn,5,2019,6
+463,Sandra Rodriguez,Female,20,Married,Master's,Research & Development,Manufacturing Director,2024-09-05,,Active,,1.8,42981,No,8,1,3,4,Company Website,6,2024,9
+464,Jeffrey Botha,Male,36,Married,Diploma,Finance,Accountant,2020-12-14,,Active,,5.5,27414,Yes,23,4,4,1,Company Website,7,2020,12
+465,Nomvula Mokoena,Female,21,Single,Master's,Marketing,Marketing Specialist,2021-10-11,,Active,,4.7,41075,Yes,19,4,2,4,Job Portal,13,2021,10
+466,Lerato Sanchez,Female,36,Single,Diploma,Sales,Sales Executive,2017-12-12,,Active,,8.6,47097,No,2,3,3,3,LinkedIn,6,2017,12
+467,Steven Williams,Male,36,Married,Diploma,Research & Development,Research Director,2023-11-26,,Active,,2.6,57549,Yes,1,3,4,3,Recruitment Agency,11,2023,11
+468,Lwazi Sanchez,Male,24,Married,High School,Finance,Financial Analyst,2023-08-22,,Active,,2.9,49847,No,23,2,4,3,Recruitment Agency,10,2023,8
+469,Laura Lopez,Female,27,Married,Bachelor's,Operations,Supply Chain Analyst,2022-07-31,2025-11-01,Terminated,Retirement,3.3,51539,No,4,3,1,3,Company Website,13,2022,7
+470,Barbara Jackson,Female,30,Single,Master's,Sales,Sales Executive,2017-10-29,,Active,,8.7,26842,Yes,13,3,2,1,Employee Referral,14,2017,10
+471,Sandra Wilson,Female,42,Divorced,High School,Sales,Account Manager,2021-10-03,,Active,,4.7,75320,No,1,3,4,2,LinkedIn,8,2021,10
+472,Thandiwe Rodriguez,Female,27,Married,Diploma,Finance,Financial Analyst,2018-07-05,,Active,,8.0,60814,No,4,3,3,2,Company Website,7,2018,7
+473,Kenneth Ramirez,Male,30,Married,Diploma,Marketing,Content Strategist,2021-02-23,,Active,,5.4,38854,Yes,8,2,2,3,Job Portal,11,2021,2
+474,Kagiso van der Merwe,Male,43,Married,PhD,Research & Development,Research Scientist,2016-01-31,2021-12-25,Terminated,Restructuring/Layoff,5.9,30697,No,4,3,3,4,University Fair,10,2016,1
+475,Joshua Martin,Male,46,Married,Bachelor's,IT,Systems Administrator,2016-09-18,,Active,,9.8,76422,No,1,4,3,3,Company Website,6,2016,9
+476,Michelle Moore,Female,20,Single,Diploma,Sales,Sales Manager,2018-02-10,,Active,,8.4,50252,No,26,3,4,2,LinkedIn,5,2018,2
+477,Edward Lee,Male,41,Married,Bachelor's,IT,Software Engineer,2023-05-08,,Active,,3.1,30994,No,1,2,3,4,Job Portal,7,2023,5
+478,Jeffrey Sanchez,Male,30,Divorced,Bachelor's,Research & Development,Research Scientist,2022-07-16,,Active,,4.0,60887,No,1,3,3,3,Employee Referral,8,2022,7
+479,Carol Anderson,Female,47,Married,Master's,IT,Systems Administrator,2026-03-02,,Active,,0.3,45250,No,3,3,3,2,University Fair,6,2026,3
+480,Kevin Hernandez,Male,38,Single,High School,Marketing,Marketing Manager,2019-04-18,,Active,,7.2,52523,No,5,3,3,2,Company Website,11,2019,4
+481,Dorothy Ndlovu,Female,42,Single,Bachelor's,IT,Data Analyst,2023-08-16,2026-04-23,Terminated,Retirement,2.7,18000,No,1,2,3,3,Job Portal,5,2023,8
+482,Paul Martin,Male,28,Married,Diploma,Research & Development,Research Director,2020-03-02,,Active,,6.3,76471,No,1,2,4,3,Recruitment Agency,4,2020,3
+483,Jordan Nkosi,Non-Binary,44,Divorced,Bachelor's,Sales,Sales Executive,2021-04-18,2026-06-12,Terminated,Resignation - Personal Reasons,5.2,30812,No,18,3,4,2,Recruitment Agency,6,2021,4
+484,Palesa Martin,Female,20,Married,PhD,Research & Development,Laboratory Technician,2017-07-16,,Active,,9.0,43974,No,4,4,3,2,Recruitment Agency,12,2017,7
+485,Naledi Robinson,Female,31,Single,Bachelor's,Sales,Sales Representative,2024-09-25,2025-02-14,Terminated,Dismissal - Performance,0.4,47625,No,3,3,2,2,Job Portal,12,2024,9
+486,Linda Smith,Female,43,Married,Master's,Research & Development,Laboratory Technician,2024-07-14,2025-03-03,Terminated,Dismissal - Misconduct,0.6,20055,Yes,1,4,4,4,LinkedIn,9,2024,7
+487,Thomas van der Merwe,Male,42,Married,Bachelor's,Research & Development,Manufacturing Director,2020-07-10,,Active,,6.0,55652,No,6,4,3,3,Recruitment Agency,9,2020,7
+488,James Williams,Male,28,Divorced,Master's,Human Resources,Recruiter,2016-02-27,,Active,,10.3,69698,No,1,4,2,3,Employee Referral,9,2016,2
+489,Patricia Smith,Female,42,Married,Bachelor's,Finance,Accountant,2018-07-15,,Active,,8.0,70604,Yes,1,3,4,3,Job Portal,5,2018,7
+490,Thomas Miller,Male,38,Single,High School,Research & Development,Research Director,2017-11-15,,Active,,8.6,51274,No,1,3,4,2,Job Portal,6,2017,11
+491,Joshua Robinson,Male,38,Single,Master's,IT,IT Support Specialist,2020-11-11,,Active,,5.6,38709,Yes,8,2,3,2,Job Portal,13,2020,11
+492,Thabo Thompson,Male,25,Married,Master's,IT,Data Analyst,2026-03-03,,Active,,0.3,50563,No,8,2,4,2,LinkedIn,8,2026,3
+493,Sandra Anderson,Female,44,Divorced,Bachelor's,IT,Data Analyst,2018-05-15,,Active,,8.1,70552,Yes,3,2,4,3,University Fair,6,2018,5
+494,Daniel Davis,Male,20,Divorced,Bachelor's,Research & Development,Research Scientist,2020-03-16,2023-03-28,Terminated,Dismissal - Misconduct,3.0,64793,No,1,4,3,3,LinkedIn,8,2020,3
+495,Richard Johnson,Male,31,Single,Bachelor's,Sales,Sales Executive,2020-09-03,,Active,,5.8,40403,Yes,1,4,3,2,University Fair,6,2020,9
+496,Andrew Nkosi,Male,34,Single,Bachelor's,IT,Data Analyst,2023-10-18,,Active,,2.7,33389,No,2,4,4,3,Job Portal,9,2023,10
+497,Rebecca Miller,Female,23,Single,Bachelor's,Finance,Finance Manager,2022-12-25,,Active,,3.5,41865,Yes,4,3,4,3,Recruitment Agency,10,2022,12
+498,Susan Khumalo,Female,44,Single,Diploma,IT,Software Engineer,2019-03-03,,Active,,7.3,60881,No,4,3,2,2,Recruitment Agency,7,2019,3
+499,Margaret Botha,Female,31,Single,Bachelor's,Sales,Sales Manager,2025-04-28,,Active,,1.2,29502,Yes,14,1,4,4,Job Portal,6,2025,4
+500,Rebecca Jackson,Female,44,Married,Master's,Sales,Account Manager,2026-03-17,2026-05-29,Terminated,Restructuring/Layoff,0.2,47048,No,1,3,3,3,Employee Referral,11,2026,3
+501,Mary Smith,Female,31,Married,Bachelor's,Finance,Financial Analyst,2025-05-14,,Active,,1.1,65146,No,4,3,1,1,Employee Referral,9,2025,5
+502,Barbara Khumalo,Female,34,Single,Diploma,Sales,Sales Executive,2026-02-22,,Active,,0.4,31231,No,1,2,4,2,Recruitment Agency,9,2026,2
+503,Joshua Taylor,Male,20,Single,Diploma,Human Resources,HR Business Partner,2025-02-12,,Active,,1.4,62516,No,8,4,2,3,Job Portal,6,2025,2
+504,Ronald Lee,Male,34,Single,Master's,Research & Development,Research Scientist,2017-01-24,,Active,,9.4,57144,Yes,7,2,4,3,LinkedIn,6,2017,1
+505,Thomas Hernandez,Male,32,Divorced,Diploma,Research & Development,Manufacturing Director,2022-12-21,,Active,,3.5,49067,Yes,4,4,4,3,LinkedIn,10,2022,12
+506,Melissa Perez,Female,49,Married,PhD,Sales,Account Manager,2020-06-27,,Active,,6.0,45073,No,12,4,4,2,Recruitment Agency,4,2020,6
+507,Thandiwe Clark,Female,44,Single,Bachelor's,Finance,Accountant,2017-04-08,2018-12-01,Terminated,Restructuring/Layoff,1.6,63195,No,6,3,4,2,LinkedIn,6,2017,4
+508,Jeffrey Mahlangu,Male,56,Married,Bachelor's,Human Resources,HR Analyst,2018-01-12,,Active,,8.5,43865,No,5,4,4,3,University Fair,8,2018,1
+509,Patricia Rodriguez,Female,34,Married,Master's,Human Resources,HR Analyst,2017-04-07,,Active,,9.2,53621,No,3,4,4,2,LinkedIn,4,2017,4
+510,Elizabeth Taylor,Female,34,Divorced,Master's,Finance,Financial Analyst,2023-11-25,,Active,,2.6,44603,No,12,3,3,2,Company Website,7,2023,11
+511,Musa Molefe,Male,30,Divorced,Bachelor's,Sales,Sales Manager,2021-10-27,,Active,,4.7,19299,No,4,3,4,4,University Fair,6,2021,10
+512,Susan Ramirez,Female,38,Divorced,Bachelor's,Finance,Accountant,2021-05-27,,Active,,5.1,38916,No,10,2,4,4,Company Website,7,2021,5
+513,Jason Martinez,Male,31,Single,Bachelor's,Marketing,Marketing Specialist,2016-02-17,,Active,,10.4,51422,No,1,3,4,4,University Fair,8,2016,2
+514,Sipho Dlamini,Male,43,Married,Diploma,Marketing,Marketing Specialist,2024-06-04,2025-12-19,Terminated,Retirement,1.5,24692,No,2,1,2,4,LinkedIn,15,2024,6
+515,Lwazi Anderson,Male,39,Single,Master's,Human Resources,HR Analyst,2020-07-09,,Active,,6.0,51043,No,1,3,4,3,Recruitment Agency,6,2020,7
+516,Laura Molefe,Female,33,Married,Bachelor's,Research & Development,Manufacturing Director,2021-01-05,,Active,,5.5,57621,No,13,2,4,4,Company Website,7,2021,1
+517,John Miller,Male,22,Divorced,Master's,Research & Development,Research Scientist,2022-04-01,2025-06-28,Terminated,Resignation - Better Opportunity,3.2,27467,No,4,2,4,4,University Fair,6,2022,4
+518,Donna Khumalo,Female,29,Single,Bachelor's,Finance,Payroll Specialist,2019-10-28,,Active,,6.7,43440,No,5,3,4,3,Employee Referral,6,2019,10
+519,Cynthia Perez,Female,32,Divorced,Bachelor's,Finance,Payroll Specialist,2024-01-14,,Active,,2.5,27958,No,8,3,2,1,Recruitment Agency,8,2024,1
+520,Jessica Miller,Female,20,Divorced,Bachelor's,IT,Data Analyst,2016-01-09,,Active,,10.5,68300,No,3,3,4,4,Job Portal,6,2016,1
+521,Bongani Mokoena,Male,23,Married,Master's,Research & Development,Research Scientist,2016-07-06,,Active,,10.0,54819,No,7,2,3,3,Employee Referral,7,2016,7
+522,Jeffrey Miller,Male,39,Married,Diploma,Sales,Sales Representative,2018-02-07,,Active,,8.4,31169,No,20,4,1,3,Employee Referral,11,2018,2
+523,Cynthia Gonzalez,Female,36,Divorced,Bachelor's,IT,Software Engineer,2024-06-28,,Active,,2.0,49729,Yes,1,3,1,4,Company Website,13,2024,6
+524,Sanele Davis,Male,29,Single,PhD,IT,Systems Administrator,2021-02-16,2024-12-25,Terminated,Dismissal - Misconduct,3.9,43529,No,5,3,3,3,Recruitment Agency,9,2021,2
+525,Mary Mokoena,Female,40,Divorced,Bachelor's,IT,Systems Administrator,2025-05-28,,Active,,1.1,46046,Yes,1,3,4,3,Employee Referral,7,2025,5
+526,Boitumelo Lopez,Female,31,Divorced,Bachelor's,IT,Data Analyst,2017-02-28,,Active,,9.3,37091,No,5,3,1,3,University Fair,11,2017,2
+527,Brian Khumalo,Male,41,Single,Master's,Marketing,Brand Manager,2022-10-30,,Active,,3.7,54336,Yes,9,2,3,1,Job Portal,14,2022,10
+528,Edward Perez,Male,35,Married,Diploma,Operations,Supply Chain Analyst,2025-01-09,,Active,,1.5,62881,No,12,3,4,3,University Fair,11,2025,1
+529,Lwazi Martin,Male,45,Single,Bachelor's,Marketing,Content Strategist,2023-12-25,2026-03-18,Terminated,Dismissal - Misconduct,2.2,53707,No,6,2,3,2,Employee Referral,5,2023,12
+530,Emily Thompson,Female,50,Single,Bachelor's,Operations,Operations Manager,2023-12-19,,Active,,2.5,48553,No,7,2,2,3,University Fair,9,2023,12
+531,Tumelo Lee,Male,25,Divorced,Bachelor's,IT,IT Support Specialist,2022-04-22,,Active,,4.2,42543,No,4,3,2,3,Company Website,14,2022,4
+532,Jeffrey Zulu,Male,28,Single,High School,Research & Development,Manufacturing Director,2025-01-23,,Active,,1.4,48937,Yes,25,3,4,3,LinkedIn,10,2025,1
+533,Deborah Martinez,Female,20,Single,Diploma,Sales,Sales Executive,2018-03-29,,Active,,8.3,54529,No,3,3,2,1,Job Portal,13,2018,3
+534,Andrew Martinez,Male,38,Single,Master's,Marketing,Content Strategist,2018-04-15,,Active,,8.2,34533,Yes,1,2,3,2,Job Portal,6,2018,4
+535,Jacob Miller,Male,32,Married,Bachelor's,Finance,Accountant,2024-04-28,,Active,,2.2,46137,No,2,2,4,3,Employee Referral,7,2024,4
+536,Lwazi Jackson,Male,41,Divorced,Bachelor's,IT,Software Engineer,2026-05-22,2026-07-21,Terminated,Dismissal - Performance,0.2,43875,No,3,4,3,4,Job Portal,8,2026,5
+537,Amahle Brown,Female,31,Divorced,Master's,Sales,Sales Manager,2018-04-11,2025-05-25,Terminated,Dismissal - Performance,7.1,24743,No,9,2,4,3,Company Website,2,2018,4
+538,Ronald Mahlangu,Male,37,Single,Bachelor's,Human Resources,HR Manager,2024-09-14,,Active,,1.8,51075,Yes,5,2,2,4,Job Portal,8,2024,9
+539,Jacob Lopez,Male,36,Divorced,PhD,Operations,Operations Analyst,2018-02-04,,Active,,8.4,53869,No,4,3,2,4,University Fair,16,2018,2
+540,Jessica Harris,Female,47,Single,Diploma,Sales,Sales Manager,2022-03-29,,Active,,4.3,62481,No,2,4,4,3,University Fair,6,2022,3
+541,Dorothy Smith,Female,42,Married,Diploma,Research & Development,Laboratory Technician,2016-06-12,,Active,,10.1,69128,No,1,3,4,3,University Fair,10,2016,6
+542,Michael van der Merwe,Male,23,Single,Bachelor's,Marketing,Content Strategist,2021-07-02,2026-02-03,Terminated,Dismissal - Misconduct,4.6,25272,No,1,3,3,3,Company Website,13,2021,7
+543,Michelle Mokoena,Female,21,Divorced,High School,Sales,Sales Representative,2021-11-02,,Active,,4.7,26373,Yes,15,2,4,2,Employee Referral,9,2021,11
+544,Jeffrey Zulu,Male,44,Married,Bachelor's,Human Resources,HR Business Partner,2019-12-02,2022-07-25,Terminated,Resignation - Personal Reasons,2.6,53776,No,19,3,3,3,Job Portal,10,2019,12
+545,Joshua Wilson,Male,34,Divorced,Master's,Operations,Supply Chain Analyst,2022-04-18,,Active,,4.2,63254,No,1,2,4,4,LinkedIn,2,2022,4
+546,Jordan Thompson,Non-Binary,36,Married,Bachelor's,Research & Development,Laboratory Technician,2016-06-12,,Active,,10.1,33039,Yes,7,3,4,2,Recruitment Agency,8,2016,6
+547,Joseph Harris,Male,46,Married,Master's,Sales,Sales Manager,2016-04-11,,Active,,10.2,58744,Yes,2,3,3,3,University Fair,7,2016,4
+548,Lerato Lewis,Female,39,Married,Bachelor's,Human Resources,Recruiter,2026-01-27,,Active,,0.4,23814,No,6,2,2,4,University Fair,10,2026,1
+549,Barbara Miller,Female,62,Divorced,High School,Sales,Sales Executive,2023-01-11,,Active,,3.5,46130,No,1,3,4,4,Company Website,3,2023,1
+550,Betty Ramirez,Female,39,Divorced,Master's,Marketing,Marketing Manager,2022-01-11,,Active,,4.5,37339,Yes,1,4,2,3,Recruitment Agency,11,2022,1
+551,Elizabeth Martinez,Female,35,Married,High School,Sales,Sales Manager,2016-06-04,2017-07-27,Terminated,Resignation - Better Opportunity,1.1,44070,No,8,3,1,3,University Fair,13,2016,6
+552,William Molefe,Male,25,Divorced,Bachelor's,Marketing,Content Strategist,2020-07-27,,Active,,5.9,38397,No,10,3,1,3,Recruitment Agency,16,2020,7
+553,Ryan Lee,Male,44,Divorced,High School,Sales,Sales Executive,2021-12-30,,Active,,4.5,45914,No,9,4,3,3,University Fair,9,2021,12
+554,William Mahlangu,Male,33,Single,Master's,Sales,Sales Executive,2020-01-05,,Active,,6.5,25790,No,3,2,1,3,Job Portal,13,2020,1
+555,Donna Botha,Female,36,Divorced,Bachelor's,Sales,Account Manager,2020-04-11,,Active,,6.2,39862,Yes,1,2,2,3,LinkedIn,9,2020,4
+556,Thandiwe Hernandez,Female,29,Divorced,Bachelor's,Human Resources,HR Manager,2024-05-16,,Active,,2.1,29795,No,1,3,3,4,Job Portal,7,2024,5
+557,Charles Martin,Male,41,Single,Diploma,Finance,Finance Manager,2016-02-15,2022-06-30,Terminated,Dismissal - Misconduct,6.4,48361,No,2,3,3,2,LinkedIn,10,2016,2
+558,Naledi Botha,Female,31,Divorced,Diploma,Research & Development,Research Scientist,2019-06-02,,Active,,7.1,76392,Yes,5,2,3,4,Company Website,8,2019,6
+559,Riley Wilson,Non-Binary,43,Divorced,Diploma,Research & Development,Laboratory Technician,2017-10-21,,Active,,8.7,59169,No,1,2,2,3,Job Portal,14,2017,10
+560,Anthony Davis,Male,42,Divorced,Master's,Sales,Sales Executive,2025-07-19,,Active,,0.9,70414,No,3,2,4,2,Recruitment Agency,6,2025,7
+561,Amahle Jones,Female,50,Divorced,High School,Research & Development,Research Scientist,2018-10-23,,Active,,7.7,41449,No,1,3,3,4,University Fair,5,2018,10
+562,Thabo Perez,Male,37,Single,Diploma,Research & Development,Laboratory Technician,2017-02-13,,Active,,9.4,60582,Yes,20,3,1,3,Employee Referral,14,2017,2
+563,Michelle Dlamini,Female,37,Divorced,Bachelor's,Research & Development,Research Director,2023-10-11,,Active,,2.7,36756,No,13,4,3,1,University Fair,8,2023,10
+564,Ronald Lee,Male,25,Single,Bachelor's,Operations,Operations Manager,2016-01-20,,Active,,10.4,31009,No,4,1,3,4,Company Website,9,2016,1
+565,Sharon Moore,Female,43,Married,Master's,Marketing,Marketing Manager,2023-08-15,2025-11-02,Terminated,Retirement,2.2,20094,No,3,4,4,4,Recruitment Agency,10,2023,8
+566,Timothy Martin,Male,47,Single,Bachelor's,Human Resources,HR Business Partner,2017-12-20,,Active,,8.5,52627,No,5,1,3,4,Job Portal,7,2017,12
+567,Sarah Zulu,Female,45,Single,High School,Sales,Sales Executive,2024-02-27,,Active,,2.3,70873,Yes,17,3,3,3,University Fair,9,2024,2
+568,John Mahlangu,Male,42,Married,High School,Finance,Accountant,2026-03-01,,Active,,0.3,39031,No,2,3,2,4,University Fair,9,2026,3
+569,Tumelo Nkosi,Male,38,Divorced,Bachelor's,Finance,Accountant,2020-02-07,,Active,,6.4,65977,Yes,5,3,1,3,Company Website,16,2020,2
+570,Joshua Rodriguez,Male,29,Single,High School,Human Resources,HR Business Partner,2020-06-13,2024-09-10,Terminated,Dismissal - Misconduct,4.2,50116,No,2,2,3,3,University Fair,8,2020,6
+571,Daniel Khumalo,Male,41,Divorced,Bachelor's,Sales,Sales Representative,2018-01-03,,Active,,8.5,49452,No,2,2,3,3,Company Website,11,2018,1
+572,Karen Nkosi,Female,35,Single,Master's,Operations,Operations Analyst,2018-06-15,,Active,,8.0,92244,Yes,3,2,1,2,LinkedIn,7,2018,6
+573,Andrew White,Male,36,Married,Master's,Sales,Sales Representative,2021-10-22,,Active,,4.7,44293,No,5,3,3,3,Recruitment Agency,10,2021,10
+574,Sipho Robinson,Male,28,Divorced,Bachelor's,Marketing,Marketing Specialist,2023-04-10,2025-04-02,Terminated,Resignation - Better Opportunity,2.0,56908,No,29,3,3,1,Company Website,11,2023,4
+575,Kimberly Taylor,Female,39,Married,Bachelor's,Finance,Accountant,2020-03-22,,Active,,6.3,57949,No,4,3,3,1,University Fair,11,2020,3
+576,William Mokoena,Male,46,Married,Bachelor's,Sales,Sales Representative,2021-10-16,,Active,,4.7,37134,Yes,4,4,2,3,Recruitment Agency,12,2021,10
+577,Sipho Botha,Male,37,Single,Diploma,Sales,Sales Representative,2020-12-06,,Active,,5.6,77933,Yes,1,4,3,3,University Fair,14,2020,12
+578,Kenneth Wilson,Male,32,Married,Diploma,Sales,Sales Representative,2020-01-23,2021-07-20,Terminated,Restructuring/Layoff,1.5,35335,No,2,3,4,3,Company Website,14,2020,1
+579,Joseph Nkosi,Male,37,Divorced,Bachelor's,Finance,Payroll Specialist,2018-05-13,,Active,,8.1,52455,No,5,3,4,3,Recruitment Agency,9,2018,5
+580,Patricia Thomas,Female,21,Single,Bachelor's,Sales,Sales Representative,2017-07-05,,Active,,9.0,27298,No,5,2,3,2,University Fair,13,2017,7
+581,Karen Brown,Female,42,Divorced,PhD,Sales,Sales Representative,2021-10-17,2024-03-25,Terminated,Dismissal - Misconduct,2.4,40265,Yes,2,2,2,4,LinkedIn,13,2021,10
+582,Emily Garcia,Female,27,Single,Bachelor's,Sales,Account Manager,2025-09-22,,Active,,0.8,42293,No,10,3,1,4,Recruitment Agency,7,2025,9
+583,Charles Mahlangu,Male,42,Married,Bachelor's,Marketing,Marketing Manager,2022-12-27,,Active,,3.5,75096,No,7,3,4,1,Employee Referral,8,2022,12
+584,Carol Robinson,Female,43,Single,Bachelor's,Finance,Financial Analyst,2018-07-30,,Active,,7.9,52496,Yes,1,3,3,2,LinkedIn,10,2018,7
+585,Patricia Gonzalez,Female,34,Married,High School,Human Resources,HR Analyst,2025-04-08,2025-08-22,Terminated,Dismissal - Misconduct,0.4,71032,No,4,3,3,1,University Fair,11,2025,4
+586,Jennifer Zulu,Female,37,Single,Bachelor's,Human Resources,HR Business Partner,2017-01-16,,Active,,9.5,46315,No,11,3,2,2,University Fair,13,2017,1
+587,Zanele Smith,Female,53,Single,Bachelor's,Marketing,Brand Manager,2021-11-08,,Active,,4.6,49777,No,1,3,2,2,Company Website,8,2021,11
+588,Kagiso Ramirez,Male,25,Married,Master's,Sales,Account Manager,2024-11-08,,Active,,1.6,69367,No,2,3,1,1,University Fair,15,2024,11
+589,Musa Miller,Male,42,Single,Master's,Research & Development,Research Director,2021-05-08,,Active,,5.1,71136,No,2,3,3,3,Job Portal,12,2021,5
+590,Zanele Clark,Female,29,Single,Bachelor's,Sales,Sales Executive,2023-12-14,,Active,,2.5,54712,Yes,3,3,3,3,University Fair,6,2023,12
+591,Palesa Davis,Female,47,Married,Diploma,Human Resources,HR Analyst,2023-05-05,,Active,,3.2,60521,No,7,3,2,4,Recruitment Agency,13,2023,5
+592,Melissa Miller,Female,41,Married,Master's,Sales,Sales Manager,2018-12-06,,Active,,7.6,65225,No,10,3,2,3,University Fair,10,2018,12
+593,Ronald van der Merwe,Male,40,Divorced,Bachelor's,Sales,Account Manager,2024-06-19,2025-03-14,Terminated,Dismissal - Performance,0.7,54697,No,11,4,4,4,Recruitment Agency,4,2024,6
+594,Matthew White,Male,33,Divorced,PhD,Human Resources,HR Analyst,2018-11-05,,Active,,7.7,55875,No,5,4,3,2,Job Portal,10,2018,11
+595,Stephanie Rodriguez,Female,29,Divorced,Diploma,Marketing,Marketing Specialist,2024-05-21,,Active,,2.1,71664,No,1,3,3,3,Employee Referral,11,2024,5
+596,Susan Wilson,Female,27,Divorced,Bachelor's,Human Resources,Recruiter,2024-12-24,2025-11-30,Terminated,Dismissal - Misconduct,0.9,18000,No,2,3,3,2,LinkedIn,8,2024,12
+597,Daniel Harris,Male,37,Single,High School,Operations,Operations Analyst,2025-01-07,,Active,,1.5,35764,No,5,4,3,3,Recruitment Agency,12,2025,1
+598,Ryan Garcia,Male,28,Married,High School,Sales,Sales Representative,2020-02-27,2021-03-20,Terminated,Dismissal - Misconduct,1.1,53942,Yes,3,3,1,4,Recruitment Agency,17,2020,2
+599,Palesa Jackson,Female,55,Single,Bachelor's,IT,Software Engineer,2024-09-03,2025-04-30,Terminated,Restructuring/Layoff,0.7,32651,Yes,15,3,3,4,Employee Referral,12,2024,9
+600,Kagiso Jackson,Male,48,Single,Diploma,Sales,Sales Representative,2022-11-24,,Active,,3.6,47030,No,19,3,3,3,Job Portal,10,2022,11
+601,Steven Smith,Male,36,Married,Bachelor's,Operations,Operations Analyst,2019-02-04,2023-09-27,Terminated,Retirement,4.6,18000,No,1,3,3,3,University Fair,10,2019,2
+602,Margaret Mokoena,Female,37,Married,High School,Sales,Sales Executive,2026-04-22,,Active,,0.2,26870,Yes,9,3,2,3,Company Website,15,2026,4
+603,Amahle Mahlangu,Female,44,Single,Bachelor's,Research & Development,Research Director,2018-07-15,,Active,,8.0,27612,No,1,3,4,2,Recruitment Agency,10,2018,7
+604,Edward Molefe,Male,31,Divorced,Bachelor's,Sales,Sales Representative,2020-07-25,,Active,,5.9,33583,No,3,2,2,1,LinkedIn,13,2020,7
+605,Lwazi Jackson,Male,53,Married,Bachelor's,Research & Development,Research Scientist,2025-01-01,,Active,,1.5,46897,No,1,3,3,3,University Fair,8,2025,1
+606,Naledi Taylor,Female,47,Single,Bachelor's,IT,Systems Administrator,2022-04-25,,Active,,4.2,34353,Yes,1,3,3,2,Job Portal,14,2022,4
+607,Cynthia Robinson,Female,46,Single,Diploma,Marketing,Marketing Specialist,2021-05-28,,Active,,5.1,40324,Yes,10,3,2,3,Recruitment Agency,12,2021,5
+608,Sandra Anderson,Female,33,Single,Bachelor's,IT,Systems Administrator,2019-12-17,,Active,,6.5,49384,Yes,1,3,4,4,Company Website,12,2019,12
+609,Dorothy Thomas,Female,34,Married,Bachelor's,Research & Development,Manufacturing Director,2023-07-22,,Active,,2.9,37163,No,3,3,4,1,LinkedIn,5,2023,7
+610,Amahle Lopez,Female,32,Married,Master's,Human Resources,Recruiter,2018-06-14,,Active,,8.0,50667,No,3,2,3,3,Employee Referral,7,2018,6
+611,Anthony Dlamini,Male,41,Married,Diploma,IT,Data Analyst,2024-03-31,,Active,,2.2,48127,No,13,3,2,2,Employee Referral,13,2024,3
+612,Sandra Gonzalez,Female,44,Single,Master's,Marketing,Content Strategist,2017-09-30,,Active,,8.8,62605,No,3,2,3,3,LinkedIn,5,2017,9
+613,Nomvula van der Merwe,Female,37,Divorced,Bachelor's,Sales,Sales Executive,2025-07-05,,Active,,1.0,65258,Yes,2,3,4,4,Job Portal,13,2025,7
+614,Nomvula Molefe,Female,35,Divorced,PhD,Marketing,Brand Manager,2018-01-19,,Active,,8.4,51101,No,1,4,2,2,Job Portal,10,2018,1
+615,Stephanie Anderson,Female,29,Married,Bachelor's,IT,Data Analyst,2016-08-09,,Active,,9.9,44930,No,4,3,4,2,Recruitment Agency,5,2016,8
+616,Tumelo Williams,Male,49,Single,Bachelor's,Human Resources,HR Analyst,2025-08-25,,Active,,0.8,43238,No,9,1,3,3,Recruitment Agency,3,2025,8
+617,Jessica Mokoena,Female,45,Married,Bachelor's,Human Resources,HR Business Partner,2016-02-18,,Active,,10.4,63097,Yes,21,3,2,3,University Fair,15,2016,2
+618,Susan Lee,Female,38,Single,Bachelor's,Research & Development,Research Director,2018-02-05,,Active,,8.4,31722,Yes,28,4,4,2,Job Portal,12,2018,2
+619,Sipho van der Merwe,Male,24,Married,Bachelor's,Research & Development,Laboratory Technician,2021-08-04,,Active,,4.9,24682,No,6,3,1,2,Company Website,12,2021,8
+620,Melissa White,Female,32,Single,Diploma,Marketing,Content Strategist,2021-01-20,,Active,,5.4,49505,No,6,4,3,3,University Fair,11,2021,1
+621,Paul Miller,Male,43,Married,Bachelor's,IT,Data Analyst,2022-03-24,,Active,,4.3,37567,No,7,3,3,3,Employee Referral,14,2022,3
+622,Karen Martinez,Female,33,Single,Bachelor's,Human Resources,HR Business Partner,2017-12-24,,Active,,8.5,58462,No,15,4,2,3,Company Website,6,2017,12
+623,Kagiso Zulu,Male,46,Divorced,Diploma,IT,Systems Administrator,2019-05-13,,Active,,7.1,24349,No,28,2,3,4,LinkedIn,10,2019,5
+624,Stephanie Miller,Female,31,Married,Master's,IT,Software Engineer,2018-06-01,,Active,,8.1,38948,Yes,1,3,1,1,Company Website,13,2018,6
+625,Richard Lewis,Male,50,Divorced,Bachelor's,IT,IT Support Specialist,2020-01-18,,Active,,6.5,21358,No,1,3,4,4,Job Portal,7,2020,1
+626,Timothy Johnson,Male,44,Divorced,Diploma,Research & Development,Research Director,2025-09-22,2026-05-13,Terminated,Dismissal - Misconduct,0.6,53104,Yes,3,2,3,4,Company Website,9,2025,9
+627,Zanele Lopez,Female,41,Divorced,Bachelor's,Operations,Logistics Coordinator,2019-12-25,2023-10-16,Terminated,Restructuring/Layoff,3.8,43985,No,4,4,2,2,Recruitment Agency,8,2019,12
+628,David Harris,Male,41,Married,Bachelor's,Finance,Payroll Specialist,2023-01-31,2024-01-22,Terminated,Resignation - Personal Reasons,1.0,80468,No,60,4,4,4,Recruitment Agency,2,2023,1
+629,Naledi Sanchez,Female,35,Single,Diploma,Marketing,Marketing Specialist,2016-11-20,,Active,,9.6,37942,No,11,4,1,1,Job Portal,14,2016,11
+630,Michelle Jackson,Female,25,Married,Master's,IT,Systems Administrator,2019-01-16,,Active,,7.5,37710,No,5,3,3,2,Company Website,11,2019,1
+631,Sanele Mokoena,Male,38,Single,Diploma,Operations,Supply Chain Analyst,2017-11-16,2020-02-07,Terminated,Resignation - Better Opportunity,2.2,39787,Yes,29,4,1,3,Company Website,10,2017,11
+632,Andrew Garcia,Male,37,Married,High School,Sales,Account Manager,2017-02-25,,Active,,9.3,59568,No,2,4,4,3,University Fair,5,2017,2
+633,Michael Johnson,Male,34,Single,Diploma,IT,Software Engineer,2017-03-01,,Active,,9.3,54834,No,23,3,2,3,LinkedIn,9,2017,3
+634,Jason Martin,Male,46,Single,Diploma,Sales,Sales Manager,2020-12-20,2024-08-24,Terminated,Resignation - Personal Reasons,3.7,46893,No,11,3,4,3,LinkedIn,4,2020,12
+635,Jennifer Thompson,Female,33,Divorced,PhD,Marketing,Content Strategist,2025-09-09,2026-03-09,Terminated,Dismissal - Performance,0.5,38541,Yes,19,1,4,2,Job Portal,11,2025,9
+636,Bongani Lewis,Male,32,Divorced,Bachelor's,Sales,Sales Representative,2022-08-17,,Active,,3.9,40592,No,7,2,1,4,Company Website,12,2022,8
+637,Naledi Ramirez,Female,20,Divorced,Bachelor's,Human Resources,Recruiter,2026-03-11,,Active,,0.3,81521,No,5,3,2,1,Employee Referral,11,2026,3
+638,Barbara Lewis,Female,47,Single,Diploma,Research & Development,Manufacturing Director,2018-11-30,,Active,,7.6,67822,No,17,4,4,3,LinkedIn,5,2018,11
+639,Taylor Thompson,Non-Binary,48,Married,Master's,Research & Development,Research Scientist,2023-09-18,,Active,,2.8,78731,No,1,3,4,3,Job Portal,7,2023,9
+640,James Ramirez,Male,27,Married,High School,IT,Data Analyst,2024-12-07,,Active,,1.6,58363,No,7,4,3,3,Employee Referral,6,2024,12
+641,Jeffrey Ndlovu,Male,27,Divorced,Bachelor's,Research & Development,Laboratory Technician,2017-10-30,,Active,,8.7,51693,Yes,7,2,4,1,Recruitment Agency,12,2017,10
+642,Deborah Anderson,Female,43,Divorced,Diploma,Sales,Account Manager,2023-01-05,,Active,,3.5,76717,Yes,5,4,3,3,Company Website,11,2023,1
+643,Kimberly Jackson,Female,33,Single,Diploma,Finance,Finance Manager,2020-08-18,,Active,,5.9,56185,Yes,12,3,2,2,Employee Referral,13,2020,8
+644,Thomas Jackson,Male,42,Married,Bachelor's,Sales,Account Manager,2022-12-05,2025-08-18,Terminated,Retirement,2.7,44206,No,3,3,3,3,Employee Referral,5,2022,12
+645,Michelle Johnson,Female,48,Married,PhD,Sales,Sales Executive,2018-01-31,,Active,,8.4,63500,No,3,3,3,3,Job Portal,6,2018,1
+646,Thomas Lewis,Male,44,Married,Diploma,IT,Data Analyst,2017-01-04,,Active,,9.5,64436,Yes,5,2,3,3,Employee Referral,7,2017,1
+647,George Clark,Male,38,Single,Bachelor's,Research & Development,Manufacturing Director,2020-03-01,,Active,,6.3,50957,Yes,6,4,4,3,Job Portal,7,2020,3
+648,David Martinez,Male,44,Married,Diploma,Sales,Account Manager,2016-10-19,2023-01-20,Terminated,Dismissal - Performance,6.3,60160,Yes,5,3,4,3,Recruitment Agency,10,2016,10
+649,James Davis,Male,39,Married,Master's,Operations,Operations Manager,2020-04-25,,Active,,6.2,42145,Yes,9,3,1,3,Employee Referral,21,2020,4
+650,Robert Gonzalez,Male,45,Divorced,Bachelor's,Human Resources,HR Business Partner,2021-11-04,2025-09-27,Terminated,Resignation - Personal Reasons,3.9,48180,No,9,3,4,4,Job Portal,4,2021,11
+651,Michelle Hernandez,Female,39,Married,Diploma,Finance,Financial Analyst,2024-05-08,2026-01-20,Terminated,Dismissal - Misconduct,1.7,45604,No,5,3,4,3,Company Website,6,2024,5
+652,Donna Gonzalez,Female,38,Single,PhD,Research & Development,Research Scientist,2025-09-07,2026-04-25,Terminated,Resignation - Personal Reasons,0.6,33359,No,1,3,4,3,Company Website,9,2025,9
+653,Ryan Lee,Male,34,Single,Diploma,Sales,Sales Manager,2022-07-22,,Active,,3.9,52338,No,29,3,4,1,LinkedIn,7,2022,7
+654,Robert Mahlangu,Male,31,Married,Bachelor's,IT,Systems Administrator,2023-09-20,,Active,,2.8,25010,No,16,3,3,2,LinkedIn,9,2023,9
+655,Steven Hernandez,Male,34,Single,Bachelor's,Human Resources,Recruiter,2024-07-08,,Active,,2.0,59767,No,5,3,3,3,Job Portal,6,2024,7
+656,Charles Zulu,Male,31,Divorced,Diploma,IT,Data Analyst,2021-06-21,,Active,,5.0,65817,No,3,4,3,3,Company Website,12,2021,6
+657,Riley Lewis,Non-Binary,36,Divorced,Bachelor's,IT,Software Engineer,2023-09-24,,Active,,2.8,62213,No,1,3,3,3,Employee Referral,7,2023,9
+658,Dorothy Williams,Female,51,Single,Bachelor's,Human Resources,HR Analyst,2022-04-08,2024-01-31,Terminated,Dismissal - Misconduct,1.8,67778,No,12,2,2,4,University Fair,5,2022,4
+659,Matthew Zulu,Male,34,Divorced,Master's,Research & Development,Manufacturing Director,2019-02-01,,Active,,7.4,30929,No,12,4,3,4,University Fair,7,2019,2
+660,Nancy Jones,Female,20,Divorced,Master's,Human Resources,HR Analyst,2019-04-26,,Active,,7.2,51539,No,11,4,4,2,Job Portal,13,2019,4
+661,Gary Smith,Male,62,Single,Diploma,IT,Systems Administrator,2024-03-24,,Active,,2.3,56987,No,1,3,3,3,University Fair,9,2024,3
+662,Ronald van der Merwe,Male,24,Married,PhD,Sales,Sales Executive,2023-05-20,,Active,,3.1,36256,No,2,1,4,1,Employee Referral,4,2023,5
+663,Palesa Dlamini,Female,38,Married,Diploma,IT,Data Analyst,2022-11-16,,Active,,3.6,32812,No,7,3,1,1,Company Website,10,2022,11
+664,Michelle Davis,Female,43,Single,Master's,Sales,Sales Executive,2016-06-28,,Active,,10.0,18000,Yes,1,3,3,3,Employee Referral,12,2016,6
+665,Robert Gonzalez,Male,51,Divorced,High School,Sales,Sales Representative,2017-02-08,,Active,,9.4,57128,No,9,4,3,3,Recruitment Agency,8,2017,2
+666,Thabo Mokoena,Male,20,Single,Bachelor's,Finance,Finance Manager,2016-07-20,2020-10-27,Terminated,Resignation - Personal Reasons,4.3,36686,No,5,2,3,3,LinkedIn,13,2016,7
+667,Mark Dlamini,Male,34,Divorced,High School,Operations,Operations Analyst,2021-04-01,2025-11-26,Terminated,Restructuring/Layoff,4.7,45108,No,15,3,4,3,Company Website,12,2021,4
+668,Jeffrey White,Male,20,Divorced,Bachelor's,IT,Software Engineer,2025-03-27,2026-04-06,Terminated,Retirement,1.0,50785,No,12,2,4,3,LinkedIn,7,2025,3
+669,Donna Jones,Female,41,Divorced,Bachelor's,Operations,Operations Analyst,2017-02-18,,Active,,9.4,35799,No,1,3,4,3,Recruitment Agency,9,2017,2
+670,Margaret Gonzalez,Female,23,Single,Bachelor's,Human Resources,HR Manager,2022-05-23,,Active,,4.1,34356,No,26,3,4,3,University Fair,8,2022,5
+671,Bongani Clark,Male,28,Divorced,Bachelor's,IT,IT Support Specialist,2023-07-25,,Active,,2.9,60756,No,5,4,2,1,Recruitment Agency,14,2023,7
+672,Susan Hernandez,Female,35,Single,Bachelor's,IT,Systems Administrator,2021-08-29,,Active,,4.8,59453,No,6,3,1,4,University Fair,12,2021,8
+673,Laura Thompson,Female,30,Divorced,Bachelor's,Marketing,Content Strategist,2025-06-22,,Active,,1.0,50227,Yes,1,2,1,4,Recruitment Agency,19,2025,6
+674,Michelle Botha,Female,34,Divorced,Master's,Sales,Sales Representative,2020-03-16,,Active,,6.3,22731,Yes,10,3,2,3,Job Portal,9,2020,3
+675,Melissa Lewis,Female,37,Married,Bachelor's,Research & Development,Manufacturing Director,2016-01-01,,Active,,10.5,56324,No,10,3,2,3,University Fair,5,2016,1
+676,John Mokoena,Male,54,Married,Diploma,Sales,Sales Manager,2016-01-27,2019-08-09,Terminated,Resignation - Personal Reasons,3.5,54988,No,2,4,4,4,LinkedIn,3,2016,1
+677,Kimberly Ndlovu,Female,26,Married,High School,Human Resources,HR Manager,2017-01-21,,Active,,9.4,63502,No,9,3,3,3,Employee Referral,10,2017,1
+678,Sarah Taylor,Female,40,Married,Diploma,Research & Development,Laboratory Technician,2018-08-12,,Active,,7.9,42661,No,4,3,4,4,LinkedIn,4,2018,8
+679,Musa Sanchez,Male,39,Married,High School,Finance,Accountant,2024-03-26,,Active,,2.3,32070,No,3,3,1,3,Recruitment Agency,14,2024,3
+680,Matthew Dlamini,Male,46,Single,Bachelor's,Marketing,Marketing Specialist,2022-09-04,,Active,,3.8,74841,No,7,3,4,3,Company Website,2,2022,9
+681,Naledi Harris,Female,43,Married,Master's,Sales,Sales Executive,2026-05-03,2026-07-02,Terminated,Retirement,0.2,55050,No,5,4,4,3,Recruitment Agency,2,2026,5
+682,Joseph Anderson,Male,46,Married,Master's,IT,Software Engineer,2023-02-09,,Active,,3.4,38366,No,1,2,3,3,LinkedIn,8,2023,2
+683,Donna Mokoena,Female,47,Single,Bachelor's,Sales,Sales Representative,2019-08-31,,Active,,6.8,41582,No,11,2,4,3,Employee Referral,6,2019,8
+684,Michael Sanchez,Male,39,Married,Bachelor's,Operations,Operations Analyst,2018-06-28,,Active,,8.0,40388,Yes,20,4,3,2,Employee Referral,6,2018,6
+685,Sarah Perez,Female,40,Single,Bachelor's,Sales,Sales Executive,2022-02-23,,Active,,4.4,48633,No,8,3,4,3,Recruitment Agency,7,2022,2
+686,Lwazi Ramirez,Male,48,Divorced,Diploma,IT,Data Analyst,2024-07-18,,Active,,2.0,25077,Yes,6,3,2,4,Employee Referral,11,2024,7
+687,Thabo Sanchez,Male,20,Single,Bachelor's,Finance,Accountant,2022-04-17,2025-11-28,Terminated,Restructuring/Layoff,3.6,54345,No,7,3,4,3,LinkedIn,5,2022,4
+688,Kimberly Ramirez,Female,39,Married,Bachelor's,Research & Development,Research Scientist,2017-04-05,,Active,,9.2,89938,Yes,2,4,1,4,Job Portal,13,2017,4
+689,Amanda Gonzalez,Female,32,Married,Bachelor's,Research & Development,Research Scientist,2024-08-18,,Active,,1.9,35087,No,12,3,3,3,University Fair,5,2024,8
+690,Laura van der Merwe,Female,58,Single,Master's,Sales,Sales Executive,2026-05-13,,Active,,0.1,43446,No,7,3,1,4,Company Website,9,2026,5
+691,Melissa Martinez,Female,45,Single,Bachelor's,IT,Software Engineer,2017-04-05,,Active,,9.2,55528,No,1,3,3,2,University Fair,3,2017,4
+692,Charles Jackson,Male,24,Single,Bachelor's,Sales,Sales Executive,2019-06-03,,Active,,7.1,66979,No,9,2,4,2,Job Portal,7,2019,6
+693,Mark Zulu,Male,46,Divorced,Bachelor's,Sales,Sales Manager,2022-02-25,,Active,,4.3,51212,No,5,3,4,2,Employee Referral,6,2022,2
+694,John Harris,Male,32,Married,Diploma,Finance,Financial Analyst,2018-11-12,,Active,,7.6,75798,No,4,3,4,3,Employee Referral,4,2018,11
+695,Kimberly Brown,Female,39,Married,Bachelor's,Human Resources,HR Business Partner,2016-09-29,,Active,,9.8,64818,No,15,3,4,3,Company Website,8,2016,9
+696,Ronald Miller,Male,43,Divorced,PhD,Sales,Account Manager,2018-08-04,,Active,,7.9,56227,No,5,3,4,2,Company Website,11,2018,8
+697,Susan Lee,Female,47,Divorced,PhD,Human Resources,HR Business Partner,2018-02-02,2020-06-25,Terminated,Dismissal - Misconduct,2.4,45143,Yes,1,3,4,4,Company Website,12,2018,2
+698,Patricia Williams,Female,39,Divorced,Bachelor's,Sales,Sales Manager,2019-09-28,,Active,,6.8,37228,No,3,3,4,2,Employee Referral,6,2019,9
+699,Patricia Thompson,Female,37,Divorced,Bachelor's,IT,IT Support Specialist,2023-01-04,,Active,,3.5,18000,Yes,19,3,1,3,Job Portal,14,2023,1
+700,Linda Taylor,Female,37,Single,Master's,Marketing,Marketing Specialist,2022-03-23,,Active,,4.3,44850,No,3,3,4,3,Employee Referral,8,2022,3
+701,Carol Sanchez,Female,43,Divorced,Bachelor's,Finance,Financial Analyst,2024-03-08,,Active,,2.3,54948,No,2,4,4,3,University Fair,7,2024,3
+702,Sandra Clark,Female,52,Divorced,PhD,Sales,Sales Representative,2020-10-12,,Active,,5.7,22954,No,6,3,3,3,Job Portal,7,2020,10
+703,Jacob Zulu,Male,29,Single,Bachelor's,Sales,Sales Representative,2022-07-07,,Active,,4.0,62539,No,6,2,3,4,Employee Referral,9,2022,7
+704,Kevin Mokoena,Male,21,Single,PhD,Marketing,Brand Manager,2026-03-12,,Active,,0.3,65031,No,2,4,2,3,Company Website,12,2026,3
+705,Naledi Hernandez,Female,40,Single,Bachelor's,Research & Development,Research Scientist,2018-01-24,,Active,,8.4,61246,No,1,2,3,2,Company Website,16,2018,1
+706,John Lee,Male,43,Divorced,Bachelor's,Marketing,Brand Manager,2020-08-11,,Active,,5.9,29227,Yes,1,3,2,2,Company Website,16,2020,8
+707,Kenneth Martinez,Male,49,Divorced,Diploma,IT,Software Engineer,2017-06-22,,Active,,9.0,28725,No,19,3,2,1,University Fair,9,2017,6
+708,Kenneth Botha,Male,32,Divorced,Diploma,Finance,Accountant,2022-09-08,,Active,,3.8,49861,Yes,4,3,3,3,LinkedIn,4,2022,9
+709,Timothy Garcia,Male,34,Divorced,Bachelor's,IT,Systems Administrator,2017-07-03,,Active,,9.0,64117,No,22,3,3,4,Recruitment Agency,9,2017,7
+710,Ronald Lopez,Male,33,Single,Diploma,Marketing,Brand Manager,2021-04-24,,Active,,5.2,30793,No,5,3,3,4,Employee Referral,10,2021,4
+711,Jennifer Clark,Female,25,Married,Diploma,IT,Software Engineer,2026-05-18,,Active,,0.1,75764,No,8,2,4,2,Employee Referral,3,2026,5
+712,Margaret Wilson,Female,26,Divorced,Bachelor's,Sales,Account Manager,2025-09-21,,Active,,0.8,30973,No,11,3,2,4,Job Portal,9,2025,9
+713,Gary Thomas,Male,20,Married,Bachelor's,Research & Development,Research Scientist,2022-10-26,,Active,,3.7,60348,No,1,1,3,2,Company Website,6,2022,10
+714,Michelle Sanchez,Female,32,Single,Bachelor's,Finance,Financial Analyst,2021-11-02,2022-08-12,Terminated,Dismissal - Performance,0.8,48291,No,5,4,4,4,Employee Referral,7,2021,11
+715,Kagiso Zulu,Male,30,Single,Master's,Research & Development,Research Scientist,2022-04-03,2024-08-03,Terminated,Dismissal - Misconduct,2.3,19013,No,1,4,2,4,Employee Referral,13,2022,4
+716,Joshua Lewis,Male,27,Married,Master's,Research & Development,Research Director,2024-09-03,,Active,,1.8,38243,No,4,2,3,4,Employee Referral,7,2024,9
+717,Sharon Jackson,Female,47,Divorced,Bachelor's,Finance,Financial Analyst,2023-09-27,2025-05-08,Terminated,Resignation - Personal Reasons,1.6,52609,Yes,20,3,3,4,Recruitment Agency,10,2023,9
+718,Barbara Khumalo,Female,43,Married,Bachelor's,Sales,Sales Representative,2020-05-29,,Active,,6.1,36178,No,3,4,4,2,LinkedIn,8,2020,5
+719,Matthew Robinson,Male,50,Married,Bachelor's,Finance,Accountant,2025-11-23,,Active,,0.6,58857,No,1,4,4,3,Job Portal,3,2025,11
+720,Daniel Davis,Male,43,Divorced,Bachelor's,Sales,Account Manager,2023-02-10,,Active,,3.4,36019,No,6,2,3,4,Company Website,9,2023,2
+721,Deborah Khumalo,Female,20,Single,Bachelor's,Finance,Accountant,2020-03-31,,Active,,6.3,39018,No,11,3,4,2,Employee Referral,6,2020,3
+722,George Molefe,Male,40,Single,Master's,Marketing,Marketing Manager,2017-10-26,,Active,,8.7,34263,No,13,3,3,4,Company Website,10,2017,10
+723,Michael Clark,Male,39,Single,Diploma,Research & Development,Manufacturing Director,2019-03-28,2026-06-04,Terminated,Resignation - Personal Reasons,7.2,33830,No,34,2,3,3,Employee Referral,7,2019,3
+724,Mary van der Merwe,Female,26,Married,Bachelor's,IT,Software Engineer,2021-02-21,,Active,,5.4,59345,Yes,1,4,3,3,University Fair,7,2021,2
+725,James Botha,Male,44,Married,Bachelor's,Marketing,Marketing Manager,2018-06-07,,Active,,8.1,43670,No,6,3,2,3,Recruitment Agency,9,2018,6
+726,Jeffrey Lewis,Male,42,Married,Master's,Sales,Sales Executive,2018-09-29,,Active,,7.8,50817,No,12,3,3,1,University Fair,11,2018,9
+727,Amahle Wilson,Female,36,Single,Bachelor's,Sales,Sales Representative,2016-08-13,,Active,,9.9,45421,No,10,3,3,2,Employee Referral,5,2016,8
+728,Robert Molefe,Male,32,Single,Master's,Marketing,Content Strategist,2019-09-18,,Active,,6.8,54799,No,9,4,1,4,LinkedIn,7,2019,9
+729,Jeffrey Lopez,Male,36,Divorced,Bachelor's,Sales,Sales Manager,2022-11-08,,Active,,3.6,61544,No,14,2,4,3,University Fair,12,2022,11
+730,Musa Ndlovu,Male,22,Single,Bachelor's,Sales,Account Manager,2024-05-27,,Active,,2.1,38708,No,13,3,1,3,LinkedIn,7,2024,5
+731,Donna Lee,Female,28,Married,High School,Research & Development,Manufacturing Director,2025-03-13,,Active,,1.3,44309,No,1,3,4,3,University Fair,8,2025,3
+732,William Jackson,Male,33,Married,Master's,Human Resources,HR Business Partner,2023-10-16,,Active,,2.7,77075,No,2,4,4,3,University Fair,9,2023,10
+733,Rebecca Mokoena,Female,35,Divorced,High School,Sales,Sales Representative,2022-11-11,,Active,,3.6,42052,Yes,1,4,1,4,Company Website,12,2022,11
+734,Kagiso Garcia,Male,37,Married,Bachelor's,Human Resources,Recruiter,2020-10-15,,Active,,5.7,32833,Yes,1,2,1,4,Job Portal,14,2020,10
+735,Palesa Molefe,Female,41,Divorced,Diploma,Operations,Logistics Coordinator,2026-05-25,,Active,,0.1,50277,No,7,3,3,3,Recruitment Agency,8,2026,5
+736,Kagiso Dlamini,Male,45,Single,Diploma,Human Resources,HR Manager,2025-11-28,2026-03-27,Terminated,Restructuring/Layoff,0.3,18000,Yes,17,3,4,4,LinkedIn,11,2025,11
+737,Jessica Johnson,Female,32,Divorced,Master's,Human Resources,HR Business Partner,2024-04-08,,Active,,2.2,38542,Yes,1,3,3,3,Recruitment Agency,8,2024,4
+738,Rebecca Williams,Female,20,Divorced,Bachelor's,Research & Development,Laboratory Technician,2016-02-16,,Active,,10.4,53613,No,1,3,3,3,Job Portal,10,2016,2
+739,Andrew Jones,Male,33,Married,Bachelor's,Research & Development,Research Director,2024-08-07,2024-10-12,Terminated,Resignation - Better Opportunity,0.2,33708,No,23,4,3,3,Recruitment Agency,6,2024,8
+740,Musa van der Merwe,Male,28,Married,Master's,Operations,Operations Manager,2018-03-05,2022-01-16,Terminated,Retirement,3.9,31681,No,5,3,3,3,Recruitment Agency,6,2018,3
+741,Robert Rodriguez,Male,52,Married,Master's,Human Resources,HR Analyst,2026-01-01,,Active,,0.5,38890,No,10,3,3,3,Recruitment Agency,5,2026,1
+742,Rebecca Brown,Female,36,Married,Bachelor's,Marketing,Content Strategist,2022-05-03,,Active,,4.2,33243,No,1,3,3,4,University Fair,10,2022,5
+743,Zanele Johnson,Female,33,Married,Master's,Sales,Sales Manager,2024-12-18,,Active,,1.5,39860,No,2,2,3,4,LinkedIn,12,2024,12
+744,Taylor Moore,Non-Binary,34,Single,Bachelor's,Marketing,Content Strategist,2020-03-16,,Active,,6.3,29981,Yes,5,2,3,2,University Fair,9,2020,3
+745,Jamie Lopez,Non-Binary,31,Divorced,Master's,Finance,Finance Manager,2023-11-28,,Active,,2.6,40988,No,6,2,4,3,LinkedIn,9,2023,11
+746,Kimberly Clark,Female,41,Married,Bachelor's,Sales,Sales Representative,2020-03-02,,Active,,6.3,60228,No,1,3,4,2,Employee Referral,4,2020,3
+747,Casey Lopez,Non-Binary,30,Single,Diploma,Sales,Sales Executive,2024-09-20,,Active,,1.8,60932,Yes,17,4,4,3,Recruitment Agency,7,2024,9
+748,Lwazi Johnson,Male,32,Divorced,Bachelor's,IT,Data Analyst,2018-02-18,2022-02-10,Terminated,Dismissal - Performance,4.0,52835,Yes,7,3,4,3,Job Portal,11,2018,2
+749,Brian Martinez,Male,33,Divorced,PhD,IT,Software Engineer,2025-03-21,,Active,,1.3,39359,No,4,3,1,2,Company Website,12,2025,3
+750,Sarah Wilson,Female,29,Single,High School,IT,Systems Administrator,2020-05-06,2026-05-14,Terminated,Resignation - Better Opportunity,6.0,55299,No,9,3,4,4,Company Website,5,2020,5
+751,Barbara Perez,Female,39,Divorced,Bachelor's,Human Resources,HR Business Partner,2017-02-26,,Active,,9.3,57808,Yes,31,3,4,1,Company Website,5,2017,2
+752,Donna Johnson,Female,25,Married,Master's,Finance,Finance Manager,2023-03-01,,Active,,3.3,41241,No,1,3,1,2,Employee Referral,18,2023,3
+753,Margaret Jackson,Female,39,Single,Bachelor's,Sales,Sales Manager,2024-08-31,,Active,,1.8,20802,No,1,1,4,4,Job Portal,12,2024,8
+754,Karen Hernandez,Female,32,Single,Bachelor's,Sales,Sales Executive,2022-12-26,,Active,,3.5,51244,No,7,2,4,3,Employee Referral,4,2022,12
+755,Tumelo Thompson,Male,33,Married,Master's,Human Resources,Recruiter,2017-08-02,,Active,,8.9,39038,Yes,1,3,4,2,University Fair,4,2017,8
+756,Steven Hernandez,Male,39,Single,Bachelor's,Sales,Sales Manager,2022-01-23,,Active,,4.4,46023,No,1,2,4,3,LinkedIn,11,2022,1
+757,Sipho Brown,Male,48,Single,Bachelor's,Sales,Sales Executive,2016-12-18,,Active,,9.5,24705,No,4,2,4,3,Company Website,8,2016,12
+758,Sanele Lewis,Male,23,Divorced,Master's,Finance,Finance Manager,2019-09-23,,Active,,6.8,54565,No,14,3,4,2,Company Website,9,2019,9
+759,Tumelo Garcia,Male,26,Divorced,Diploma,Operations,Supply Chain Analyst,2022-05-14,,Active,,4.1,45703,No,12,3,3,4,Recruitment Agency,11,2022,5
+760,Richard Robinson,Male,52,Divorced,Diploma,Research & Development,Manufacturing Director,2021-04-11,2022-09-27,Terminated,Resignation - Personal Reasons,1.5,64057,Yes,1,3,3,3,Job Portal,12,2021,4
+761,Melissa Sanchez,Female,30,Married,Master's,Sales,Sales Manager,2024-11-04,,Active,,1.7,40399,No,1,2,4,3,Recruitment Agency,10,2024,11
+762,Nomvula Johnson,Female,27,Single,Bachelor's,Sales,Sales Executive,2019-12-10,,Active,,6.6,64049,No,1,3,4,4,Job Portal,11,2019,12
+763,Amanda Botha,Female,30,Single,Bachelor's,Finance,Financial Analyst,2020-07-19,2021-11-29,Terminated,Retirement,1.4,41083,No,11,3,2,4,Job Portal,12,2020,7
+764,Tumelo Robinson,Male,34,Married,Bachelor's,Research & Development,Manufacturing Director,2018-09-04,2025-10-20,Terminated,Resignation - Personal Reasons,7.1,51622,Yes,2,3,3,2,Recruitment Agency,12,2018,9
+765,Elizabeth Perez,Female,26,Divorced,PhD,Sales,Account Manager,2024-10-17,,Active,,1.7,41279,No,6,2,3,3,Job Portal,10,2024,10
+766,Tumelo Thomas,Male,27,Divorced,Master's,Sales,Sales Executive,2024-04-16,,Active,,2.2,46196,No,6,3,1,3,Recruitment Agency,14,2024,4
+767,Joseph Mahlangu,Male,53,Married,High School,Finance,Finance Manager,2022-03-23,,Active,,4.3,27348,No,7,3,3,4,Employee Referral,7,2022,3
+768,Donna Sanchez,Female,37,Married,Master's,Sales,Sales Executive,2023-09-08,,Active,,2.8,60618,Yes,7,3,4,4,Job Portal,7,2023,9
+769,Nomvula Brown,Female,49,Divorced,Bachelor's,Sales,Sales Representative,2025-12-13,,Active,,0.5,44237,No,1,3,2,3,LinkedIn,22,2025,12
+770,Karen Martinez,Female,40,Married,Bachelor's,Research & Development,Research Director,2020-05-16,,Active,,6.1,49447,No,3,4,2,1,Employee Referral,5,2020,5
+771,Betty Lee,Female,34,Married,Master's,Research & Development,Research Director,2026-04-20,,Active,,0.2,41859,No,12,3,3,4,Company Website,11,2026,4
+772,Amanda Garcia,Female,27,Married,Diploma,Finance,Payroll Specialist,2025-07-03,,Active,,1.0,49831,Yes,21,3,3,3,LinkedIn,13,2025,7
+773,Ronald Ndlovu,Male,33,Married,Bachelor's,Operations,Operations Analyst,2023-11-20,,Active,,2.6,18000,Yes,4,3,4,4,LinkedIn,3,2023,11
+774,Emily Johnson,Female,35,Married,Bachelor's,Sales,Account Manager,2023-01-04,,Active,,3.5,52199,No,5,3,1,3,Recruitment Agency,19,2023,1
+775,Deborah Ramirez,Female,42,Divorced,Diploma,Human Resources,HR Manager,2021-04-29,,Active,,5.2,52591,No,25,2,4,3,Recruitment Agency,6,2021,4
+776,Melissa Clark,Female,35,Divorced,High School,Sales,Sales Representative,2017-07-04,,Active,,9.0,58924,Yes,7,2,4,4,LinkedIn,9,2017,7
+777,Charles Dlamini,Male,31,Married,Diploma,Finance,Accountant,2016-12-12,,Active,,9.6,58495,No,3,3,3,4,Recruitment Agency,7,2016,12
+778,Ryan van der Merwe,Male,41,Married,Master's,Sales,Account Manager,2022-03-11,,Active,,4.3,40175,Yes,4,3,3,3,Job Portal,7,2022,3
+779,Sandra Lopez,Female,42,Divorced,Diploma,Research & Development,Research Scientist,2022-06-25,2025-06-09,Terminated,Restructuring/Layoff,3.0,39964,No,3,3,4,4,Job Portal,7,2022,6
+780,Rebecca Zulu,Female,41,Divorced,Bachelor's,Finance,Financial Analyst,2016-06-04,,Active,,10.1,41786,No,2,3,4,3,Job Portal,9,2016,6
+781,Jessica Mahlangu,Female,43,Divorced,Bachelor's,Human Resources,HR Business Partner,2017-08-04,,Active,,8.9,57149,No,1,2,2,3,Job Portal,13,2017,8
+782,Skyler Mokoena,Non-Binary,25,Divorced,Bachelor's,Sales,Sales Executive,2018-10-01,,Active,,7.8,48011,No,14,3,3,2,Company Website,9,2018,10
+783,Elizabeth Zulu,Female,39,Married,High School,IT,IT Support Specialist,2022-11-16,,Active,,3.6,64690,Yes,1,1,3,4,University Fair,13,2022,11
+784,James Nkosi,Male,30,Married,Bachelor's,Research & Development,Manufacturing Director,2022-06-08,2024-06-15,Terminated,Dismissal - Performance,2.0,60253,Yes,5,3,2,2,Job Portal,16,2022,6
+785,Nancy Williams,Female,31,Married,Master's,IT,IT Support Specialist,2024-02-25,,Active,,2.3,41532,No,9,3,2,3,LinkedIn,12,2024,2
+786,Thandiwe Mahlangu,Female,23,Married,Bachelor's,Sales,Sales Executive,2023-05-12,2025-02-27,Terminated,Restructuring/Layoff,1.8,34735,No,15,2,1,3,Recruitment Agency,9,2023,5
+787,Barbara Rodriguez,Female,42,Married,Diploma,Human Resources,Recruiter,2018-10-29,,Active,,7.7,41532,Yes,3,2,1,4,Job Portal,16,2018,10
+788,Andrew Smith,Male,39,Married,Diploma,IT,Data Analyst,2026-03-16,2026-06-21,Terminated,Restructuring/Layoff,0.3,51842,Yes,8,3,4,3,Job Portal,13,2026,3
+789,Matthew Taylor,Male,26,Married,Master's,IT,Data Analyst,2021-06-09,2022-08-13,Terminated,Dismissal - Misconduct,1.2,71650,No,1,1,3,2,LinkedIn,5,2021,6
+790,Charles Botha,Male,27,Single,Master's,Operations,Operations Manager,2025-05-23,2026-04-01,Terminated,Dismissal - Performance,0.9,58690,Yes,4,4,2,2,Company Website,7,2025,5
+791,Jacob Hernandez,Male,44,Single,Bachelor's,Sales,Sales Manager,2016-08-10,,Active,,9.9,58468,Yes,2,3,3,3,LinkedIn,12,2016,8
+792,Daniel Robinson,Male,48,Divorced,Bachelor's,Research & Development,Research Director,2021-05-04,,Active,,5.2,55659,No,18,3,4,3,Employee Referral,5,2021,5
+793,Deborah Harris,Female,20,Married,Diploma,Human Resources,HR Manager,2021-12-12,2024-07-19,Terminated,Resignation - Better Opportunity,2.6,62784,No,3,2,4,4,Recruitment Agency,10,2021,12
+794,Michelle Mokoena,Female,30,Divorced,Master's,IT,Software Engineer,2017-02-02,,Active,,9.4,79542,No,2,3,3,3,Job Portal,9,2017,2
+795,Ryan van der Merwe,Male,30,Married,Master's,Marketing,Content Strategist,2019-10-04,2022-12-14,Terminated,Retirement,3.2,51030,Yes,7,3,4,4,Company Website,8,2019,10
+796,Boitumelo Sanchez,Female,51,Single,Bachelor's,Human Resources,HR Manager,2024-03-26,,Active,,2.3,51456,No,13,3,4,3,University Fair,9,2024,3
+797,Carol Lopez,Female,32,Single,High School,Research & Development,Research Scientist,2023-07-18,,Active,,3.0,20760,Yes,10,1,3,4,LinkedIn,8,2023,7
+798,Jeffrey Miller,Male,29,Married,Diploma,Human Resources,HR Analyst,2019-12-10,,Active,,6.6,80165,No,11,3,2,1,Job Portal,5,2019,12
+799,Margaret Williams,Female,46,Divorced,Master's,Sales,Sales Executive,2016-08-20,,Active,,9.9,41354,No,10,2,4,3,Employee Referral,8,2016,8
+800,Joseph Davis,Male,48,Divorced,Bachelor's,Sales,Sales Representative,2020-03-19,,Active,,6.3,51011,No,1,4,4,2,University Fair,8,2020,3
+801,Lisa Davis,Female,33,Single,Bachelor's,IT,IT Support Specialist,2019-04-21,,Active,,7.2,46066,No,1,2,1,3,Company Website,14,2019,4
+802,Gary Moore,Male,38,Single,Diploma,IT,IT Support Specialist,2018-11-20,,Active,,7.6,59572,No,14,3,3,2,Job Portal,10,2018,11
+803,Michael Harris,Male,32,Married,PhD,Research & Development,Research Scientist,2018-11-23,,Active,,7.6,47892,Yes,3,1,2,2,Employee Referral,16,2018,11
+804,Jacob Jones,Male,30,Single,Bachelor's,Human Resources,HR Manager,2022-11-04,2025-03-17,Terminated,Resignation - Personal Reasons,2.4,30745,No,4,3,4,3,Employee Referral,8,2022,11
+805,Zanele Ramirez,Female,34,Married,Bachelor's,Sales,Sales Executive,2026-03-27,,Active,,0.3,69226,No,1,3,3,4,LinkedIn,8,2026,3
+806,Robert Jones,Male,35,Married,Bachelor's,Sales,Sales Manager,2024-09-18,,Active,,1.8,66142,No,6,2,4,1,Employee Referral,8,2024,9
+807,Mary Williams,Female,40,Divorced,Master's,Finance,Finance Manager,2017-09-12,2025-09-17,Terminated,Retirement,8.0,18000,No,1,3,4,2,LinkedIn,3,2017,9
+808,Lerato Dlamini,Female,32,Single,Bachelor's,Human Resources,HR Analyst,2025-06-19,,Active,,1.0,29109,No,8,4,3,2,University Fair,9,2025,6
+809,Paul Smith,Male,31,Married,Bachelor's,Research & Development,Manufacturing Director,2017-05-11,,Active,,9.1,31156,No,3,2,4,3,Job Portal,8,2017,5
+810,Donna Sanchez,Female,51,Married,Bachelor's,Sales,Sales Executive,2020-02-05,,Active,,6.4,63769,No,3,2,4,3,LinkedIn,8,2020,2
+811,Cynthia Jackson,Female,24,Married,High School,Finance,Accountant,2022-03-21,,Active,,4.3,32192,No,8,3,2,4,Company Website,9,2022,3
+812,Anthony Martin,Male,49,Married,Bachelor's,IT,Software Engineer,2023-01-27,,Active,,3.4,75931,No,17,3,4,4,LinkedIn,5,2023,1
+813,Jacob Gonzalez,Male,33,Divorced,Bachelor's,Sales,Sales Representative,2016-04-13,,Active,,10.2,59197,No,4,3,3,3,Employee Referral,10,2016,4
+814,Nomvula Harris,Female,44,Single,PhD,Sales,Sales Manager,2021-08-08,2024-10-04,Terminated,Dismissal - Performance,3.2,29597,No,2,3,3,2,LinkedIn,12,2021,8
+815,Carol Brown,Female,31,Divorced,Master's,Research & Development,Research Scientist,2020-07-18,2022-01-13,Terminated,Resignation - Personal Reasons,1.5,53934,Yes,4,3,3,2,University Fair,14,2020,7
+816,Skyler Zulu,Non-Binary,33,Married,Bachelor's,Sales,Sales Representative,2026-05-16,2026-07-15,Terminated,Resignation - Better Opportunity,0.2,47433,Yes,10,2,3,2,Company Website,16,2026,5
+817,John Nkosi,Male,32,Single,Bachelor's,Marketing,Marketing Specialist,2018-09-21,,Active,,7.8,50746,No,1,2,3,4,LinkedIn,5,2018,9
+818,Matthew Brown,Male,38,Divorced,Bachelor's,Marketing,Marketing Specialist,2021-02-11,,Active,,5.4,30062,No,1,4,3,4,LinkedIn,8,2021,2
+819,Susan Davis,Female,31,Married,Master's,Human Resources,HR Manager,2016-09-15,,Active,,9.8,45033,No,3,3,1,1,Job Portal,14,2016,9
+820,Stephanie Lee,Female,45,Single,Master's,Sales,Sales Representative,2019-08-10,,Active,,6.9,57206,No,24,4,3,3,LinkedIn,10,2019,8
+821,Boitumelo Lopez,Female,30,Married,Diploma,Research & Development,Research Scientist,2019-01-26,,Active,,7.4,63083,Yes,1,4,3,3,Employee Referral,12,2019,1
+822,Ronald Ndlovu,Male,27,Single,Bachelor's,Sales,Sales Representative,2026-05-19,,Active,,0.1,70274,Yes,6,4,3,4,LinkedIn,17,2026,5
+823,Deborah Hernandez,Female,53,Single,High School,Sales,Account Manager,2016-11-26,,Active,,9.6,50425,Yes,3,4,4,3,LinkedIn,7,2016,11
+824,Boitumelo Jackson,Female,23,Single,Diploma,Research & Development,Manufacturing Director,2023-10-06,,Active,,2.7,44377,Yes,11,3,3,3,Company Website,7,2023,10
+825,Kenneth Mokoena,Male,34,Single,Bachelor's,Research & Development,Laboratory Technician,2017-12-15,,Active,,8.5,38893,No,3,3,4,2,University Fair,3,2017,12
+826,Lisa Dlamini,Female,51,Married,Master's,Finance,Financial Analyst,2023-01-12,,Active,,3.5,56210,No,1,3,3,3,Job Portal,6,2023,1
+827,Rebecca Smith,Female,36,Single,PhD,Human Resources,HR Manager,2017-04-26,,Active,,9.2,53016,No,11,3,1,1,University Fair,11,2017,4
+828,Melissa Zulu,Female,34,Single,Bachelor's,Human Resources,HR Analyst,2024-08-21,,Active,,1.9,44320,Yes,6,3,3,2,Job Portal,9,2024,8
+829,Linda Gonzalez,Female,38,Married,Master's,Sales,Sales Representative,2023-09-07,,Active,,2.8,27403,No,4,3,4,2,Recruitment Agency,6,2023,9
+830,Lisa Hernandez,Female,36,Married,Bachelor's,Finance,Financial Analyst,2016-08-09,,Active,,9.9,32381,Yes,21,4,4,4,Employee Referral,9,2016,8
+831,Ryan Taylor,Male,47,Single,Diploma,Research & Development,Manufacturing Director,2016-06-26,,Active,,10.0,56261,No,7,4,2,4,University Fair,12,2016,6
+832,Lisa Hernandez,Female,20,Single,Diploma,IT,Systems Administrator,2021-10-10,,Active,,4.7,42952,No,3,3,4,4,Company Website,6,2021,10
+833,Laura Mahlangu,Female,47,Single,Diploma,Finance,Payroll Specialist,2018-03-25,2025-12-25,Terminated,Retirement,7.8,47389,No,21,2,4,4,Job Portal,7,2018,3
+834,Sandra Miller,Female,31,Single,Diploma,Sales,Account Manager,2025-10-03,,Active,,0.7,85045,No,3,3,2,2,LinkedIn,5,2025,10
+835,Thandiwe Mahlangu,Female,41,Divorced,Diploma,Human Resources,HR Analyst,2017-08-16,,Active,,8.9,40923,No,10,3,4,1,Recruitment Agency,8,2017,8
+836,Matthew Harris,Male,29,Married,Diploma,Research & Development,Manufacturing Director,2024-01-27,,Active,,2.4,73004,No,1,3,2,3,Job Portal,9,2024,1
+837,Margaret Perez,Female,26,Married,Diploma,Sales,Sales Executive,2019-02-23,,Active,,7.4,52194,Yes,3,2,4,3,Recruitment Agency,11,2019,2
+838,Rebecca Hernandez,Female,23,Single,Diploma,IT,Data Analyst,2025-12-09,,Active,,0.6,42881,No,1,2,3,4,Company Website,8,2025,12
+839,Nancy Molefe,Female,36,Divorced,Bachelor's,Operations,Operations Manager,2016-12-20,,Active,,9.5,23051,No,10,4,3,3,Recruitment Agency,8,2016,12
+840,Betty Mahlangu,Female,44,Married,High School,Human Resources,HR Analyst,2019-02-17,,Active,,7.4,50979,No,8,1,4,1,Company Website,7,2019,2
+841,Steven Thomas,Male,38,Single,Master's,Research & Development,Laboratory Technician,2025-12-31,,Active,,0.5,41411,No,15,2,1,3,University Fair,12,2025,12
+842,James Clark,Male,36,Divorced,Bachelor's,Operations,Operations Analyst,2021-04-11,,Active,,5.2,53504,Yes,1,3,3,3,LinkedIn,9,2021,4
+843,Sharon Mokoena,Female,25,Single,High School,Research & Development,Research Scientist,2021-01-27,2024-01-06,Terminated,Resignation - Personal Reasons,2.9,53815,No,2,4,1,2,Company Website,13,2021,1
+844,Rebecca Wilson,Female,25,Single,Bachelor's,Sales,Sales Manager,2018-09-06,,Active,,7.8,72663,Yes,3,3,4,2,LinkedIn,4,2018,9
+845,Sipho Martin,Male,28,Divorced,Bachelor's,Sales,Account Manager,2025-08-15,,Active,,0.9,44557,No,11,4,2,4,LinkedIn,14,2025,8
+846,Gary Robinson,Male,28,Divorced,Bachelor's,IT,Systems Administrator,2018-01-27,2022-05-23,Terminated,Restructuring/Layoff,4.3,30651,No,2,3,3,4,LinkedIn,13,2018,1
+847,William Harris,Male,44,Married,High School,Marketing,Content Strategist,2021-12-14,,Active,,4.5,51871,No,14,1,2,4,Job Portal,7,2021,12
+848,Tumelo Molefe,Male,44,Divorced,Master's,IT,Software Engineer,2022-12-16,,Active,,3.5,74957,No,2,3,2,3,LinkedIn,8,2022,12
+849,Lwazi White,Male,29,Divorced,Bachelor's,Marketing,Marketing Specialist,2020-04-17,,Active,,6.2,76856,No,1,3,1,4,LinkedIn,14,2020,4
+850,Melissa White,Female,34,Single,Bachelor's,Sales,Sales Executive,2022-04-15,,Active,,4.2,51883,No,9,3,4,2,Employee Referral,5,2022,4
+851,Carol Thomas,Female,36,Divorced,Master's,Human Resources,HR Analyst,2024-04-08,,Active,,2.2,58049,No,7,3,4,3,Company Website,6,2024,4
+852,Betty Anderson,Female,31,Married,Bachelor's,Research & Development,Research Director,2021-08-24,,Active,,4.9,43434,No,15,4,2,3,LinkedIn,9,2021,8
+853,Elizabeth White,Female,21,Single,Bachelor's,Research & Development,Manufacturing Director,2021-08-15,,Active,,4.9,45026,No,14,3,3,4,Recruitment Agency,8,2021,8
+854,Tumelo Zulu,Male,30,Divorced,Bachelor's,Marketing,Brand Manager,2022-12-18,,Active,,3.5,56992,No,1,3,1,3,Company Website,5,2022,12
+855,William Gonzalez,Male,20,Single,High School,Marketing,Brand Manager,2016-12-23,,Active,,9.5,71288,Yes,4,4,4,2,Job Portal,9,2016,12
+856,Elizabeth Miller,Female,41,Single,Diploma,Sales,Sales Executive,2023-10-26,,Active,,2.7,36532,Yes,23,2,1,2,Employee Referral,11,2023,10
+857,Kagiso Johnson,Male,34,Married,Bachelor's,Research & Development,Laboratory Technician,2021-04-25,,Active,,5.2,64653,No,2,2,4,2,Company Website,3,2021,4
+858,Patricia Jackson,Female,49,Married,Bachelor's,Sales,Sales Executive,2025-10-10,2026-02-06,Terminated,Dismissal - Misconduct,0.3,30235,No,6,4,3,2,University Fair,5,2025,10
+859,George Lee,Male,43,Single,Bachelor's,Human Resources,HR Analyst,2021-02-18,,Active,,5.4,42157,No,4,3,1,4,Job Portal,7,2021,2
+860,Daniel Taylor,Male,44,Single,Master's,Sales,Sales Manager,2019-03-26,,Active,,7.3,57341,No,7,3,3,3,Employee Referral,10,2019,3
+861,Timothy Jackson,Male,39,Divorced,Master's,Research & Development,Laboratory Technician,2022-12-08,,Active,,3.6,49003,No,1,2,4,2,University Fair,9,2022,12
+862,Emily Lopez,Female,20,Single,Diploma,Operations,Operations Manager,2017-10-22,,Active,,8.7,66164,No,3,4,4,4,Job Portal,8,2017,10
+863,Musa Rodriguez,Male,39,Divorced,Bachelor's,Research & Development,Research Director,2018-01-25,2020-07-13,Terminated,Dismissal - Misconduct,2.5,30784,No,2,2,2,4,Job Portal,10,2018,1
+864,Amanda Martinez,Female,21,Single,Bachelor's,Research & Development,Laboratory Technician,2021-12-25,,Active,,4.5,54181,No,4,2,4,2,Recruitment Agency,5,2021,12
+865,Thabo Martinez,Male,28,Divorced,High School,Operations,Logistics Coordinator,2017-10-01,,Active,,8.8,62852,No,24,4,4,2,University Fair,9,2017,10
+866,Lwazi Perez,Male,32,Divorced,Master's,Finance,Finance Manager,2021-04-25,,Active,,5.2,46052,No,1,3,4,3,Company Website,4,2021,4
+867,Karen Molefe,Female,38,Divorced,Bachelor's,IT,Systems Administrator,2019-10-19,,Active,,6.7,30628,No,1,3,1,3,Recruitment Agency,15,2019,10
+868,Jennifer Rodriguez,Female,49,Divorced,High School,Finance,Financial Analyst,2019-06-15,,Active,,7.0,58409,No,13,3,4,4,Employee Referral,7,2019,6
+869,Laura Thompson,Female,28,Divorced,Bachelor's,Sales,Sales Executive,2022-10-26,,Active,,3.7,37028,Yes,10,3,2,2,University Fair,14,2022,10
+870,Paul Moore,Male,43,Divorced,Master's,Sales,Sales Executive,2022-01-14,,Active,,4.5,51101,No,1,4,3,4,Company Website,6,2022,1
+871,Barbara Khumalo,Female,38,Divorced,Bachelor's,Research & Development,Manufacturing Director,2019-07-25,,Active,,6.9,32381,Yes,5,3,2,2,LinkedIn,11,2019,7
+872,Melissa Sanchez,Female,28,Married,High School,Sales,Account Manager,2020-02-23,2024-08-21,Terminated,Retirement,4.5,48331,No,4,2,4,4,Job Portal,9,2020,2
+873,Donna Lewis,Female,39,Married,Bachelor's,Marketing,Marketing Specialist,2018-06-02,,Active,,8.1,40395,No,1,2,3,4,Company Website,7,2018,6
+874,Rebecca Lewis,Female,42,Single,Master's,Research & Development,Manufacturing Director,2024-03-03,,Active,,2.3,41632,No,12,3,3,3,University Fair,11,2024,3
+875,David Martinez,Male,33,Married,Bachelor's,Sales,Account Manager,2025-09-23,,Active,,0.8,38969,No,1,2,4,4,LinkedIn,8,2025,9
+876,Boitumelo Harris,Female,40,Married,Master's,Sales,Account Manager,2023-03-01,,Active,,3.3,65377,No,3,4,1,4,Employee Referral,8,2023,3
+877,Bongani Robinson,Male,50,Married,Diploma,IT,Data Analyst,2018-03-27,,Active,,8.3,48959,No,20,3,2,1,Job Portal,8,2018,3
+878,Bongani Dlamini,Male,20,Married,Bachelor's,Sales,Sales Manager,2025-05-11,,Active,,1.1,62812,Yes,31,3,2,3,University Fair,15,2025,5
+879,Gary Anderson,Male,31,Divorced,PhD,Sales,Sales Executive,2017-09-22,2020-10-31,Terminated,Retirement,3.1,36426,Yes,2,4,1,3,Recruitment Agency,14,2017,9
+880,Jordan Jackson,Non-Binary,31,Single,Bachelor's,Research & Development,Manufacturing Director,2026-03-03,,Active,,0.3,48621,No,3,3,3,4,LinkedIn,12,2026,3
+881,Joseph Moore,Male,33,Divorced,Bachelor's,Human Resources,HR Business Partner,2022-09-19,,Active,,3.8,45343,Yes,2,4,3,1,Recruitment Agency,8,2022,9
+882,Naledi Ramirez,Female,37,Married,Master's,Marketing,Brand Manager,2023-10-14,,Active,,2.7,36020,No,15,3,4,3,University Fair,5,2023,10
+883,Musa Johnson,Male,34,Married,High School,Marketing,Marketing Manager,2022-07-10,,Active,,4.0,59367,No,31,4,4,2,Recruitment Agency,4,2022,7
+884,Thomas Thompson,Male,38,Married,Bachelor's,Sales,Sales Manager,2020-01-19,,Active,,6.4,45035,No,1,3,3,3,LinkedIn,2,2020,1
+885,Emily Jackson,Female,36,Divorced,Diploma,Human Resources,HR Business Partner,2021-10-05,,Active,,4.7,49157,No,11,3,3,3,Employee Referral,4,2021,10
+886,Susan Botha,Female,30,Married,Master's,IT,IT Support Specialist,2025-10-13,2026-03-02,Terminated,Restructuring/Layoff,0.4,41910,No,1,3,3,3,Company Website,16,2025,10
+887,Ronald Miller,Male,31,Single,Diploma,Human Resources,Recruiter,2025-03-26,,Active,,1.3,30169,Yes,8,3,2,3,University Fair,13,2025,3
+888,Joshua White,Male,34,Single,Master's,IT,Systems Administrator,2019-10-25,,Active,,6.7,30267,Yes,1,3,4,3,LinkedIn,15,2019,10
+889,Mark Martinez,Male,24,Divorced,Master's,Human Resources,HR Manager,2024-11-30,,Active,,1.6,52319,Yes,3,3,1,4,Company Website,13,2024,11
+890,Palesa Zulu,Female,46,Single,Bachelor's,IT,Software Engineer,2020-09-05,,Active,,5.8,63114,Yes,8,3,1,3,LinkedIn,13,2020,9
+891,Thomas Johnson,Male,26,Divorced,Master's,Human Resources,Recruiter,2023-10-01,2024-12-05,Terminated,Resignation - Personal Reasons,1.2,28812,No,6,3,4,3,University Fair,6,2023,10
+892,George Lopez,Male,33,Single,Master's,IT,Software Engineer,2024-05-07,,Active,,2.1,61680,No,14,4,3,4,Employee Referral,2,2024,5
+893,Charles Anderson,Male,35,Married,PhD,Research & Development,Laboratory Technician,2017-06-17,,Active,,9.0,40588,No,16,2,3,4,Company Website,8,2017,6
+894,Jessica Jones,Female,42,Single,Bachelor's,Sales,Account Manager,2024-06-29,,Active,,2.0,40998,No,4,3,4,2,LinkedIn,5,2024,6
+895,Jennifer Khumalo,Female,40,Single,Master's,Finance,Payroll Specialist,2017-05-02,,Active,,9.2,43516,No,5,4,4,4,LinkedIn,6,2017,5
+896,Kevin Smith,Male,41,Divorced,Bachelor's,IT,Software Engineer,2026-04-26,,Active,,0.2,39413,Yes,1,2,2,3,Employee Referral,12,2026,4
+897,Matthew Thompson,Male,47,Single,Bachelor's,Sales,Sales Representative,2025-06-26,2026-01-14,Terminated,Dismissal - Misconduct,0.6,88284,Yes,1,2,4,2,University Fair,13,2025,6
+898,Steven Khumalo,Male,47,Single,Bachelor's,Finance,Financial Analyst,2025-03-11,,Active,,1.3,44849,No,2,4,2,2,University Fair,10,2025,3
+899,Mark Gonzalez,Male,40,Single,PhD,Operations,Operations Manager,2026-02-10,2026-06-18,Terminated,Resignation - Better Opportunity,0.4,56846,No,1,4,3,3,Employee Referral,6,2026,2
+900,Lwazi Nkosi,Male,44,Single,Bachelor's,Research & Development,Laboratory Technician,2020-12-05,,Active,,5.6,51939,No,8,3,4,1,Employee Referral,5,2020,12
+901,Amanda Harris,Female,42,Married,Diploma,Research & Development,Laboratory Technician,2020-07-27,,Active,,5.9,61355,Yes,5,3,2,3,LinkedIn,6,2020,7
+902,Gary Davis,Male,27,Married,Bachelor's,Human Resources,HR Analyst,2024-07-19,,Active,,1.9,52591,Yes,2,2,3,3,University Fair,10,2024,7
+903,Robert Garcia,Male,46,Divorced,Diploma,Research & Development,Research Scientist,2020-04-25,,Active,,6.2,77472,No,4,3,2,2,Company Website,6,2020,4
+904,Donna Lewis,Female,28,Married,PhD,Sales,Account Manager,2019-04-05,,Active,,7.2,34890,No,35,3,3,3,Employee Referral,5,2019,4
+905,Elizabeth Nkosi,Female,31,Single,Bachelor's,Operations,Logistics Coordinator,2018-01-04,2018-04-26,Terminated,Restructuring/Layoff,0.3,28275,No,2,3,1,3,Recruitment Agency,6,2018,1
+906,Skyler Mokoena,Non-Binary,39,Married,Diploma,Finance,Financial Analyst,2017-05-03,,Active,,9.2,56996,No,5,4,4,4,Company Website,6,2017,5
+907,Sanele Miller,Male,39,Single,Bachelor's,IT,Data Analyst,2016-09-22,,Active,,9.8,59118,No,2,1,4,2,Job Portal,6,2016,9
+908,Margaret Botha,Female,29,Married,Diploma,Marketing,Brand Manager,2017-05-17,,Active,,9.1,50617,No,1,1,3,4,Company Website,14,2017,5
+909,Nomvula Moore,Female,42,Divorced,Bachelor's,IT,IT Support Specialist,2024-06-24,2026-06-13,Terminated,Dismissal - Performance,2.0,61393,No,1,4,4,1,University Fair,9,2024,6
+910,Edward Dlamini,Male,26,Single,Bachelor's,Human Resources,HR Manager,2024-08-11,,Active,,1.9,21299,No,6,4,4,2,Job Portal,6,2024,8
+911,Thabo Dlamini,Male,41,Single,High School,Sales,Sales Representative,2016-05-01,,Active,,10.2,48955,Yes,17,4,1,4,LinkedIn,13,2016,5
+912,Thabo Johnson,Male,33,Single,Bachelor's,Operations,Supply Chain Analyst,2022-10-12,,Active,,3.7,48489,Yes,4,1,4,2,Job Portal,9,2022,10
+913,Susan Jones,Female,39,Married,Diploma,Finance,Payroll Specialist,2024-11-21,2026-05-12,Terminated,Resignation - Personal Reasons,1.5,49928,No,1,3,4,3,Recruitment Agency,7,2024,11
+914,Lwazi Taylor,Male,41,Married,High School,Human Resources,HR Business Partner,2024-07-26,,Active,,1.9,45957,No,22,4,2,3,LinkedIn,9,2024,7
+915,Deborah Lewis,Female,34,Single,Bachelor's,Research & Development,Manufacturing Director,2020-12-17,,Active,,5.5,68543,No,1,3,4,2,Employee Referral,7,2020,12
+916,Amahle Martin,Female,39,Married,Bachelor's,Marketing,Marketing Manager,2021-07-06,,Active,,5.0,18000,No,8,3,2,4,Company Website,14,2021,7
+917,Deborah Dlamini,Female,62,Divorced,Bachelor's,IT,Systems Administrator,2023-05-27,,Active,,3.1,45362,Yes,10,2,3,4,University Fair,10,2023,5
+918,Skyler Nkosi,Non-Binary,38,Married,High School,Finance,Accountant,2021-09-06,,Active,,4.8,54470,Yes,22,3,4,3,Recruitment Agency,6,2021,9
+919,Sanele Harris,Male,48,Married,PhD,Finance,Finance Manager,2024-08-05,,Active,,1.9,40366,No,1,3,1,3,LinkedIn,13,2024,8
+920,John Mahlangu,Male,31,Single,Bachelor's,Sales,Sales Manager,2019-11-29,2020-05-17,Terminated,Restructuring/Layoff,0.5,35442,Yes,11,4,4,3,Recruitment Agency,14,2019,11
+921,Timothy Thompson,Male,47,Single,Diploma,Research & Development,Research Scientist,2023-06-01,,Active,,3.1,18000,Yes,8,2,4,4,Company Website,11,2023,6
+922,Kevin Mahlangu,Male,43,Married,Bachelor's,Sales,Sales Executive,2025-09-29,,Active,,0.8,40501,No,6,2,3,3,Employee Referral,13,2025,9
+923,John Zulu,Male,25,Divorced,Master's,Research & Development,Manufacturing Director,2023-05-18,,Active,,3.1,71554,No,1,3,2,1,University Fair,7,2023,5
+924,Rebecca Moore,Female,36,Married,Bachelor's,Sales,Account Manager,2022-08-05,2022-11-18,Terminated,Retirement,0.3,61418,No,1,3,2,3,Job Portal,9,2022,8
+925,Naledi Miller,Female,40,Married,Bachelor's,IT,Software Engineer,2023-09-30,,Active,,2.8,63488,No,1,3,2,3,Recruitment Agency,11,2023,9
+926,Lwazi Perez,Male,62,Single,PhD,Sales,Sales Manager,2020-01-28,,Active,,6.4,56483,Yes,1,3,1,3,Recruitment Agency,12,2020,1
+927,Elizabeth Zulu,Female,31,Divorced,Diploma,Sales,Sales Manager,2016-07-13,,Active,,10.0,36833,Yes,3,3,4,4,Recruitment Agency,9,2016,7
+928,Sandra van der Merwe,Female,43,Single,Master's,IT,Software Engineer,2024-01-18,,Active,,2.4,42516,No,4,2,3,3,University Fair,9,2024,1
+929,George Moore,Male,44,Divorced,Master's,Sales,Account Manager,2020-10-15,2022-02-16,Terminated,Retirement,1.3,48735,No,20,3,3,4,Job Portal,9,2020,10
+930,Lwazi Martin,Male,22,Married,Bachelor's,Research & Development,Research Director,2018-03-30,,Active,,8.3,83196,No,6,2,4,3,University Fair,7,2018,3
+931,Lwazi Robinson,Male,36,Divorced,High School,Finance,Accountant,2025-11-17,,Active,,0.6,34174,No,8,4,2,3,University Fair,10,2025,11
+932,Matthew Molefe,Male,20,Divorced,Master's,Human Resources,HR Analyst,2019-01-02,,Active,,7.5,21177,Yes,5,3,1,3,University Fair,11,2019,1
+933,Sharon Molefe,Female,53,Married,Diploma,IT,Software Engineer,2021-11-09,,Active,,4.6,49849,No,4,3,4,3,Employee Referral,7,2021,11
+934,Ashley Martinez,Female,48,Married,Bachelor's,IT,IT Support Specialist,2025-06-19,,Active,,1.0,51163,No,35,3,3,4,LinkedIn,11,2025,6
+935,Mark Clark,Male,28,Single,Bachelor's,Sales,Sales Manager,2023-03-31,2024-04-22,Terminated,Retirement,1.1,72041,No,1,3,3,3,Recruitment Agency,7,2023,3
+936,Steven Davis,Male,20,Married,Master's,Sales,Sales Executive,2018-10-02,,Active,,7.7,35906,No,1,4,4,3,Recruitment Agency,4,2018,10
+937,Thabo Ndlovu,Male,26,Single,Master's,Operations,Supply Chain Analyst,2023-04-03,,Active,,3.2,44159,Yes,1,3,4,3,Employee Referral,5,2023,4
+938,Kenneth Rodriguez,Male,27,Divorced,Bachelor's,Sales,Sales Manager,2023-05-21,,Active,,3.1,43553,No,10,3,4,4,LinkedIn,8,2023,5
+939,Thabo Johnson,Male,20,Married,Master's,Sales,Sales Executive,2019-07-09,2026-06-06,Terminated,Retirement,6.9,61426,No,11,4,3,4,Job Portal,6,2019,7
+940,Barbara Sanchez,Female,20,Divorced,Diploma,Operations,Operations Manager,2018-08-24,,Active,,7.9,44702,Yes,12,3,3,3,University Fair,12,2018,8
+941,Joseph Mokoena,Male,40,Married,Bachelor's,Finance,Finance Manager,2021-07-26,2022-03-27,Terminated,Resignation - Personal Reasons,0.7,50355,No,11,3,3,3,Job Portal,7,2021,7
+942,Boitumelo Harris,Female,45,Single,Diploma,IT,Data Analyst,2020-09-28,,Active,,5.8,62683,No,37,3,4,3,Employee Referral,11,2020,9
+943,Mark Moore,Male,35,Married,Bachelor's,Research & Development,Research Director,2025-09-04,,Active,,0.8,20585,No,1,2,2,2,University Fair,11,2025,9
+944,Melissa Davis,Female,35,Married,Bachelor's,Research & Development,Manufacturing Director,2021-04-29,,Active,,5.2,54313,No,5,3,2,3,Employee Referral,8,2021,4
+945,Melissa Nkosi,Female,33,Divorced,Bachelor's,IT,IT Support Specialist,2016-03-27,,Active,,10.3,56250,No,8,3,3,3,LinkedIn,10,2016,3
+946,Linda Thomas,Female,48,Divorced,Bachelor's,Sales,Account Manager,2019-06-20,,Active,,7.0,63897,Yes,4,3,3,4,Job Portal,13,2019,6
+947,Joseph Zulu,Male,51,Married,Master's,Marketing,Brand Manager,2020-05-10,2020-08-10,Terminated,Dismissal - Performance,0.3,42330,No,2,3,1,2,Job Portal,7,2020,5
+948,Barbara Thomas,Female,26,Married,Bachelor's,Research & Development,Laboratory Technician,2026-04-09,,Active,,0.2,50098,No,2,3,1,4,Company Website,12,2026,4
+949,Rebecca Williams,Female,34,Married,Master's,Sales,Sales Executive,2025-03-25,,Active,,1.3,35320,No,3,2,2,2,Recruitment Agency,14,2025,3
+950,Jeffrey Perez,Male,25,Married,Diploma,IT,Software Engineer,2025-03-30,,Active,,1.3,35922,No,4,3,3,3,University Fair,5,2025,3
+951,William Thompson,Male,34,Single,Bachelor's,Research & Development,Research Director,2021-01-30,,Active,,5.4,38555,Yes,11,3,4,1,Company Website,7,2021,1
+952,Matthew Lewis,Male,24,Divorced,Bachelor's,IT,Data Analyst,2016-01-13,,Active,,10.5,59923,No,5,4,3,2,Job Portal,5,2016,1
+953,Michelle Molefe,Female,43,Divorced,Bachelor's,Sales,Sales Representative,2018-10-19,,Active,,7.7,42581,No,9,3,4,4,Employee Referral,10,2018,10
+954,Jeffrey Lee,Male,28,Divorced,Diploma,Research & Development,Laboratory Technician,2018-12-03,,Active,,7.6,33067,No,4,3,2,2,Job Portal,3,2018,12
+955,Joshua Gonzalez,Male,31,Divorced,Master's,Sales,Sales Manager,2018-01-15,2022-08-13,Terminated,Dismissal - Performance,4.6,55862,No,2,4,4,3,Employee Referral,4,2018,1
+956,John Johnson,Male,33,Married,High School,Operations,Operations Manager,2026-03-03,,Active,,0.3,45362,No,5,2,3,4,Employee Referral,7,2026,3
+957,Andrew Hernandez,Male,39,Single,Diploma,Sales,Account Manager,2022-09-25,,Active,,3.8,81594,Yes,5,3,4,4,Job Portal,7,2022,9
+958,Daniel Molefe,Male,33,Married,Master's,Sales,Account Manager,2024-09-02,,Active,,1.8,41197,No,22,4,4,1,Company Website,5,2024,9
+959,Thabo Davis,Male,35,Married,Bachelor's,Sales,Sales Representative,2018-02-19,2021-04-14,Terminated,Retirement,3.2,60130,No,3,3,3,1,Employee Referral,10,2018,2
+960,Ryan Wilson,Male,41,Married,Bachelor's,Finance,Finance Manager,2024-02-24,,Active,,2.3,35928,No,12,2,4,3,Employee Referral,8,2024,2
+961,Rebecca Martinez,Female,47,Single,Bachelor's,Sales,Sales Manager,2018-08-22,,Active,,7.9,40620,No,4,3,3,4,Job Portal,19,2018,8
+962,Skyler Garcia,Non-Binary,22,Divorced,Bachelor's,Sales,Sales Representative,2025-10-09,,Active,,0.7,43744,No,1,3,4,4,Recruitment Agency,4,2025,10
+963,Betty Harris,Female,42,Single,High School,IT,IT Support Specialist,2016-10-26,,Active,,9.7,40946,No,10,2,4,2,LinkedIn,7,2016,10
+964,George Thomas,Male,47,Single,Bachelor's,Human Resources,Recruiter,2022-10-19,2026-04-26,Terminated,Restructuring/Layoff,3.5,49220,Yes,5,2,4,3,LinkedIn,5,2022,10
+965,Dorothy Khumalo,Female,55,Single,Bachelor's,Finance,Finance Manager,2020-06-04,,Active,,6.1,47257,No,11,3,4,3,University Fair,4,2020,6
+966,Robert Mahlangu,Male,34,Married,Bachelor's,Sales,Sales Representative,2021-08-25,,Active,,4.8,48672,Yes,7,3,3,1,Recruitment Agency,9,2021,8
+967,Thomas Garcia,Male,37,Married,Diploma,Research & Development,Manufacturing Director,2017-08-03,,Active,,8.9,59349,Yes,5,4,2,4,LinkedIn,10,2017,8
+968,Thomas Dlamini,Male,20,Married,Bachelor's,Marketing,Content Strategist,2024-05-21,,Active,,2.1,31237,No,9,3,2,4,Job Portal,8,2024,5
+969,Dorothy van der Merwe,Female,25,Single,Bachelor's,Marketing,Content Strategist,2021-10-18,,Active,,4.7,32128,No,17,3,4,4,Job Portal,6,2021,10
+970,Thabo Martinez,Male,36,Single,Diploma,Human Resources,HR Analyst,2016-08-05,,Active,,9.9,63536,Yes,15,3,3,4,Employee Referral,11,2016,8
+971,Lisa Williams,Female,36,Single,Bachelor's,Human Resources,HR Manager,2023-12-01,,Active,,2.6,28654,No,3,3,3,3,Recruitment Agency,8,2023,12
+972,Robert Lewis,Male,24,Divorced,Bachelor's,Research & Development,Manufacturing Director,2021-02-17,,Active,,5.4,52058,No,2,4,3,4,Employee Referral,8,2021,2
+973,Joseph Thompson,Male,41,Married,Bachelor's,Sales,Sales Manager,2018-01-09,2020-01-28,Terminated,Restructuring/Layoff,2.1,47609,No,1,3,4,3,University Fair,7,2018,1
+974,Boitumelo Wilson,Female,46,Single,Master's,Finance,Financial Analyst,2021-11-24,,Active,,4.6,42179,Yes,1,4,4,3,Recruitment Agency,13,2021,11
+975,Elizabeth Thomas,Female,30,Married,Bachelor's,IT,Software Engineer,2025-12-13,,Active,,0.5,18000,Yes,36,3,4,3,Company Website,8,2025,12
+976,Jessica Sanchez,Female,33,Single,Bachelor's,Research & Development,Research Scientist,2025-05-21,,Active,,1.1,53860,No,7,3,2,1,LinkedIn,12,2025,5
+977,Cynthia Nkosi,Female,20,Divorced,PhD,Research & Development,Research Director,2022-08-30,2022-11-09,Terminated,Retirement,0.2,43819,Yes,3,4,4,4,University Fair,10,2022,8
+978,Laura Lee,Female,37,Divorced,Master's,Operations,Operations Manager,2018-05-15,,Active,,8.1,66886,Yes,1,3,3,3,Job Portal,17,2018,5
+979,Michelle Brown,Female,27,Single,Bachelor's,IT,Systems Administrator,2017-01-14,,Active,,9.5,54513,Yes,4,2,1,3,Employee Referral,15,2017,1
+980,Edward Garcia,Male,32,Divorced,Diploma,Sales,Sales Representative,2017-10-29,2022-05-07,Terminated,Dismissal - Performance,4.5,39056,No,10,2,3,4,Employee Referral,13,2017,10
+981,Joseph Martin,Male,20,Married,Master's,Human Resources,HR Analyst,2024-04-02,,Active,,2.2,21040,No,10,3,3,3,Company Website,8,2024,4
+982,Thomas Thompson,Male,33,Married,Diploma,Finance,Finance Manager,2021-09-30,,Active,,4.8,73120,No,2,2,4,4,Recruitment Agency,3,2021,9
+983,Thandiwe Moore,Female,29,Married,Master's,Finance,Payroll Specialist,2017-01-04,,Active,,9.5,64122,Yes,4,4,2,3,University Fair,10,2017,1
+984,Matthew Ramirez,Male,49,Married,Bachelor's,Finance,Financial Analyst,2016-06-14,,Active,,10.0,39012,No,1,3,1,3,Company Website,14,2016,6
+985,Paul Martinez,Male,42,Single,Bachelor's,Operations,Operations Analyst,2019-04-05,,Active,,7.2,25456,No,13,1,1,4,Recruitment Agency,19,2019,4
+986,Donna Martinez,Female,38,Divorced,Bachelor's,Operations,Logistics Coordinator,2025-06-08,2025-12-12,Terminated,Dismissal - Misconduct,0.5,74923,Yes,5,4,4,3,LinkedIn,5,2025,6
+987,Amahle Jones,Female,31,Single,Bachelor's,Marketing,Marketing Specialist,2021-09-22,,Active,,4.8,47375,No,1,4,1,4,Recruitment Agency,11,2021,9
+988,Naledi Taylor,Female,35,Single,Bachelor's,Research & Development,Research Scientist,2024-08-14,,Active,,1.9,36741,No,1,3,4,4,Company Website,7,2024,8
+989,Gary Lopez,Male,38,Divorced,High School,IT,Systems Administrator,2016-07-04,,Active,,10.0,62058,No,8,2,1,1,Job Portal,12,2016,7
+990,Michelle Mahlangu,Female,42,Married,Master's,IT,Systems Administrator,2022-12-30,,Active,,3.5,44520,No,2,2,1,2,Employee Referral,10,2022,12
+991,Betty Lopez,Female,33,Married,Bachelor's,Sales,Sales Manager,2025-10-10,,Active,,0.7,41463,No,6,3,3,2,University Fair,9,2025,10
+992,Patricia Smith,Female,50,Married,Bachelor's,Research & Development,Research Scientist,2017-12-04,,Active,,8.6,33916,Yes,3,3,4,4,Company Website,7,2017,12
+993,Stephanie Botha,Female,20,Divorced,Master's,IT,IT Support Specialist,2022-12-08,,Active,,3.6,47155,No,4,2,2,4,Job Portal,15,2022,12
+994,Stephanie Martin,Female,37,Single,Diploma,Sales,Sales Representative,2016-02-26,,Active,,10.3,44769,No,9,3,4,1,Company Website,5,2016,2
+995,Margaret Johnson,Female,40,Divorced,Diploma,Sales,Sales Representative,2023-04-15,,Active,,3.2,20886,Yes,10,3,3,2,University Fair,14,2023,4
+996,Anthony Garcia,Male,42,Single,Bachelor's,Research & Development,Manufacturing Director,2017-08-29,,Active,,8.8,51931,No,21,3,3,1,LinkedIn,9,2017,8
+997,Nancy Martinez,Female,34,Divorced,Master's,IT,Systems Administrator,2021-06-09,2024-03-30,Terminated,Resignation - Better Opportunity,2.8,64792,No,1,4,3,2,Employee Referral,7,2021,6
+998,Anthony Jackson,Male,20,Single,Bachelor's,Finance,Payroll Specialist,2016-07-27,,Active,,9.9,82125,Yes,1,2,2,1,Company Website,12,2016,7
+999,Sharon Clark,Female,29,Married,Bachelor's,Marketing,Content Strategist,2016-05-31,,Active,,10.1,62880,No,5,4,1,3,University Fair,16,2016,5
+1000,Boitumelo van der Merwe,Female,50,Divorced,Bachelor's,Operations,Supply Chain Analyst,2018-08-07,,Active,,7.9,37423,Yes,1,3,2,2,LinkedIn,9,2018,8
+1001,Sharon Molefe,Female,30,Married,Master's,Research & Development,Research Scientist,2019-01-02,,Active,,7.5,39627,No,12,2,4,3,Recruitment Agency,8,2019,1
+1002,Joseph Dlamini,Male,36,Single,Bachelor's,Finance,Finance Manager,2021-01-10,,Active,,5.5,49284,No,1,3,4,1,Employee Referral,3,2021,1
+1003,Emily Gonzalez,Female,34,Divorced,Bachelor's,Human Resources,HR Analyst,2018-08-08,,Active,,7.9,66593,No,1,3,3,2,Company Website,10,2018,8
+1004,George Botha,Male,36,Divorced,Master's,Marketing,Brand Manager,2017-06-21,,Active,,9.0,41935,No,2,3,3,3,Company Website,8,2017,6
+1005,Jason Clark,Male,32,Married,Bachelor's,Marketing,Content Strategist,2024-12-04,2026-05-31,Terminated,Resignation - Personal Reasons,1.5,52031,No,16,4,3,3,Company Website,10,2024,12
+1006,David Nkosi,Male,44,Single,Bachelor's,Sales,Sales Representative,2017-10-02,,Active,,8.7,64904,Yes,1,3,1,4,Recruitment Agency,11,2017,10
+1007,Nomvula Martin,Female,20,Single,Bachelor's,Sales,Sales Executive,2016-03-15,2020-05-22,Terminated,Retirement,4.2,54795,No,3,4,2,3,Employee Referral,10,2016,3
+1008,Lerato Williams,Female,48,Single,Diploma,IT,IT Support Specialist,2020-10-29,,Active,,5.7,45739,No,10,3,4,3,LinkedIn,9,2020,10
+1009,Bongani Anderson,Male,48,Single,Bachelor's,Human Resources,Recruiter,2024-10-19,,Active,,1.7,25866,Yes,6,3,4,3,University Fair,9,2024,10
+1010,Kimberly Martinez,Female,34,Married,High School,Marketing,Marketing Specialist,2023-12-03,,Active,,2.6,46090,Yes,1,2,1,2,Recruitment Agency,10,2023,12
+1011,Jessica Miller,Female,21,Divorced,Bachelor's,IT,Software Engineer,2025-03-27,,Active,,1.3,51387,No,11,4,3,4,LinkedIn,13,2025,3
+1012,Daniel Davis,Male,33,Divorced,Bachelor's,Marketing,Content Strategist,2017-10-05,,Active,,8.7,21535,Yes,1,3,2,3,Recruitment Agency,11,2017,10
+1013,Lerato Dlamini,Female,40,Married,Bachelor's,IT,Software Engineer,2017-09-23,,Active,,8.8,66123,No,5,3,4,3,Employee Referral,8,2017,9
+1014,Joseph Gonzalez,Male,23,Single,Master's,Research & Development,Manufacturing Director,2024-08-16,,Active,,1.9,43327,No,5,2,4,3,Recruitment Agency,9,2024,8
+1015,Carol Jackson,Female,37,Married,Bachelor's,Human Resources,HR Business Partner,2018-12-25,,Active,,7.5,30113,No,3,3,4,3,Job Portal,10,2018,12
+1016,Steven Martinez,Male,37,Married,Diploma,IT,Systems Administrator,2024-10-29,,Active,,1.7,44103,No,2,2,4,3,Recruitment Agency,10,2024,10
+1017,Jeffrey Robinson,Male,42,Single,Bachelor's,Operations,Logistics Coordinator,2016-05-01,,Active,,10.2,63766,Yes,29,4,1,4,Company Website,12,2016,5
+1018,Palesa Jones,Female,20,Single,PhD,Sales,Sales Manager,2020-07-03,,Active,,6.0,48492,No,1,3,4,4,Recruitment Agency,6,2020,7
+1019,Michael Sanchez,Male,27,Divorced,Bachelor's,IT,Data Analyst,2026-02-13,,Active,,0.4,59950,No,1,4,3,3,Company Website,9,2026,2
+1020,Palesa Jackson,Female,28,Married,Bachelor's,Research & Development,Research Director,2024-02-03,,Active,,2.4,44109,Yes,44,3,1,1,LinkedIn,17,2024,2
+1021,Kenneth Mokoena,Male,37,Divorced,Bachelor's,Finance,Accountant,2023-11-08,,Active,,2.6,57983,No,24,3,4,3,Employee Referral,8,2023,11
+1022,Tumelo van der Merwe,Male,44,Divorced,Bachelor's,IT,Systems Administrator,2023-10-27,,Active,,2.7,37091,No,1,3,4,3,Recruitment Agency,1,2023,10
+1023,Margaret Martin,Female,40,Divorced,Bachelor's,Sales,Sales Manager,2020-05-16,,Active,,6.1,42176,Yes,3,2,4,3,Employee Referral,9,2020,5
+1024,Palesa Zulu,Female,42,Divorced,Bachelor's,Research & Development,Research Scientist,2021-09-26,2024-12-29,Terminated,Retirement,3.3,50985,Yes,1,3,3,3,Employee Referral,8,2021,9
+1025,John Johnson,Male,38,Married,Master's,Marketing,Content Strategist,2018-09-15,,Active,,7.8,53693,Yes,1,3,4,2,Company Website,9,2018,9
+1026,Ryan Khumalo,Male,43,Divorced,Bachelor's,Sales,Sales Executive,2025-06-09,,Active,,1.1,58533,No,3,1,3,2,University Fair,6,2025,6
+1027,Timothy Davis,Male,44,Divorced,Diploma,Sales,Sales Executive,2021-01-12,,Active,,5.5,42938,Yes,15,3,1,3,LinkedIn,16,2021,1
+1028,Cynthia Perez,Female,37,Divorced,Diploma,Operations,Operations Manager,2019-12-05,,Active,,6.6,40927,No,4,2,2,2,Company Website,10,2019,12
+1029,Musa Rodriguez,Male,37,Divorced,Bachelor's,IT,Data Analyst,2017-03-07,,Active,,9.3,41838,No,16,2,1,3,Employee Referral,10,2017,3
+1030,Melissa Robinson,Female,44,Married,High School,Sales,Account Manager,2025-04-16,2026-01-11,Terminated,Resignation - Better Opportunity,0.7,22614,No,5,3,4,1,Employee Referral,11,2025,4
+1031,Sipho Wilson,Male,44,Divorced,Bachelor's,Research & Development,Research Director,2023-08-04,,Active,,2.9,58134,No,27,3,4,3,University Fair,8,2023,8
+1032,Kagiso Sanchez,Male,45,Married,Bachelor's,Marketing,Brand Manager,2023-02-19,,Active,,3.4,32798,Yes,2,3,4,3,Company Website,11,2023,2
+1033,Thabo Clark,Male,28,Divorced,Diploma,Marketing,Marketing Manager,2021-09-02,,Active,,4.8,61033,Yes,14,2,4,2,Recruitment Agency,7,2021,9
+1034,Sarah Khumalo,Female,31,Divorced,Bachelor's,Marketing,Marketing Specialist,2023-10-15,2024-07-18,Terminated,Dismissal - Performance,0.8,52467,No,4,3,3,4,Employee Referral,8,2023,10
+1035,Amahle White,Female,21,Divorced,Diploma,Operations,Operations Analyst,2022-09-30,2025-03-14,Terminated,Resignation - Better Opportunity,2.5,33201,No,3,2,2,4,Job Portal,8,2022,9
+1036,Robert Mokoena,Male,22,Married,PhD,Sales,Sales Manager,2019-06-02,,Active,,7.1,44368,No,3,2,2,4,Job Portal,10,2019,6
+1037,Thabo Johnson,Male,37,Single,Bachelor's,IT,Data Analyst,2024-10-15,,Active,,1.7,62286,No,10,2,2,4,Job Portal,14,2024,10
+1038,Joshua Wilson,Male,27,Married,Diploma,Sales,Account Manager,2016-01-09,,Active,,10.5,83680,Yes,26,3,3,3,LinkedIn,7,2016,1
+1039,Robert Clark,Male,23,Married,Bachelor's,Human Resources,Recruiter,2022-05-06,,Active,,4.2,71279,No,1,3,4,3,Recruitment Agency,5,2022,5
+1040,Thandiwe Botha,Female,26,Married,Bachelor's,Sales,Sales Representative,2021-08-29,,Active,,4.8,43400,No,3,3,3,4,Company Website,1,2021,8
+1041,Jacob Martinez,Male,36,Divorced,Master's,Marketing,Content Strategist,2016-12-31,,Active,,9.5,77770,No,5,3,4,2,University Fair,8,2016,12
+1042,Jeffrey Harris,Male,39,Divorced,Bachelor's,Sales,Account Manager,2019-10-20,,Active,,6.7,78184,No,3,4,2,2,Recruitment Agency,3,2019,10
+1043,Kimberly Garcia,Female,40,Divorced,Bachelor's,Marketing,Marketing Specialist,2022-05-31,,Active,,4.1,64835,No,1,2,3,3,Job Portal,13,2022,5
+1044,Amahle Davis,Female,20,Divorced,PhD,Finance,Financial Analyst,2018-02-27,,Active,,8.3,63918,No,1,4,3,4,University Fair,11,2018,2
+1045,Linda Molefe,Female,47,Divorced,Bachelor's,Human Resources,HR Analyst,2021-08-20,2021-11-26,Terminated,Resignation - Better Opportunity,0.3,46122,No,13,3,2,4,Employee Referral,10,2021,8
+1046,Alex Moore,Non-Binary,34,Divorced,Bachelor's,IT,Data Analyst,2025-04-21,2026-06-16,Terminated,Dismissal - Misconduct,1.2,53200,No,1,1,3,4,University Fair,5,2025,4
+1047,Brian Sanchez,Male,24,Single,Bachelor's,Finance,Payroll Specialist,2025-08-31,2026-06-26,Terminated,Resignation - Better Opportunity,0.8,55473,No,18,3,3,3,Recruitment Agency,8,2025,8
+1048,John Mokoena,Male,29,Single,Diploma,Research & Development,Research Director,2017-01-07,,Active,,9.5,55857,Yes,2,3,3,3,University Fair,10,2017,1
+1049,Nancy Jackson,Female,30,Married,High School,Sales,Sales Manager,2024-08-12,,Active,,1.9,54155,No,9,3,4,1,Recruitment Agency,5,2024,8
+1050,Daniel Brown,Male,36,Single,High School,Finance,Finance Manager,2018-01-13,,Active,,8.5,56854,No,3,3,4,4,Job Portal,6,2018,1
+1051,Jason Miller,Male,43,Married,Bachelor's,Research & Development,Manufacturing Director,2026-01-05,,Active,,0.5,58590,Yes,1,3,3,3,LinkedIn,4,2026,1
+1052,Michael Gonzalez,Male,62,Divorced,Bachelor's,Sales,Sales Representative,2021-07-12,,Active,,5.0,49428,No,5,4,4,4,Recruitment Agency,7,2021,7
+1053,Jessica Moore,Female,53,Married,Bachelor's,Sales,Account Manager,2022-03-15,,Active,,4.3,44090,No,18,3,3,1,LinkedIn,13,2022,3
+1054,Rebecca Anderson,Female,42,Divorced,Bachelor's,Marketing,Marketing Specialist,2019-01-07,,Active,,7.5,54839,No,3,3,1,3,Company Website,12,2019,1
+1055,Susan Thomas,Female,44,Married,Bachelor's,IT,Data Analyst,2019-06-01,,Active,,7.1,54858,No,1,4,4,3,LinkedIn,3,2019,6
+1056,Lwazi Wilson,Male,52,Single,Bachelor's,IT,Data Analyst,2020-03-09,,Active,,6.3,55713,No,17,4,3,4,Employee Referral,7,2020,3
+1057,Zanele Ramirez,Female,36,Married,High School,Operations,Supply Chain Analyst,2016-06-20,,Active,,10.0,42126,Yes,5,2,2,3,University Fair,6,2016,6
+1058,Emily Hernandez,Female,37,Divorced,Bachelor's,Sales,Account Manager,2019-01-24,,Active,,7.4,36583,Yes,6,4,4,2,Recruitment Agency,15,2019,1
+1059,Timothy Wilson,Male,36,Divorced,Diploma,Finance,Finance Manager,2016-07-05,,Active,,10.0,53983,No,1,4,2,3,University Fair,8,2016,7
+1060,Elizabeth Martin,Female,49,Divorced,Diploma,Sales,Sales Executive,2025-04-24,,Active,,1.2,25571,No,1,3,4,4,Job Portal,4,2025,4
+1061,Sharon Wilson,Female,29,Married,Bachelor's,Finance,Finance Manager,2025-11-29,,Active,,0.6,33093,No,10,3,3,3,Company Website,6,2025,11
+1062,Andrew Lewis,Male,45,Married,PhD,Sales,Sales Manager,2019-10-31,2022-05-10,Terminated,Dismissal - Performance,2.5,65982,No,21,4,2,2,LinkedIn,10,2019,10
+1063,Thomas Smith,Male,35,Divorced,Diploma,Finance,Financial Analyst,2026-02-09,2026-04-11,Terminated,Restructuring/Layoff,0.2,49986,No,1,4,4,4,Company Website,4,2026,2
+1064,Thabo Sanchez,Male,40,Divorced,High School,Human Resources,HR Business Partner,2022-01-15,,Active,,4.5,63922,No,10,3,4,2,Recruitment Agency,5,2022,1
+1065,Jessica Thompson,Female,34,Married,Bachelor's,Operations,Supply Chain Analyst,2025-04-12,,Active,,1.2,27264,Yes,16,3,4,1,Employee Referral,7,2025,4
+1066,James Davis,Male,38,Divorced,High School,Human Resources,HR Manager,2020-12-25,,Active,,5.5,39339,No,5,2,2,4,LinkedIn,16,2020,12
+1067,Kenneth Thompson,Male,43,Single,Bachelor's,Sales,Sales Manager,2025-01-24,,Active,,1.4,64511,No,6,2,4,3,Recruitment Agency,8,2025,1
+1068,Ronald Williams,Male,30,Divorced,Diploma,Research & Development,Laboratory Technician,2016-01-30,,Active,,10.4,70927,No,2,1,2,2,Recruitment Agency,4,2016,1
+1069,Joseph Moore,Male,33,Divorced,Bachelor's,Finance,Payroll Specialist,2017-11-29,,Active,,8.6,40309,No,8,3,2,4,Company Website,10,2017,11
+1070,Musa Botha,Male,20,Single,Diploma,Finance,Financial Analyst,2022-08-06,,Active,,3.9,32275,No,21,3,3,2,Employee Referral,8,2022,8
+1071,Dorothy Molefe,Female,30,Single,Master's,Marketing,Content Strategist,2018-02-24,,Active,,8.4,67329,No,8,3,3,3,Company Website,10,2018,2
+1072,Tumelo van der Merwe,Male,37,Divorced,Master's,Sales,Account Manager,2016-01-09,,Active,,10.5,41203,No,5,2,3,2,Company Website,4,2016,1
+1073,Michael Lee,Male,32,Divorced,Diploma,Research & Development,Manufacturing Director,2019-01-27,,Active,,7.4,53969,No,18,1,4,3,Recruitment Agency,10,2019,1
+1074,Nomvula White,Female,39,Single,Bachelor's,Human Resources,HR Business Partner,2025-11-29,,Active,,0.6,48495,No,1,4,3,4,Job Portal,12,2025,11
+1075,Rebecca Zulu,Female,38,Single,Diploma,Research & Development,Research Scientist,2020-05-24,,Active,,6.1,53859,No,1,3,4,4,University Fair,9,2020,5
+1076,John Anderson,Male,27,Single,Master's,Operations,Supply Chain Analyst,2016-10-31,,Active,,9.7,41880,Yes,12,3,3,2,Employee Referral,9,2016,10
+1077,George Martin,Male,29,Single,Bachelor's,Sales,Sales Executive,2016-04-24,,Active,,10.2,63764,Yes,35,4,3,3,University Fair,11,2016,4
+1078,George Taylor,Male,46,Single,PhD,Sales,Account Manager,2018-09-03,,Active,,7.8,64357,No,1,3,3,4,Job Portal,17,2018,9
+1079,Palesa Thomas,Female,20,Married,High School,Operations,Supply Chain Analyst,2024-07-26,,Active,,1.9,35965,No,29,3,3,3,University Fair,4,2024,7
+1080,Jessica Garcia,Female,41,Divorced,Bachelor's,Operations,Operations Analyst,2020-03-25,,Active,,6.3,37132,No,1,3,2,3,LinkedIn,11,2020,3
+1081,Sarah Brown,Female,28,Divorced,Bachelor's,Marketing,Brand Manager,2016-08-12,,Active,,9.9,49349,No,5,3,4,4,Recruitment Agency,5,2016,8
+1082,William Miller,Male,21,Married,High School,Finance,Financial Analyst,2019-04-22,2023-09-30,Terminated,Dismissal - Performance,4.4,67004,No,20,3,4,2,Employee Referral,10,2019,4
+1083,Mary Robinson,Female,36,Single,Bachelor's,Research & Development,Manufacturing Director,2025-11-13,,Active,,0.6,33216,Yes,5,3,1,4,Job Portal,10,2025,11
+1084,Patricia Robinson,Female,42,Divorced,Diploma,Human Resources,HR Manager,2017-03-18,,Active,,9.3,24086,Yes,27,4,4,4,Company Website,11,2017,3
+1085,Elizabeth Mahlangu,Female,31,Divorced,Bachelor's,IT,Data Analyst,2026-02-21,,Active,,0.4,23062,No,1,2,3,3,University Fair,12,2026,2
+1086,Andrew Thompson,Male,37,Single,Diploma,Research & Development,Manufacturing Director,2018-01-31,,Active,,8.4,54725,No,4,3,1,2,LinkedIn,16,2018,1
+1087,Sarah Martin,Female,41,Divorced,Bachelor's,Finance,Finance Manager,2019-06-28,,Active,,7.0,26163,No,5,3,4,3,Employee Referral,4,2019,6
+1088,Charles Nkosi,Male,36,Single,Bachelor's,Research & Development,Research Director,2019-04-07,,Active,,7.2,43329,No,2,3,2,3,University Fair,11,2019,4
+1089,Sanele Martinez,Male,44,Single,Bachelor's,Sales,Sales Executive,2020-09-24,,Active,,5.8,65993,Yes,4,3,3,3,Company Website,12,2020,9
+1090,Anthony Jones,Male,44,Married,Bachelor's,Research & Development,Manufacturing Director,2023-10-16,2025-11-22,Terminated,Dismissal - Performance,2.1,65907,Yes,3,3,2,4,University Fair,14,2023,10
+1091,Naledi Perez,Female,25,Married,Diploma,Finance,Payroll Specialist,2019-09-08,,Active,,6.8,59876,No,1,3,2,4,LinkedIn,9,2019,9
+1092,Thabo Anderson,Male,43,Divorced,Diploma,Marketing,Marketing Manager,2023-10-10,,Active,,2.7,33008,Yes,5,3,4,3,Employee Referral,15,2023,10
+1093,Steven Nkosi,Male,42,Single,Bachelor's,IT,IT Support Specialist,2025-01-19,,Active,,1.4,62874,No,1,3,2,3,Recruitment Agency,7,2025,1
+1094,Lisa Smith,Female,36,Single,High School,Research & Development,Research Scientist,2020-01-05,,Active,,6.5,62608,No,7,4,2,2,Employee Referral,10,2020,1
+1095,Joshua Lewis,Male,42,Single,PhD,Sales,Sales Manager,2016-06-28,,Active,,10.0,51482,No,18,2,2,2,Employee Referral,6,2016,6
+1096,Emily Lopez,Female,38,Single,Master's,Sales,Sales Manager,2024-01-23,2024-09-17,Terminated,Retirement,0.7,44842,No,1,3,3,4,Employee Referral,6,2024,1
+1097,Anthony Johnson,Male,24,Single,Master's,Sales,Sales Manager,2026-03-19,2026-05-24,Terminated,Resignation - Better Opportunity,0.2,73139,No,3,3,3,3,Recruitment Agency,6,2026,3
+1098,Joseph Perez,Male,38,Divorced,Master's,Operations,Logistics Coordinator,2021-02-11,2022-08-16,Terminated,Retirement,1.5,55730,No,2,3,3,4,Employee Referral,5,2021,2
+1099,Kagiso van der Merwe,Male,57,Single,Diploma,Marketing,Marketing Specialist,2017-04-30,,Active,,9.2,45338,No,2,3,4,1,Employee Referral,8,2017,4
+1100,Anthony Zulu,Male,39,Divorced,Bachelor's,Research & Development,Research Director,2019-07-26,,Active,,6.9,53070,No,21,3,3,3,Employee Referral,14,2019,7
+1101,Robert van der Merwe,Male,34,Single,Diploma,Finance,Finance Manager,2024-11-08,,Active,,1.6,53489,No,6,4,3,3,LinkedIn,11,2024,11
+1102,Kenneth Rodriguez,Male,37,Married,Bachelor's,Marketing,Brand Manager,2018-05-07,,Active,,8.2,57161,No,1,3,3,3,Company Website,10,2018,5
+1103,Elizabeth Hernandez,Female,36,Single,Bachelor's,Human Resources,Recruiter,2021-08-04,,Active,,4.9,75279,Yes,10,3,2,3,Job Portal,13,2021,8
+1104,Ronald Mokoena,Male,43,Married,Diploma,IT,Systems Administrator,2021-04-24,,Active,,5.2,39212,Yes,12,3,2,2,Company Website,16,2021,4
+1105,Boitumelo Williams,Female,28,Married,Master's,Sales,Sales Representative,2021-01-25,,Active,,5.4,54575,Yes,3,2,3,3,Employee Referral,10,2021,1
+1106,Donna Ramirez,Female,29,Divorced,Bachelor's,Marketing,Marketing Manager,2025-06-12,,Active,,1.0,65638,No,4,3,4,2,LinkedIn,8,2025,6
+1107,Thomas Garcia,Male,35,Married,Bachelor's,Research & Development,Research Director,2018-07-31,,Active,,7.9,76559,No,4,3,1,2,University Fair,12,2018,7
+1108,Carol Ramirez,Female,20,Married,Bachelor's,Research & Development,Manufacturing Director,2020-08-02,2024-11-14,Terminated,Dismissal - Performance,4.3,53110,No,15,2,4,3,LinkedIn,7,2020,8
+1109,Matthew Lewis,Male,20,Married,Master's,Sales,Sales Executive,2020-01-10,,Active,,6.5,42353,No,8,2,3,3,University Fair,6,2020,1
+1110,Lwazi Zulu,Male,30,Single,Diploma,Finance,Finance Manager,2026-05-23,,Active,,0.1,48877,Yes,5,3,4,2,LinkedIn,10,2026,5
+1111,Ronald Williams,Male,38,Married,Bachelor's,Human Resources,Recruiter,2018-03-16,,Active,,8.3,46677,No,12,2,3,4,Job Portal,6,2018,3
+1112,Kenneth Gonzalez,Male,36,Divorced,Master's,IT,Data Analyst,2025-08-03,,Active,,0.9,62337,No,3,3,2,3,University Fair,15,2025,8
+1113,Dorothy Smith,Female,40,Married,Bachelor's,IT,IT Support Specialist,2025-03-22,,Active,,1.3,56507,Yes,1,3,3,3,Recruitment Agency,12,2025,3
+1114,Sanele Smith,Male,28,Single,Bachelor's,Human Resources,HR Manager,2025-09-14,,Active,,0.8,74168,No,3,3,3,1,Company Website,7,2025,9
+1115,Mark Nkosi,Male,41,Married,Master's,Sales,Account Manager,2024-02-07,,Active,,2.4,21308,Yes,3,3,3,2,LinkedIn,7,2024,2
+1116,Brian Gonzalez,Male,45,Divorced,Bachelor's,Research & Development,Manufacturing Director,2018-05-08,,Active,,8.2,25812,No,1,3,3,4,LinkedIn,8,2018,5
+1117,Ronald Rodriguez,Male,37,Single,Master's,Finance,Accountant,2019-06-05,,Active,,7.1,38941,Yes,2,3,2,3,Recruitment Agency,9,2019,6
+1118,Timothy Perez,Male,20,Divorced,Master's,Sales,Account Manager,2023-09-09,,Active,,2.8,36566,No,1,3,3,3,University Fair,12,2023,9
+1119,Donna Lee,Female,42,Married,PhD,Finance,Financial Analyst,2026-05-05,2026-07-04,Terminated,Resignation - Personal Reasons,0.2,22783,No,7,4,2,4,University Fair,8,2026,5
+1120,Naledi Sanchez,Female,39,Married,High School,Operations,Operations Manager,2020-05-19,,Active,,6.1,40579,Yes,3,3,2,2,Employee Referral,12,2020,5
+1121,Thandiwe Miller,Female,48,Single,Master's,Research & Development,Manufacturing Director,2023-03-02,,Active,,3.3,42474,No,1,4,3,4,Employee Referral,11,2023,3
+1122,Richard Ndlovu,Male,46,Single,Diploma,Sales,Account Manager,2016-04-19,,Active,,10.2,19770,Yes,2,2,4,1,Recruitment Agency,7,2016,4
+1123,Joshua Wilson,Male,22,Divorced,High School,Sales,Sales Executive,2021-02-05,,Active,,5.4,55990,No,4,3,4,3,LinkedIn,10,2021,2
+1124,Nancy Lee,Female,29,Single,Diploma,Marketing,Brand Manager,2020-05-20,,Active,,6.1,54551,No,3,2,3,4,Employee Referral,7,2020,5
+1125,Zanele Clark,Female,42,Married,Master's,Human Resources,HR Business Partner,2020-05-12,2022-11-03,Terminated,Resignation - Personal Reasons,2.5,49829,Yes,3,4,2,4,Recruitment Agency,13,2020,5
+1126,Thandiwe Hernandez,Female,30,Married,Bachelor's,Finance,Finance Manager,2022-08-03,2023-11-21,Terminated,Dismissal - Misconduct,1.3,53168,No,15,3,3,3,Job Portal,13,2022,8
+1127,Anthony Smith,Male,21,Divorced,Master's,Operations,Supply Chain Analyst,2016-09-19,,Active,,9.8,45515,No,1,3,4,4,Employee Referral,5,2016,9
+1128,Palesa Perez,Female,41,Single,Bachelor's,Marketing,Brand Manager,2021-02-27,,Active,,5.3,18000,No,4,3,2,1,Company Website,12,2021,2
+1129,David Jackson,Male,23,Divorced,Bachelor's,Finance,Payroll Specialist,2019-11-21,,Active,,6.6,53002,Yes,4,3,3,2,Job Portal,13,2019,11
+1130,Edward van der Merwe,Male,20,Divorced,Diploma,Marketing,Marketing Manager,2020-08-27,,Active,,5.8,31137,No,1,3,4,1,Company Website,13,2020,8
+1131,Ryan Robinson,Male,24,Married,Bachelor's,Research & Development,Laboratory Technician,2023-11-01,,Active,,2.7,51745,No,13,3,2,4,Company Website,9,2023,11
+1132,Robert Thomas,Male,44,Divorced,Master's,Marketing,Marketing Manager,2019-01-26,,Active,,7.4,36031,No,17,3,4,4,Job Portal,13,2019,1
+1133,Elizabeth Wilson,Female,40,Married,Bachelor's,Marketing,Brand Manager,2024-07-17,,Active,,2.0,60223,Yes,1,4,2,4,LinkedIn,16,2024,7
+1134,Susan Khumalo,Female,42,Married,Bachelor's,IT,IT Support Specialist,2020-08-06,,Active,,5.9,54549,No,4,2,4,4,Employee Referral,12,2020,8
+1135,Lwazi Williams,Male,30,Divorced,Bachelor's,Human Resources,HR Business Partner,2023-03-01,,Active,,3.3,45365,No,5,3,4,4,Recruitment Agency,6,2023,3
+1136,Deborah Perez,Female,41,Married,High School,IT,Data Analyst,2020-06-12,,Active,,6.1,18914,Yes,24,3,1,1,LinkedIn,15,2020,6
+1137,Sarah Lee,Female,49,Divorced,High School,Finance,Payroll Specialist,2021-06-08,2024-03-08,Terminated,Resignation - Better Opportunity,2.8,25538,No,4,2,3,2,Employee Referral,6,2021,6
+1138,Jacob Rodriguez,Male,41,Single,Diploma,Human Resources,Recruiter,2025-06-09,,Active,,1.1,66697,Yes,9,4,3,3,University Fair,10,2025,6
+1139,Susan Lopez,Female,20,Single,High School,Research & Development,Manufacturing Director,2017-11-20,,Active,,8.6,53078,No,17,2,4,3,Company Website,5,2017,11
+1140,Kimberly Martinez,Female,49,Divorced,Bachelor's,Research & Development,Laboratory Technician,2018-06-06,,Active,,8.1,69251,No,4,2,3,3,University Fair,11,2018,6
+1141,Betty Lewis,Female,45,Married,Bachelor's,IT,Software Engineer,2020-05-18,,Active,,6.1,33369,Yes,1,4,4,2,LinkedIn,6,2020,5
+1142,Mary Brown,Female,30,Single,Bachelor's,IT,Data Analyst,2018-10-19,,Active,,7.7,58646,No,8,2,2,3,Employee Referral,11,2018,10
+1143,David Johnson,Male,30,Divorced,Master's,Research & Development,Research Scientist,2019-10-12,,Active,,6.7,79569,No,37,4,1,3,Company Website,13,2019,10
+1144,William Anderson,Male,29,Divorced,Master's,Operations,Operations Analyst,2024-12-08,,Active,,1.6,60011,Yes,6,3,3,3,Employee Referral,4,2024,12
+1145,Daniel Williams,Male,49,Divorced,Bachelor's,Research & Development,Research Scientist,2025-02-22,,Active,,1.4,29362,No,1,3,4,4,Company Website,6,2025,2
+1146,Anthony van der Merwe,Male,28,Married,Diploma,Sales,Account Manager,2020-10-18,2021-08-21,Terminated,Resignation - Personal Reasons,0.8,37909,No,7,3,1,2,Job Portal,10,2020,10
+1147,Lisa Smith,Female,26,Married,Bachelor's,Research & Development,Research Director,2016-02-19,,Active,,10.4,55737,Yes,1,3,3,4,Employee Referral,5,2016,2
+1148,Elizabeth Moore,Female,29,Single,High School,Finance,Finance Manager,2016-06-28,,Active,,10.0,68656,No,1,4,3,4,Recruitment Agency,10,2016,6
+1149,Donna Botha,Female,35,Divorced,Bachelor's,Human Resources,HR Business Partner,2023-12-28,,Active,,2.5,33908,No,1,4,4,2,Employee Referral,8,2023,12
+1150,Andrew Miller,Male,25,Divorced,Master's,Finance,Payroll Specialist,2023-08-08,,Active,,2.9,54737,No,4,3,3,3,Employee Referral,8,2023,8
+1151,Riley Lopez,Non-Binary,28,Single,Bachelor's,Finance,Finance Manager,2025-07-19,,Active,,0.9,53097,No,12,2,2,3,Job Portal,11,2025,7
+1152,Patricia Botha,Female,45,Divorced,Bachelor's,Marketing,Brand Manager,2020-04-15,,Active,,6.2,60337,No,4,3,4,4,Employee Referral,12,2020,4
+1153,Lerato Mahlangu,Female,38,Single,High School,IT,Software Engineer,2018-08-10,,Active,,7.9,56914,Yes,7,2,3,2,Job Portal,6,2018,8
+1154,Steven Ramirez,Male,28,Married,Diploma,IT,Software Engineer,2016-09-02,,Active,,9.8,48605,Yes,22,3,3,4,Job Portal,12,2016,9
+1155,Anthony Martinez,Male,51,Divorced,Master's,Research & Development,Research Scientist,2018-09-02,,Active,,7.8,65608,Yes,1,4,3,3,Recruitment Agency,13,2018,9
+1156,Carol Rodriguez,Female,44,Married,Bachelor's,Sales,Sales Executive,2021-11-03,2026-06-11,Terminated,Dismissal - Performance,4.6,62407,No,2,3,2,3,LinkedIn,9,2021,11
+1157,Paul Perez,Male,38,Divorced,High School,Research & Development,Laboratory Technician,2022-01-18,,Active,,4.4,49097,Yes,1,4,4,3,Employee Referral,15,2022,1
+1158,Sandra Botha,Female,20,Single,Bachelor's,Marketing,Content Strategist,2018-01-21,,Active,,8.4,71461,Yes,22,3,1,4,LinkedIn,17,2018,1
+1159,Nomvula Jones,Female,27,Single,PhD,Operations,Operations Analyst,2023-02-11,,Active,,3.4,80806,No,1,4,2,3,Employee Referral,6,2023,2
+1160,Barbara Lopez,Female,34,Married,Bachelor's,Finance,Accountant,2018-08-25,2024-07-02,Terminated,Resignation - Better Opportunity,5.9,29371,No,8,2,4,2,Job Portal,7,2018,8
+1161,Nancy Gonzalez,Female,38,Married,Diploma,Sales,Sales Representative,2022-10-17,2024-05-08,Terminated,Retirement,1.6,65999,No,2,3,4,3,Company Website,12,2022,10
+1162,Margaret Moore,Female,45,Married,PhD,Marketing,Brand Manager,2016-11-23,,Active,,9.6,41733,No,1,3,3,3,Recruitment Agency,8,2016,11
+1163,Jason Hernandez,Male,38,Married,Bachelor's,Human Resources,HR Analyst,2021-08-31,,Active,,4.8,71734,Yes,4,3,3,4,Employee Referral,9,2021,8
+1164,Thandiwe Johnson,Female,29,Single,Bachelor's,IT,Systems Administrator,2025-07-30,2025-11-09,Terminated,Retirement,0.3,27364,No,4,4,3,4,University Fair,5,2025,7
+1165,Lisa Taylor,Female,47,Divorced,Diploma,Research & Development,Research Director,2021-01-31,,Active,,5.4,34737,Yes,17,3,4,4,University Fair,12,2021,1
+1166,Thandiwe Jones,Female,51,Single,Diploma,Research & Development,Manufacturing Director,2018-03-12,,Active,,8.3,64312,No,8,2,3,2,LinkedIn,9,2018,3
+1167,James Khumalo,Male,32,Divorced,Master's,IT,IT Support Specialist,2021-07-05,2023-12-10,Terminated,Dismissal - Performance,2.4,75282,No,3,3,2,4,Job Portal,13,2021,7
+1168,Jason Dlamini,Male,46,Single,Master's,Research & Development,Research Scientist,2020-08-01,,Active,,5.9,61769,Yes,2,3,4,3,Recruitment Agency,4,2020,8
+1169,Naledi Hernandez,Female,27,Divorced,Master's,Sales,Account Manager,2018-11-11,,Active,,7.6,52733,No,8,4,2,4,Job Portal,7,2018,11
+1170,Lerato Dlamini,Female,40,Married,High School,Finance,Finance Manager,2023-10-23,,Active,,2.7,67555,No,3,2,3,3,Recruitment Agency,12,2023,10
+1171,Steven Thomas,Male,32,Single,Bachelor's,Human Resources,Recruiter,2023-01-28,,Active,,3.4,82281,No,15,4,3,3,Company Website,11,2023,1
+1172,Charles Taylor,Male,40,Divorced,Diploma,Finance,Accountant,2018-11-07,,Active,,7.6,72600,Yes,22,3,3,2,Company Website,11,2018,11
+1173,Taylor Smith,Non-Binary,46,Single,Bachelor's,Sales,Sales Executive,2023-03-24,2025-07-18,Terminated,Dismissal - Performance,2.3,44632,No,27,4,4,4,University Fair,4,2023,3
+1174,Margaret Ramirez,Female,29,Divorced,Bachelor's,Sales,Account Manager,2018-11-01,,Active,,7.7,57683,No,6,3,4,3,University Fair,8,2018,11
+1175,Jason Mahlangu,Male,34,Divorced,Master's,Research & Development,Manufacturing Director,2024-06-09,,Active,,2.1,39327,No,27,3,4,3,LinkedIn,5,2024,6
+1176,Susan Molefe,Female,34,Divorced,Diploma,IT,IT Support Specialist,2025-02-17,,Active,,1.4,43356,No,15,3,4,3,Employee Referral,9,2025,2
+1177,Edward Martin,Male,40,Divorced,High School,Sales,Sales Representative,2025-02-25,2026-01-02,Terminated,Resignation - Better Opportunity,0.9,35797,No,2,2,4,2,Recruitment Agency,4,2025,2
+1178,Palesa Clark,Female,20,Single,Diploma,Finance,Payroll Specialist,2017-11-29,,Active,,8.6,40408,No,7,3,4,4,Company Website,11,2017,11
+1179,Sarah Gonzalez,Female,40,Single,Bachelor's,Human Resources,HR Business Partner,2021-01-19,,Active,,5.4,54142,Yes,21,4,3,3,Employee Referral,13,2021,1
+1180,Anthony Brown,Male,37,Married,PhD,IT,Data Analyst,2018-11-28,,Active,,7.6,36708,No,16,4,3,4,Recruitment Agency,10,2018,11
+1181,Susan Hernandez,Female,28,Single,Diploma,Sales,Sales Executive,2020-03-27,,Active,,6.3,49803,Yes,2,2,4,2,Job Portal,14,2020,3
+1182,Patricia Mahlangu,Female,37,Single,Master's,Sales,Account Manager,2023-07-18,,Active,,3.0,62346,No,11,3,4,3,LinkedIn,5,2023,7
+1183,Kimberly Smith,Female,21,Single,Diploma,Finance,Financial Analyst,2017-01-31,,Active,,9.4,44702,Yes,1,3,2,2,Recruitment Agency,16,2017,1
+1184,Palesa Moore,Female,31,Married,Bachelor's,Operations,Supply Chain Analyst,2024-06-27,,Active,,2.0,50593,No,1,4,2,2,Job Portal,12,2024,6
+1185,Ronald Perez,Male,27,Married,Bachelor's,Operations,Operations Manager,2020-01-19,,Active,,6.4,69873,No,1,3,3,3,University Fair,10,2020,1
+1186,Linda Thompson,Female,47,Divorced,Bachelor's,Marketing,Marketing Specialist,2016-01-13,,Active,,10.5,49729,No,2,3,3,4,Recruitment Agency,10,2016,1
+1187,Sarah Johnson,Female,47,Single,Master's,Finance,Finance Manager,2023-11-04,,Active,,2.7,35275,Yes,7,3,4,3,Job Portal,8,2023,11
+1188,Laura van der Merwe,Female,35,Single,Bachelor's,IT,Systems Administrator,2021-10-10,,Active,,4.7,58721,Yes,10,3,3,4,LinkedIn,12,2021,10
+1189,Brian Johnson,Male,47,Divorced,Bachelor's,Finance,Financial Analyst,2025-01-20,,Active,,1.4,41752,No,8,2,3,2,Recruitment Agency,4,2025,1
+1190,Paul Botha,Male,21,Married,Bachelor's,Human Resources,HR Business Partner,2019-11-27,,Active,,6.6,50427,No,3,4,3,3,Company Website,1,2019,11
+1191,Richard Harris,Male,34,Divorced,Diploma,Research & Development,Laboratory Technician,2023-12-26,,Active,,2.5,48764,No,8,4,2,3,University Fair,5,2023,12
+1192,Lerato Williams,Female,36,Divorced,Master's,Sales,Sales Executive,2019-05-19,,Active,,7.1,64882,Yes,2,3,3,4,Recruitment Agency,9,2019,5
+1193,Nancy Lewis,Female,37,Single,Bachelor's,Operations,Supply Chain Analyst,2023-06-07,,Active,,3.1,44777,No,9,2,2,4,Employee Referral,13,2023,6
+1194,Nancy Garcia,Female,27,Single,Master's,Sales,Sales Executive,2017-10-18,2021-08-15,Terminated,Dismissal - Performance,3.8,44882,No,7,4,3,3,Company Website,3,2017,10
+1195,Andrew Nkosi,Male,42,Divorced,Diploma,Operations,Operations Analyst,2023-06-18,,Active,,3.0,48880,No,4,3,3,4,Company Website,6,2023,6
+1196,Nomvula Garcia,Female,21,Divorced,Diploma,IT,IT Support Specialist,2025-10-11,,Active,,0.7,20811,Yes,1,4,4,3,University Fair,9,2025,10
+1197,Elizabeth Perez,Female,27,Divorced,Bachelor's,Research & Development,Manufacturing Director,2023-05-02,,Active,,3.2,44186,No,3,3,3,3,Recruitment Agency,10,2023,5
+1198,Paul Anderson,Male,41,Divorced,Bachelor's,Sales,Sales Manager,2016-12-25,2018-05-25,Terminated,Resignation - Better Opportunity,1.4,57741,No,1,2,3,2,Employee Referral,9,2016,12
+1199,Jessica Molefe,Female,36,Single,Bachelor's,Research & Development,Research Director,2020-04-06,,Active,,6.2,85301,No,3,3,3,2,Job Portal,5,2020,4
+1200,Alex Mahlangu,Non-Binary,39,Married,Bachelor's,Human Resources,HR Analyst,2020-10-01,,Active,,5.7,67278,No,32,3,2,3,Company Website,9,2020,10
