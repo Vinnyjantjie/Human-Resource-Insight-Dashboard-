@@ -104,3 +104,7 @@ A summary landing page with headline KPI cards so a viewer gets the full picture
 2. **Absenteeism correlates strongly with low job satisfaction and overtime** which is an early warning system based on these two fields could flag at risk employees before they become long term absence cases.
 3. **Gender representation and pay are currently balanced** across the workforce and in leadership roles which are a positive finding worth monitoring rather than a fixed state to assume.
 4. **Hiring has been stable and diversified across sources** and net headcount is growing while the business is not in a hiring crisis but Sales attrition is quietly offsetting some of that growth.
+
+
+Contact
+Vinny Shongwe — Data Analyst 📧 Vinnyjantjie@gmail.com
